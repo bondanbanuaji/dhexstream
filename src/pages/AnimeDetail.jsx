@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useFetch } from '../hooks/useFetch';
 import { useGsap, animatePageIn } from '../hooks/useGsap';
-import { Play, Calendar, Star, Clock, Layers } from 'lucide-react';
+import { Play, Calendar, Star, Clock, Layers, CheckCircle } from 'lucide-react';
 
 const AnimeDetail = () => {
     const { id } = useParams();
@@ -76,7 +76,8 @@ const AnimeDetail = () => {
                             <span className="flex items-center gap-1"><Calendar size={16} className="text-dhex-accent" /> {anime.releaseDate || 'Unknown'}</span>
                             <span className="flex items-center gap-1"><Star size={16} className="text-yellow-500" /> {anime.rating || 'N/A'}</span>
                             <span className="flex items-center gap-1"><Layers size={16} /> {anime.type || 'TV'}</span>
-                            <span className="px-2 py-0.5 rounded bg-dhex-bg-secondary border border-white/10 text-xs text-white">
+                            <span className={`px-2 py-0.5 rounded bg-dhex-bg-secondary border border-white/10 text-xs flex items-center gap-1 ${anime.status?.toLowerCase().includes('complete') ? 'text-green-500 border-green-500/30' : 'text-white'}`}>
+                                {anime.status?.toLowerCase().includes('complete') && <CheckCircle size={12} />}
                                 {anime.status || 'Ongoing'}
                             </span>
                         </div>

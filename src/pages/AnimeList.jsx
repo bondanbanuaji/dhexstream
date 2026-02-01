@@ -59,7 +59,7 @@ const AnimeList = ({ type }) => {
         <div className="container mx-auto px-6 py-10 min-h-screen">
             <div className="text-center mb-10">
                 <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 flex items-center justify-center gap-3">
-                    <Icon className="text-dhex-accent" size={32} />
+                    <Icon className='text-green-500' size={32} />
                     {title}
                 </h1>
                 <p className="text-gray-400">Page {page}</p>
@@ -68,7 +68,7 @@ const AnimeList = ({ type }) => {
             {animeList.length === 0 ? (
                 <div className="text-center text-gray-400">No anime found (or end of list).</div>
             ) : (
-                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 md:gap-6">
                     {animeList.map((anime, idx) => (
                         <div key={idx} className="animate-fade-in-up" style={{ animationDelay: `${idx * 0.05}s` }}>
                             <AnimeCard anime={anime} />
@@ -83,8 +83,8 @@ const AnimeList = ({ type }) => {
                     onClick={() => handlePageChange(page - 1)}
                     disabled={!pagination.hasPrevPage}
                     className={`px-4 py-2 rounded-full flex items-center gap-2 transition-colors ${!pagination.hasPrevPage
-                            ? 'bg-dhex-bg-secondary text-gray-600 cursor-not-allowed'
-                            : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white'
+                        ? 'bg-dhex-bg-secondary text-gray-600 cursor-not-allowed'
+                        : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white'
                         }`}
                 >
                     <ChevronLeft size={18} /> Prev
@@ -100,8 +100,8 @@ const AnimeList = ({ type }) => {
                     onClick={() => handlePageChange(page + 1)}
                     disabled={!pagination.hasNextPage}
                     className={`px-4 py-2 rounded-full flex items-center gap-2 transition-colors ${!pagination.hasNextPage
-                            ? 'bg-dhex-bg-secondary text-gray-600 cursor-not-allowed'
-                            : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white'
+                        ? 'bg-dhex-bg-secondary text-gray-600 cursor-not-allowed'
+                        : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white'
                         }`}
                 >
                     Next <ChevronRight size={18} />
