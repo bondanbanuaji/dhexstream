@@ -144,13 +144,13 @@ const AnimeList = ({ type }) => {
             {totalPages > 1 && (
                 <div className="mt-16 space-y-8">
                     <div className="flex justify-center items-center gap-2 flex-wrap">
-                        {/* First Page Button - Hidden on tiny screens */}
+                        {/* First Page Button - Visible on larger screens */}
                         <button
                             onClick={() => handlePageChange(1)}
                             disabled={!hasPrevPage}
-                            className={`w-10 h-10 rounded-xl hidden sm:flex items-center justify-center transition-all duration-500 ${!hasPrevPage
+                            className={`w-10 h-10 rounded-xl hidden md:flex items-center justify-center transition-all duration-300 ${!hasPrevPage
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
-                                : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white hover:scale-110 active:scale-95 hover:rotate-[-5deg] border border-white/5 hover:border-white/20'
+                                : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/5 hover:border-white/20'
                                 }`}
                             title="First Page"
                         >
@@ -161,13 +161,14 @@ const AnimeList = ({ type }) => {
                         <button
                             onClick={() => handlePageChange(currentPage - 1)}
                             disabled={!hasPrevPage}
-                            className={`w-12 h-12 md:w-14 md:h-14 rounded-2xl flex items-center justify-center transition-all duration-500 ${!hasPrevPage
+                            className={`w-10 h-10 md:w-14 md:h-14 rounded-xl md:rounded-2xl flex items-center justify-center transition-all duration-300 ${!hasPrevPage
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
-                                : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/20 hover:scale-110 active:scale-90 hover:rotate-[-10deg] border border-white/10'
+                                : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/20 active:scale-95 border border-white/10'
                                 }`}
                             title="Previous Page"
                         >
-                            <ChevronLeft size={24} />
+                            <ChevronLeft size={20} className="md:hidden" />
+                            <ChevronLeft size={24} className="hidden md:block" />
                         </button>
 
                         {/* Page Numbers */}
@@ -221,9 +222,9 @@ const AnimeList = ({ type }) => {
                                             key={pageNum}
                                             onClick={() => handlePageChange(pageNum)}
                                             disabled={isActive}
-                                            className={`min-w-[40px] md:min-w-[50px] h-10 md:h-12 px-3 rounded-xl md:rounded-2xl transition-all duration-500 text-sm md:text-base font-bold ${isActive
-                                                ? 'bg-gradient-to-br from-dhex-accent to-pink-500 text-white shadow-xl shadow-dhex-accent/40 scale-105 cursor-default'
-                                                : 'text-gray-400 hover:bg-white/10 hover:text-white hover:scale-105 active:scale-90'
+                                            className={`min-w-[36px] md:min-w-[50px] h-9 md:h-12 px-2 md:px-3 rounded-lg md:rounded-2xl transition-all duration-300 text-xs md:text-base font-bold ${isActive
+                                                ? 'bg-gradient-to-br from-dhex-accent to-pink-500 text-white shadow-xl shadow-dhex-accent/40 cursor-default'
+                                                : 'text-gray-400 hover:bg-white/10 hover:text-white active:scale-95'
                                                 }`}
                                         >
                                             {pageNum}
@@ -237,22 +238,23 @@ const AnimeList = ({ type }) => {
                         <button
                             onClick={() => handlePageChange(currentPage + 1)}
                             disabled={!hasNextPage}
-                            className={`w-12 h-12 md:w-14 md:h-14 rounded-2xl flex items-center justify-center transition-all duration-500 ${!hasNextPage
+                            className={`w-10 h-10 md:w-14 md:h-14 rounded-xl md:rounded-2xl flex items-center justify-center transition-all duration-300 ${!hasNextPage
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
-                                : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/20 hover:scale-110 active:scale-90 hover:rotate-[10deg] border border-white/10'
+                                : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/20 active:scale-95 border border-white/10'
                                 }`}
                             title="Next Page"
                         >
-                            <ChevronRight size={24} />
+                            <ChevronRight size={20} className="md:hidden" />
+                            <ChevronRight size={24} className="hidden md:block" />
                         </button>
 
-                        {/* Last Page Button - Hidden on tiny screens */}
+                        {/* Last Page Button - Visible on larger screens */}
                         <button
                             onClick={() => handlePageChange(totalPages)}
                             disabled={!hasNextPage}
-                            className={`w-10 h-10 rounded-xl hidden sm:flex items-center justify-center transition-all duration-500 ${!hasNextPage
+                            className={`w-10 h-10 rounded-xl hidden md:flex items-center justify-center transition-all duration-300 ${!hasNextPage
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
-                                : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white hover:scale-110 active:scale-95 hover:rotate-[5deg] border border-white/5 hover:border-white/20'
+                                : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/5 hover:border-white/20'
                                 }`}
                             title="Last Page"
                         >

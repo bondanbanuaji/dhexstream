@@ -121,8 +121,7 @@ const AnimeDetail = () => {
                             ) : (
                                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                                     {[...episodes].reverse().map((ep, index) => {
-                                        // Setelah reverse, index 0 = Episode 1, index 1 = Episode 2, dst
-                                        const episodeNumber = index + 1;
+                                        const episodeNumber = episodes.length - index;
                                         return (
                                             <Link
                                                 key={ep.episodeId}
