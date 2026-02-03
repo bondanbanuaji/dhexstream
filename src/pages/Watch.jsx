@@ -9,7 +9,6 @@ const Watch = () => {
     const [streamUrl, setStreamUrl] = useState('');
 
     // Fetch episode stream data
-    // ep param here corresponds to the actual episode ID needed by the backend
     const { data: streamData, loading: streamLoading, error: streamError } = useFetch('episode', { ep });
 
     // Fetch Anime Details for sidebar context and episode list
@@ -49,8 +48,6 @@ const Watch = () => {
     // Data extraction
     const episodes = animeData?.data?.episodeList || [];
     const episodeTitle = streamData?.data?.title || `Episode ${ep}`;
-    // Server structure based on streaming.php legacy code investigation
-    // structure: data -> server -> qualities -> [ { title: '...', serverList: [...] } ]
     const servers = streamData?.data?.server?.qualities || [];
 
     return (
@@ -98,10 +95,11 @@ const Watch = () => {
                                             <button
                                                 key={server.serverId}
                                                 onClick={() => handleServerChange(server.serverId)}
-                                                className={`px-3 py-1 rounded text-xs font-semibold uppercase transition-colors ${currentServer === server.serverId
+                                                className={`px-3 py-1 rounded text-xs font-semibold uppercase transition-colors ${
+                                                    currentServer === server.serverId
                                                         ? 'bg-dhex-accent text-white shadow-lg'
                                                         : 'bg-white/10 hover:bg-white/20 text-gray-300'
-                                                    }`}
+                                                }`}
                                             >
                                                 {server.serverName || server.title || `Server ${sIdx + 1}`}
                                             </button>
@@ -124,26 +122,35 @@ const Watch = () => {
                         </div>
 
                         <div className="overflow-y-auto flex-grow p-2 space-y-2 custom-scrollbar">
-                            {episodes.map((episode, idx) => (
-                                <Link
-                                    key={episode.episodeId}
-                                    to={`/watch/${id}/${episode.episodeId}`}
-                                    className={`block p-3 rounded-lg transition-all ${episode.episodeId === ep
-                                            ? 'bg-dhex-accent text-white shadow-lg'
-                                            : 'bg-dhex-bg hover:bg-white/5 text-gray-400 hover:text-white'
+                            {[...episodes].reverse().map((episode, index) => {
+                                // Episode 1 ada di index 0 setelah reverse
+                                // Episode 2 ada di index 1, dst
+                                const episodeNumber = index + 1;
+                                
+                                return (
+                                    <Link
+                                        key={episode.episodeId}
+                                        to={`/watch/${id}/${episode.episodeId}`}
+                                        className={`block p-3 rounded-lg transition-all ${
+                                            episode.episodeId === ep
+                                                ? 'bg-dhex-accent text-white shadow-lg'
+                                                : 'bg-dhex-bg hover:bg-white/5 text-gray-400 hover:text-white'
                                         }`}
-                                >
-                                    <div className="flex items-center justify-between">
-                                        <span className="font-medium text-sm">Episode {episode.number || idx + 1}</span>
-                                        {episode.episodeId === ep && (
-                                            <span className="text-xs bg-black/20 px-2 py-0.5 rounded">Playing</span>
-                                        )}
-                                    </div>
-                                    <div className="text-xs opacity-70 truncate mt-1">
-                                        {episode.title || 'Untitled Episode'}
-                                    </div>
-                                </Link>
-                            ))}
+                                    >
+                                        <div className="flex items-center justify-between">
+                                            <span className="font-medium text-sm">
+                                                Episode {episode.number || episodeNumber}
+                                            </span>
+                                            {episode.episodeId === ep && (
+                                                <span className="text-xs bg-black/20 px-2 py-0.5 rounded">Playing</span>
+                                            )}
+                                        </div>
+                                        <div className="text-xs opacity-70 truncate mt-1">
+                                            {episode.title || `Episode ${episodeNumber}`}
+                                        </div>
+                                    </Link>
+                                );
+                            })}
                         </div>
                     </div>
                 </div>

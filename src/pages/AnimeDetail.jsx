@@ -100,8 +100,8 @@ const AnimeDetail = () => {
                         {/* Action Buttons */}
                         <div className="flex gap-4 mb-10">
                             {episodes.length > 0 && (
-                                <Link 
-                                    to={`/watch/${id}/${episodes[episodes.length - 1].episodeId}`} 
+                                <Link
+                                    to={`/watch/${id}/${episodes[episodes.length - 1].episodeId}`}
                                     className="px-8 py-3 bg-dhex-accent hover:bg-dhex-accent-hover text-white rounded-lg font-semibold flex items-center gap-2 transition-all hover:scale-105 shadow-lg shadow-dhex-accent/20"
                                 >
                                     <Play size={20} fill="currentColor" /> Start Watching
@@ -121,6 +121,7 @@ const AnimeDetail = () => {
                             ) : (
                                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                                     {[...episodes].reverse().map((ep, index) => {
+                                        // Setelah reverse, index 0 = Episode 1, index 1 = Episode 2, dst
                                         const episodeNumber = index + 1;
                                         return (
                                             <Link
