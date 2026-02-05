@@ -4,4 +4,5 @@
     require_once "tools.php";
     DhexConfig::load();
     loadDhex(dirname(__DIR__) . '/.dhex');
+
 ?>

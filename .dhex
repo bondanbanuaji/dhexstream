@@ -4,4 +4,4 @@ app_name=MyApp
 #contoh: url = localhost/dhexstream, maka input dhexstream
 #jika tidak ada maka cukup slash atau "/"
 
-app_url=dhexstream
+app_url=stream

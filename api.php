@@ -8,6 +8,11 @@ $endpoint = $_GET['endpoint'] ?? '';
 $id = $_GET['id'] ?? '';
 $page = $_GET['page'] ?? 1;
 
+$userId = getRecentUserId();
+$file   = 'data/recent.json';
+$json   = loadRecentJson($file);
+
+
 try {
     switch ($endpoint) {
         case 'home':
@@ -36,6 +41,18 @@ try {
                 $data = get("episode/$ep");
                 echo json_encode($data);
             }
+            $pos = get('anime/'. $data['data']['animeId']);
+            $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+            $segments = array_values(array_filter(explode('/', $path)));
+            $href = $data['data']['animeId'] . '/' . $ep;
+            $newRecent = [
+                "title"   => $data['data']['title'],
+                "animeId" => $data['data']['animeId'],
+                "poster"  => $pos['data']['poster'],
+                "href"    => $href
+            ];
+            addRecent($json, $userId, $newRecent);
+            saveRecentJson($file, $json);
             break;
 
         case 'schedule':

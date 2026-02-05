@@ -134,3 +134,134 @@ function parse($index)
 
     return $segments[$index] ?? null;
 }
+
+function getRecentUserId(
+    string $cookieName = 'recent_user_id',
+    int $days = 30
+): string {
+    if (!isset($_COOKIE[$cookieName])) {
+        $userId = time() . random_int(1000, 9999);
+
+        setcookie(
+            $cookieName,
+            $userId,
+            time() + (86400 * $days),
+            "/",
+            "",
+            false,
+            true
+        );
+
+        $_COOKIE[$cookieName] = $userId;
+        return $userId;
+    }
+
+    return $_COOKIE[$cookieName];
+}
+function loadRecentJson(string $file): array {
+    if (!file_exists($file)) {
+        file_put_contents(
+            $file,
+            json_encode(["data" => []], JSON_PRETTY_PRINT)
+        );
+    }
+
+    $content = file_get_contents($file);
+    $json = json_decode($content, true);
+
+    return is_array($json) ? $json : ["data" => []];
+}
+function saveRecentJson(string $file, array $data): void {
+    $fp = fopen($file, 'c+');
+
+    if (!$fp) return;
+
+    flock($fp, LOCK_EX);
+    ftruncate($fp, 0);
+    fwrite(
+        $fp,
+        json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+    );
+    fflush($fp);
+    flock($fp, LOCK_UN);
+    fclose($fp);
+}
+function timeAgo(int $timestamp): string {
+    $diff = time() - $timestamp;
+
+    if ($diff < 60) return 'baru saja';
+    if ($diff < 3600) return floor($diff / 60) . ' menit lalu';
+    if ($diff < 86400) return floor($diff / 3600) . ' jam lalu';
+    if ($diff < 604800) return floor($diff / 86400) . ' hari lalu';
+
+    return date('d M Y', $timestamp);
+}
+function addRecent(
+    array &$json,
+    string $userId,
+    array $newRecent,
+    int $limit = 6
+): void {
+    $newRecent['time'] = timeAgo(time());
+
+    $foundUser  = false;
+    $foundAnime = false;
+
+    foreach ($json['data'] as &$user) {
+        if ($user['id'] == $userId) {
+            $foundUser = true;
+
+            foreach ($user['recent'] as $index => &$recent) {
+                if ($recent['animeId'] === $newRecent['animeId']) {
+
+                    // update data yang boleh berubah
+                    $recent['href']  = $newRecent['href'];
+                    $recent['title'] = $newRecent['title'];
+                    $recent['time']  = $newRecent['time'];
+
+                    // pindahkan ke paling depan
+                    unset($user['recent'][$index]);
+                    array_unshift($user['recent'], $recent);
+
+                    $foundAnime = true;
+                    break;
+                }
+            }
+
+            unset($recent);
+
+            // kalau animeId belum ada → tambah baru
+            if (!$foundAnime) {
+                array_unshift($user['recent'], $newRecent);
+            }
+
+            // batasi maksimal 6 (hapus yang paling lama)
+            if (count($user['recent']) > $limit) {
+                $user['recent'] = array_slice($user['recent'], 0, $limit);
+            }
+
+            break;
+        }
+    }
+
+    unset($user);
+
+    // user belum ada sama sekali
+    if (!$foundUser) {
+        $json['data'][] = [
+            "id"     => $userId,
+            "recent" => [$newRecent]
+        ];
+    }
+}
+
+
+
+function getUserRecent(array $json, string $userId): array {
+    foreach ($json['data'] as $user) {
+        if ($user['id'] == $userId) {
+            return $user['recent'];
+        }
+    }
+    return [];
+}
