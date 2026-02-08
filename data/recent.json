@@ -1,3 +1,24 @@
 {
-    "data": []
+    "data": [
+        {
+            "id": "17705476075100",
+            "last_active": 1770548250,
+            "recent": [
+                {
+                    "title": "Enen no Shouboutai: San no Shou Part 2 Episode 2 Subtitle Indonesia",
+                    "animeId": "enen-shouboutai-season-3-p2-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/152472.jpg",
+                    "href": "enen-shouboutai-season-3-p2-sub-indo/nnshbti-s3-p2-episode-2-sub-indo",
+                    "time": "baru saja"
+                },
+                {
+                    "title": "Wandance Episode 1 Subtitle Indonesia",
+                    "animeId": "wandnce-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Wandance-Sub-Indo.jpg",
+                    "href": "wandnce-sub-indo/wdnce-episode-1-sub-indo",
+                    "time": "baru saja"
+                }
+            ]
+        }
+    ]
 }

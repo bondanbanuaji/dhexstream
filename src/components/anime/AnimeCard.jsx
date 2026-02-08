@@ -1,6 +1,7 @@
 import React, { useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { Play } from 'lucide-react';
+import axios from 'axios';
 import { useGsap } from '../../hooks/useGsap';
 
 const AnimeCard = ({ anime, showLink = true }) => {
@@ -18,6 +19,18 @@ const AnimeCard = ({ anime, showLink = true }) => {
         gsap.to(cardRef.current, { y: 0, scale: 1, duration: 0.3, ease: 'power2.out' });
         gsap.to(cardRef.current.querySelector('.play-btn'), { opacity: 0, scale: 0.8, duration: 0.3 });
         gsap.to(cardRef.current.querySelector('.overlay'), { opacity: 0, duration: 0.3 });
+    };
+
+    const handleClick = async () => {
+        try {
+            await axios.post('/dhexstream/api.php?endpoint=log_recent', {
+                animeId: anime.animeId,
+                title: anime.title,
+                poster: anime.poster
+            });
+        } catch (error) {
+            console.error("Failed to log recent anime", error);
+        }
     };
 
     const CardContent = (
@@ -58,7 +71,7 @@ const AnimeCard = ({ anime, showLink = true }) => {
     );
 
     if (showLink) {
-        return <Link to={`/anime/${anime.animeId}`}>{CardContent}</Link>;
+        return <Link to={`/anime/${anime.animeId}`} onClick={handleClick}>{CardContent}</Link>;
     }
 
     return CardContent;

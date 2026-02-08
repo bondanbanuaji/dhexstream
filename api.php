@@ -9,8 +9,8 @@ $id = $_GET['id'] ?? '';
 $page = $_GET['page'] ?? 1;
 
 $userId = getRecentUserId();
-$file   = 'data/recent.json';
-$json   = loadRecentJson($file);
+$file = __DIR__ . '/data/recent.json';
+$json = loadRecentJson($file);
 
 
 try {
@@ -43,17 +43,17 @@ try {
             }
             cleanExpiredUsers($json, 7, 'hari');
 
-            $pos = get('anime/'. $data['data']['animeId']);
+            $pos = get('anime/' . $data['data']['animeId']);
             $href = $data['data']['animeId'] . '/' . $ep;
             $newRecent = [
-                "title"   => $data['data']['title'],
+                "title" => $data['data']['title'],
                 "animeId" => $data['data']['animeId'],
-                "poster"  => $pos['data']['poster'],
-                "href"    => $href
+                "poster" => $pos['data']['poster'],
+                "href" => $href
             ];
             addRecent($json, $userId, $newRecent);
             saveRecentJson($file, $json);
-            
+
             break;
 
         case 'schedule':
@@ -117,6 +117,39 @@ try {
                 $pageParam = $page > 1 ? "?page=$page" : "";
                 $data = get("genre/$id" . $pageParam);
                 echo json_encode($data);
+            }
+            break;
+
+        case 'log_recent':
+            // Get data from POST or GET
+            $input = json_decode(file_get_contents('php://input'), true);
+
+            $animeId = $input['animeId'] ?? $_GET['animeId'] ?? '';
+            $title = $input['title'] ?? $_GET['title'] ?? '';
+            $poster = $input['poster'] ?? $_GET['poster'] ?? '';
+            $href = $input['href'] ?? $_GET['href'] ?? '';
+
+            if (empty($animeId) || empty($title) || empty($poster)) {
+                http_response_code(400);
+                echo json_encode(['error' => 'Missing required fields (animeId, title, poster)']);
+            } else {
+                // If href is missing, generate default
+                if (empty($href)) {
+                    $href = "$animeId";
+                }
+
+                $newRecent = [
+                    "title" => $title,
+                    "animeId" => $animeId,
+                    "poster" => $poster,
+                    "href" => $href
+                ];
+
+                addRecent($json, $userId, $newRecent);
+                cleanExpiredUsers($json, 7, 'hari');
+                saveRecentJson($file, $json);
+
+                echo json_encode(['status' => 'success', 'data' => $newRecent]);
             }
             break;
 
