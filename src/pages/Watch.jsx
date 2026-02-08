@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { useFetch } from '../hooks/useFetch';
 import { ChevronLeft, LayoutList, Play, Zap, Server, ChevronRight, CheckCircle2 } from 'lucide-react';
 
+
 const Watch = () => {
     const { id, ep } = useParams();
     const [currentServer, setCurrentServer] = useState(null);
@@ -88,11 +89,11 @@ const Watch = () => {
 
     // Reverse episodes untuk urutan Episode 1, 2, 3, dst (ascending order)
     const reversedEpisodes = [...(episodes || [])].reverse();
-    
+
     // Find current episode number dari reversed array
     const currentEpisodeIndex = reversedEpisodes.findIndex(e => e && e.episodeId === ep);
     const currentEpNumber = currentEpisodeIndex >= 0 ? currentEpisodeIndex + 1 : 1;
-    
+
     // Navigation dalam urutan ascending (EP 1 -> EP 2 -> ... -> EP terbaru)
     // "Previous" = episode dengan nomor lebih kecil (lebih lama) = index lebih besar
     // "Next" = episode dengan nomor lebih besar (lebih baru) = index lebih kecil
@@ -121,13 +122,25 @@ const Watch = () => {
                             <div className="absolute -inset-1 bg-gradient-to-r from-dhex-accent via-purple-500 to-pink-500 rounded-2xl blur opacity-25 group-hover:opacity-40 transition duration-1000 group-hover:duration-200 animate-pulse"></div>
                             <div className="relative aspect-video bg-black rounded-xl overflow-hidden shadow-2xl border border-white/10">
                                 {streamUrl ? (
-                                    <iframe
-                                        src={streamUrl}
-                                        className="w-full h-full"
-                                        frameBorder="0"
-                                        allowFullScreen
-                                        title="Episode Player"
-                                    ></iframe>
+                                    streamUrl.endsWith('.mp4') || streamUrl.endsWith('.mkv') ? (
+                                        <video
+                                            src={streamUrl}
+                                            className="w-full h-full"
+                                            controls
+                                            autoPlay
+                                            playsInline
+                                        >
+                                            Your browser does not support the video tag.
+                                        </video>
+                                    ) : (
+                                        <iframe
+                                            src={streamUrl}
+                                            className="w-full h-full"
+                                            frameBorder="0"
+                                            allowFullScreen
+                                            title="Episode Player"
+                                        ></iframe>
+                                    )
                                 ) : (
                                     <div className="w-full h-full flex flex-col items-center justify-center text-gray-500 bg-gradient-to-br from-dhex-bg-secondary to-dhex-bg">
                                         <div className="relative mb-4">
@@ -169,6 +182,8 @@ const Watch = () => {
                                 </div>
                             </div>
                         </div>
+
+
 
                         {/* Episode Navigation */}
                         {reversedEpisodes.length > 0 && (
@@ -261,8 +276,8 @@ const Watch = () => {
                                                         onClick={() => handleServerChange(server.serverId)}
                                                         disabled={isChangingServer}
                                                         className={`group relative px-4 py-2.5 rounded-lg text-sm font-semibold uppercase transition-all disabled:opacity-50 disabled:cursor-not-allowed ${currentServer === server.serverId
-                                                                ? 'bg-gradient-to-r from-dhex-accent to-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/50'
-                                                                : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/10 hover:border-dhex-accent/50'
+                                                            ? 'bg-gradient-to-r from-dhex-accent to-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/50'
+                                                            : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/10 hover:border-dhex-accent/50'
                                                             }`}
                                                     >
                                                         {currentServer === server.serverId && (
@@ -310,8 +325,8 @@ const Watch = () => {
                                                 key={episode.episodeId}
                                                 to={`/watch/${id}/${episode.episodeId}`}
                                                 className={`group block p-3 rounded-lg transition-all relative overflow-hidden ${isActive
-                                                        ? 'bg-gradient-to-r from-dhex-accent to-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/30'
-                                                        : 'bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white border border-white/5 hover:border-dhex-accent/30'
+                                                    ? 'bg-gradient-to-r from-dhex-accent to-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/30'
+                                                    : 'bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white border border-white/5 hover:border-dhex-accent/30'
                                                     }`}
                                             >
                                                 {isActive && (
@@ -319,8 +334,8 @@ const Watch = () => {
                                                 )}
                                                 <div className="relative flex items-center gap-3">
                                                     <div className={`w-10 h-10 rounded-lg flex items-center justify-center font-bold text-sm flex-shrink-0 ${isActive
-                                                            ? 'bg-white/20'
-                                                            : 'bg-white/10 group-hover:bg-dhex-accent/20'
+                                                        ? 'bg-white/20'
+                                                        : 'bg-white/10 group-hover:bg-dhex-accent/20'
                                                         }`}>
                                                         {isActive ? (
                                                             <Play size={16} fill="currentColor" />

@@ -25,7 +25,8 @@ DHEX;
         $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 
         foreach ($lines as $line) {
-            if (str_starts_with(trim($line), '#')) continue;
+            if (str_starts_with(trim($line), '#'))
+                continue;
 
             [$key, $value] = array_pad(explode('=', $line, 2), 2, '');
             self::$config[trim($key)] = trim($value);
@@ -75,13 +76,13 @@ if (!function_exists('loadDhex')) {
 function rateLimit(int $limit = 50, int $interval = 60): bool
 {
     $file = __DIR__ . '/../data/rate_limit.json';
-    $now  = time();
+    $now = time();
 
     if (!file_exists($file)) {
         file_put_contents($file, json_encode([]));
     }
 
-    $raw  = file_get_contents($file);
+    $raw = file_get_contents($file);
     $data = json_decode($raw, true);
 
     // 🔥 FIX UTAMA
@@ -134,15 +135,16 @@ function parse($index)
 
     return $segments[$index] ?? null;
 }
-function timeToSeconds(int $value, string $unit): int {
+function timeToSeconds(int $value, string $unit): int
+{
     $unit = strtolower($unit);
 
     return match ($unit) {
         'detik', 'second', 'seconds' => $value,
         'menit', 'minute', 'minutes' => $value * 60,
-        'jam',   'hour',   'hours'   => $value * 3600,
-        'hari',  'day',    'days'    => $value * 86400,
-        'bulan', 'month',  'months'  => $value * 2592000, // 30 hari
+        'jam', 'hour', 'hours' => $value * 3600,
+        'hari', 'day', 'days' => $value * 86400,
+        'bulan', 'month', 'months' => $value * 2592000, // 30 hari
         default => 0
     };
 }
@@ -155,7 +157,8 @@ function cleanExpiredUsers(
     $expireSeconds = timeToSeconds($value, $unit);
     $now = time();
 
-    if ($expireSeconds <= 0) return;
+    if ($expireSeconds <= 0)
+        return;
 
     $json['data'] = array_values(array_filter(
         $json['data'],
@@ -191,7 +194,8 @@ function getRecentUserId(
 
     return $_COOKIE[$cookieName];
 }
-function loadRecentJson(string $file): array {
+function loadRecentJson(string $file): array
+{
     if (!file_exists($file)) {
         file_put_contents(
             $file,
@@ -204,10 +208,12 @@ function loadRecentJson(string $file): array {
 
     return is_array($json) ? $json : ["data" => []];
 }
-function saveRecentJson(string $file, array $data): void {
+function saveRecentJson(string $file, array $data): void
+{
     $fp = fopen($file, 'c+');
 
-    if (!$fp) return;
+    if (!$fp)
+        return;
 
     flock($fp, LOCK_EX);
     ftruncate($fp, 0);
@@ -219,13 +225,18 @@ function saveRecentJson(string $file, array $data): void {
     flock($fp, LOCK_UN);
     fclose($fp);
 }
-function timeAgo(int $timestamp): string {
+function timeAgo(int $timestamp): string
+{
     $diff = time() - $timestamp;
 
-    if ($diff < 60) return 'baru saja';
-    if ($diff < 3600) return floor($diff / 60) . ' menit lalu';
-    if ($diff < 86400) return floor($diff / 3600) . ' jam lalu';
-    if ($diff < 604800) return floor($diff / 86400) . ' hari lalu';
+    if ($diff < 60)
+        return 'baru saja';
+    if ($diff < 3600)
+        return floor($diff / 60) . ' menit lalu';
+    if ($diff < 86400)
+        return floor($diff / 3600) . ' jam lalu';
+    if ($diff < 604800)
+        return floor($diff / 86400) . ' hari lalu';
 
     return date('d M Y', $timestamp);
 }
@@ -238,7 +249,7 @@ function addRecent(
     $now = time();
     $newRecent['time'] = timeAgo($now);
 
-    $foundUser  = false;
+    $foundUser = false;
     $foundAnime = false;
 
     foreach ($json['data'] as &$user) {
@@ -252,9 +263,11 @@ function addRecent(
                 if ($recent['animeId'] === $newRecent['animeId']) {
 
                     // update field yang boleh berubah
-                    $recent['href']  = $newRecent['href'];
+                    $recent['href'] = $newRecent['href'];
                     $recent['title'] = $newRecent['title'];
-                    $recent['time']  = $newRecent['time'];
+                    $recent['time'] = $newRecent['time'];
+                    $recent['currentTime'] = $newRecent['currentTime'];
+                    $recent['duration'] = $newRecent['duration'];
 
                     // pindah ke paling depan
                     unset($user['recent'][$index]);
@@ -286,9 +299,9 @@ function addRecent(
     // user baru
     if (!$foundUser) {
         $json['data'][] = [
-            "id"          => $userId,
+            "id" => $userId,
             "last_active" => $now,
-            "recent"      => [$newRecent]
+            "recent" => [$newRecent]
         ];
     }
 }
@@ -296,7 +309,8 @@ function addRecent(
 
 
 
-function getUserRecent(array $json, string $userId): array {
+function getUserRecent(array $json, string $userId): array
+{
     foreach ($json['data'] as $user) {
         if ($user['id'] == $userId) {
             return $user['recent'];

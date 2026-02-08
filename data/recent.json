@@ -2,20 +2,75 @@
     "data": [
         {
             "id": "17705476075100",
-            "last_active": 1770548250,
+            "last_active": 1770552901,
             "recent": [
+                {
+                    "title": "SI-VIS: The Sound of Heroes Episode 5 Subtitle Indonesia",
+                    "animeId": "si-vis-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151178.jpg",
+                    "href": "si-vis-sub-indo/sivis-episode-5-sub-indo",
+                    "time": "baru saja",
+                    "currentTime": 104,
+                    "duration": 1440
+                },
+                {
+                    "title": "Jujutsu Kaisen Season 3 Episode 3 Subtitle Indonesia",
+                    "animeId": "jjk-s3-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154488.jpg",
+                    "href": "jjk-s3-sub-indo/jjtsu-ksn-s3-episode-3-sub-indo",
+                    "time": "baru saja",
+                    "currentTime": null,
+                    "duration": null
+                },
+                {
+                    "title": "Tensei shitara Dragon no Tamago datta Episode 2 Subtitle Indonesia",
+                    "animeId": "tensei-shitara-dragon-tamago-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Tensei-shitara-Dragon-no-Tamago-datta.jpg",
+                    "href": "tensei-shitara-dragon-tamago-sub-indo/tsdt-episode-2-sub-indo",
+                    "time": "baru saja",
+                    "currentTime": 291,
+                    "duration": 1440
+                },
+                {
+                    "title": "Trigun Stargaze Episode 5 Subtitle Indonesia",
+                    "animeId": "trigun-stargaze-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154541.jpg",
+                    "href": "trigun-stargaze-sub-indo/tgstz-episode-5-sub-indo",
+                    "time": "baru saja",
+                    "currentTime": 0,
+                    "duration": 0
+                },
                 {
                     "title": "Enen no Shouboutai: San no Shou Part 2 Episode 2 Subtitle Indonesia",
                     "animeId": "enen-shouboutai-season-3-p2-sub-indo",
                     "poster": "https://otakudesu.best/wp-content/uploads/2026/01/152472.jpg",
                     "href": "enen-shouboutai-season-3-p2-sub-indo/nnshbti-s3-p2-episode-2-sub-indo",
+                    "time": "baru saja",
+                    "currentTime": 0,
+                    "duration": 0
+                }
+            ]
+        },
+        {
+            "id": "17705472861714",
+            "last_active": 1770552577,
+            "recent": [
+                {
+                    "title": "Yasei no Last Boss ga Arawareta! Episode 1 Subtitle Indonesia",
+                    "animeId": "yasei-last-bos-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Yasei-no-Last-Boss-ga-Arawareta-Sub-Indo.jpg",
+                    "href": "yasei-last-bos-sub-indo/ynlbga-episode-1-sub-indo",
+                    "currentTime": 60,
+                    "duration": 1440,
                     "time": "baru saja"
                 },
                 {
-                    "title": "Wandance Episode 1 Subtitle Indonesia",
-                    "animeId": "wandnce-sub-indo",
-                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Wandance-Sub-Indo.jpg",
-                    "href": "wandnce-sub-indo/wdnce-episode-1-sub-indo",
+                    "title": "Kaya-chan wa Kowakunai",
+                    "animeId": "kaya-chan-kowakunai-sub-indo",
+                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153705.jpg",
+                    "href": "kaya-chan-kowakunai-sub-indo",
+                    "currentTime": 0,
+                    "duration": 0,
                     "time": "baru saja"
                 }
             ]

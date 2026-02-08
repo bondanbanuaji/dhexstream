@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { Zap, CheckCircle, ChevronRight } from 'lucide-react';
 import AnimeCard from '../components/anime/AnimeCard';
 import HeroSlider from '../components/home/HeroSlider';
+import RecentWatch from '../components/home/RecentWatch';
 
 const Home = () => {
     const { data: homeData, loading, error } = useFetch('home');
@@ -42,6 +43,9 @@ const Home = () => {
             {spotlightAnimes.length > 0 && (
                 <HeroSlider slides={spotlightAnimes} />
             )}
+
+            {/* Recent Watch Section */}
+            <RecentWatch />
 
             {/* Ongoing Anime Section */}
             <div className="container mx-auto px-6 py-16">

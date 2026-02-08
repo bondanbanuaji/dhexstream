@@ -20,6 +20,12 @@ try {
             echo json_encode($data);
             break;
 
+        case 'get_recent':
+            $recent = getUserRecent($json, $userId);
+            echo json_encode(['status' => 'success', 'data' => $recent]);
+            break;
+
+
         case 'anime':
             if (empty($id)) {
                 http_response_code(400);
@@ -138,11 +144,16 @@ try {
                     $href = "$animeId";
                 }
 
+                // Strip leading slash to prevent double slash in URLs
+                $href = ltrim($href, '/');
+
                 $newRecent = [
                     "title" => $title,
                     "animeId" => $animeId,
                     "poster" => $poster,
-                    "href" => $href
+                    "href" => $href,
+                    "currentTime" => $input['currentTime'] ?? $_GET['currentTime'] ?? 0,
+                    "duration" => $input['duration'] ?? $_GET['duration'] ?? 0
                 ];
 
                 addRecent($json, $userId, $newRecent);
