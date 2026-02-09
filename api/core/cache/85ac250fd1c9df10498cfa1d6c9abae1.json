@@ -1,0 +1,136 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "One Piece Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/05/One-Piece-Sub-Indo.jpg",
+        "status": "Ongoing",
+        "score": "8.54",
+        "animeId": "1piece-sub-indo",
+        "href": "/anime/anime/1piece-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/1piece-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      },
+      {
+        "title": "Horimiya: Piece (Episode 1 – 13) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/10/Horimiya-Piece-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.27",
+        "animeId": "hiroya-piece-sub-indo",
+        "href": "/anime/anime/hiroya-piece-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/hiroya-piece-sub-indo/",
+        "genreList": [
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Horimiya (Episode 1 – 13) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/01/Horimiya-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.32",
+        "animeId": "hiroya-sub-indo",
+        "href": "/anime/anime/hiroya-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/hiroya-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

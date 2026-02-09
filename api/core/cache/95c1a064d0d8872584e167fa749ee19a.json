@@ -1,0 +1,324 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Shingeki no Kyojin: The Final Season Part 2 (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2022/04/Shingeki-no-Kyojin-Season-4-Part-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.77",
+        "animeId": "snk-final-part2-sub-indo",
+        "href": "/anime/anime/snk-final-part2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/snk-final-part2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Gore",
+            "genreId": "gore",
+            "href": "/anime/genre/gore",
+            "otakudesuUrl": "https://otakudesu.best/genres/gore/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "Mystery",
+            "genreId": "mystery",
+            "href": "/anime/genre/mystery",
+            "otakudesuUrl": "https://otakudesu.best/genres/mystery/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      },
+      {
+        "title": "Shingeki no Kyojin: The Final Season (Episode 1 – 16) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2020/12/Shingeki-no-Kyojin-Season-4-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.81",
+        "animeId": "shingekyo-season-4-sub-indo",
+        "href": "/anime/anime/shingekyo-season-4-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/shingekyo-season-4-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Gore",
+            "genreId": "gore",
+            "href": "/anime/genre/gore",
+            "otakudesuUrl": "https://otakudesu.best/genres/gore/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Survival",
+            "genreId": "survival",
+            "href": "/anime/genre/survival",
+            "otakudesuUrl": "https://otakudesu.best/genres/survival/"
+          }
+        ]
+      },
+      {
+        "title": "Lycoris Recoil (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2022/09/Lycoris-Recoil-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.36",
+        "animeId": "lycoris-subtitle-indonesia",
+        "href": "/anime/anime/lycoris-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/lycoris-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      },
+      {
+        "title": "Shingeki no Kyojin S3 (Episode 1 – 22) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/10/Shingeki-no-Kyojin-Season-3-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.59",
+        "animeId": "shingekyo-season-3-subtitle-indonesia",
+        "href": "/anime/anime/shingekyo-season-3-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/shingekyo-season-3-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "Mystery",
+            "genreId": "mystery",
+            "href": "/anime/genre/mystery",
+            "otakudesuUrl": "https://otakudesu.best/genres/mystery/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      },
+      {
+        "title": "Shingeki no Kyojin OVA (Episode 1 – 5) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/04/Shingeki-no-Kyojin-OVA-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.14",
+        "animeId": "shingekyo-ova-subtitle-indonesia",
+        "href": "/anime/anime/shingekyo-ova-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/shingekyo-ova-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Shoujo",
+            "genreId": "shoujo",
+            "href": "/anime/genre/shoujo",
+            "otakudesuUrl": "https://otakudesu.best/genres/shoujo/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      },
+      {
+        "title": "Shingeki no Kyojin (Episode 1 – 25) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/04/Shingeki-no-Kyojin-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.51",
+        "animeId": "shingekyo-subtitle-indonesia",
+        "href": "/anime/anime/shingekyo-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/shingekyo-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      },
+      {
+        "title": "Shingeki no Kyojin Season 2 BD (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/05/Shingeki-no-Kyojin-Season-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.49",
+        "animeId": "shingekyo-season-2-subtitle-indonesia",
+        "href": "/anime/anime/shingekyo-season-2-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/shingekyo-season-2-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

@@ -1,0 +1,3784 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "One Piece",
+    "poster": "https://otakudesu.best/wp-content/uploads/2021/05/One-Piece-Sub-Indo.jpg",
+    "japanese": "ONE PIECE",
+    "score": "8.54",
+    "producers": "Fuji TV, TAP, Shueisha",
+    "type": "TV",
+    "status": "Ongoing",
+    "episodes": null,
+    "duration": "24 Menit",
+    "aired": "Oct 20, 1999",
+    "studios": "Toei Animation",
+    "batch": {
+      "title": "One Piece [BATCH] Subtitle Indonesia",
+      "batchId": "wpoiec-batch-sub-indo",
+      "href": "/anime/batch/wpoiec-batch-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/batch/wpoiec-batch-sub-indo/"
+    },
+    "synopsis": {
+      "paragraphs": [
+        "Dulu, ada seorang bajak laut terkenal di seluruh lautan bernama Gol D. Roger. Ia merupakan seorang raja bajak laut yang telah berlayar mengarungi seluruh Grand Line, sayangnya ia ditangkap pemerintah dan telah dieksekusi mati. Sesaat sebelum kematiannya, Ia mengumumkan kepada dunia bahwa dirinya menyimpan sebuah harta karun bernama One Piece, sebuah harta karun yang kini menjadi incaran seluruh bajak laut yang ada di dunia.",
+        "Di Era Bajak Laut saat ini, ada seorang remaja bernama Monkey D. Luffy yang memiliki cita-cita untuk menjadi seorang Raja Bajak Laut. Namun Luffy sadar bahwa ia tidak bisa melakukannya sendiri, sembari dalam perjalanan ia juga mencari kru dan bertemu dengan teman-temannya yang baru. Berbeda dengan bajak laut lain yang ganas dan jahat, Luffy bersama teman-temannya berlayar murni atas dasar petualangan serta mencari tempat tempat baru yang akan muncul di hadapan mereka.",
+        "Di perjalanan inilah cerita mereka dimulai, mampukan Luffy bersama teman-temannya mencapai impian mereka?",
+        "(Info: Episode sebelumnya akan ditambahkan secara berkala)"
+      ],
+      "connections": []
+    },
+    "genreList": [
+      {
+        "title": "Action",
+        "genreId": "action",
+        "href": "/anime/genre/action",
+        "otakudesuUrl": "https://otakudesu.best/genres/action/"
+      },
+      {
+        "title": "Adventure",
+        "genreId": "adventure",
+        "href": "/anime/genre/adventure",
+        "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+      },
+      {
+        "title": "Comedy",
+        "genreId": "comedy",
+        "href": "/anime/genre/comedy",
+        "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+      },
+      {
+        "title": "Drama",
+        "genreId": "drama",
+        "href": "/anime/genre/drama",
+        "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+      },
+      {
+        "title": "Fantasy",
+        "genreId": "fantasy",
+        "href": "/anime/genre/fantasy",
+        "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+      },
+      {
+        "title": "Shounen",
+        "genreId": "shounen",
+        "href": "/anime/genre/shounen",
+        "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+      },
+      {
+        "title": "Super Power",
+        "genreId": "super-power",
+        "href": "/anime/genre/super-power",
+        "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+      }
+    ],
+    "episodeList": [
+      {
+        "title": "One Piece Episode 1155 Subtitle Indonesia",
+        "eps": 1155,
+        "date": "29 Desember,2025",
+        "episodeId": "wpoiec-episode-1155-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1155-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1155-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1154 Subtitle Indonesia",
+        "eps": 1154,
+        "date": "22 Desember,2025",
+        "episodeId": "wpoiec-episode-1154-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1154-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1154-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1153 Subtitle Indonesia",
+        "eps": 1153,
+        "date": "15 Desember,2025",
+        "episodeId": "wpoiec-episode-1153-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1153-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1153-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1152 Subtitle Indonesia",
+        "eps": 1152,
+        "date": "8 Desember,2025",
+        "episodeId": "wpoiec-episode-1152-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1152-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1152-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1151 Subtitle Indonesia",
+        "eps": 1151,
+        "date": "1 Desember,2025",
+        "episodeId": "wpoiec-episode-1151-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1151-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1151-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1150 Subtitle Indonesia",
+        "eps": 1150,
+        "date": "17 November,2025",
+        "episodeId": "wpoiec-episode-1150-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1150-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1150-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1149 Subtitle Indonesia",
+        "eps": 1149,
+        "date": "10 November,2025",
+        "episodeId": "wpoiec-episode-1149-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1149-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1149-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1148 Subtitle Indonesia",
+        "eps": 1148,
+        "date": "3 November,2025",
+        "episodeId": "wpoiec-episode-1148-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1148-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1148-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1147 Subtitle Indonesia",
+        "eps": 1147,
+        "date": "27 Oktober,2025",
+        "episodeId": "wpoiec-episode-1147-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1147-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1147-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1146 Subtitle Indonesia",
+        "eps": 1146,
+        "date": "20 Oktober,2025",
+        "episodeId": "wpoiec-episode-1146-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1146-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1146-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1145 Subtitle Indonesia",
+        "eps": 1145,
+        "date": "29 September,2025",
+        "episodeId": "wpoiec-episode-1145-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1145-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1145-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1144 Subtitle Indonesia",
+        "eps": 1144,
+        "date": "22 September,2025",
+        "episodeId": "wpoiec-episode-1144-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1144-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1144-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1143 Subtitle Indonesia",
+        "eps": 1143,
+        "date": "15 September,2025",
+        "episodeId": "wpoiec-episode-1143-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1143-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1143-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1142 Subtitle Indonesia",
+        "eps": 1142,
+        "date": "8 September,2025",
+        "episodeId": "wpoiec-episode-1142-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1142-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1142-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1141 Subtitle Indonesia",
+        "eps": 1141,
+        "date": "25 Agustus,2025",
+        "episodeId": "wpoiec-episode-1141-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1141-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1141-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1140 Subtitle Indonesia",
+        "eps": 1140,
+        "date": "18 Agustus,2025",
+        "episodeId": "wpoiec-episode-1140-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1140-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1140-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1139 Subtitle Indonesia",
+        "eps": 1139,
+        "date": "10 Agustus,2025",
+        "episodeId": "wpoiec-episode-1139-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1139-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1139-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1138 Subtitle Indonesia",
+        "eps": 1138,
+        "date": "4 Agustus,2025",
+        "episodeId": "wpoiec-episode-1138-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1138-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1138-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1137 Subtitle Indonesia",
+        "eps": 1137,
+        "date": "28 Juli,2025",
+        "episodeId": "wpoiec-episode-1137-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1137-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1137-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1136 Subtitle Indonesia",
+        "eps": 1136,
+        "date": "14 Juli,2025",
+        "episodeId": "wpoiec-episode-1136-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1136-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1136-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1135 Subtitle Indonesia",
+        "eps": 1135,
+        "date": "7 Juli,2025",
+        "episodeId": "wpoiec-episode-1135-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1135-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1135-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1134 Subtitle Indonesia",
+        "eps": 1134,
+        "date": "30 Juni,2025",
+        "episodeId": "wpoiec-episode-1134-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1134-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1134-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1133 Subtitle Indonesia",
+        "eps": 1133,
+        "date": "15 Juni,2025",
+        "episodeId": "wpoiec-episode-1133-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1133-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1133-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1132 Subtitle Indonesia",
+        "eps": 1132,
+        "date": "9 Juni,2025",
+        "episodeId": "wpoiec-episode-1132-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1132-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1132-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1131 Subtitle Indonesia",
+        "eps": 1131,
+        "date": "2 Juni,2025",
+        "episodeId": "wpoiec-episode-1131-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1131-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1131-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1130 Subtitle Indonesia",
+        "eps": 1130,
+        "date": "26 Mei,2025",
+        "episodeId": "wpoiec-episode-1130-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1130-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1130-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1129 Subtitle Indonesia",
+        "eps": 1129,
+        "date": "19 Mei,2025",
+        "episodeId": "wpoiec-episode-1129-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1129-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1129-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1128 Subtitle Indonesia",
+        "eps": 1128,
+        "date": "5 Mei,2025",
+        "episodeId": "wpoiec-episode-1128-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1128-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1128-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1127 Subtitle Indonesia",
+        "eps": 1127,
+        "date": "28 April,2025",
+        "episodeId": "wpoiec-episode-1127-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1127-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1127-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1126 Subtitle Indonesia",
+        "eps": 1126,
+        "date": "21 April,2025",
+        "episodeId": "wpoiec-episode-1126-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1126-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1126-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1125 Subtitle Indonesia",
+        "eps": 1125,
+        "date": "14 April,2025",
+        "episodeId": "wpoiec-episode-1125-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1125-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1125-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1124 Subtitle Indonesia",
+        "eps": 1124,
+        "date": "7 April,2025",
+        "episodeId": "wpoiec-episode-1124-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1124-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1124-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1123 Subtitle Indonesia",
+        "eps": 1123,
+        "date": "6 April,2025",
+        "episodeId": "wpoiec-episode-1123-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1123-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1123-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1122 Subtitle Indonesia",
+        "eps": 1122,
+        "date": "13 Oktober,2024",
+        "episodeId": "wpoiec-episode-1122-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1122-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1122-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1121 Subtitle Indonesia",
+        "eps": 1121,
+        "date": "6 Oktober,2024",
+        "episodeId": "wpoiec-episode-1121-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1121-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1121-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1120 Subtitle Indonesia",
+        "eps": 1120,
+        "date": "22 September,2024",
+        "episodeId": "wpoiec-episode-1120-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1120-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1120-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1119 Subtitle Indonesia",
+        "eps": 1119,
+        "date": "15 September,2024",
+        "episodeId": "wpoiec-episode-1119-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1119-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1119-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1118 Subtitle Indonesia",
+        "eps": 1118,
+        "date": "8 September,2024",
+        "episodeId": "wpoiec-episode-1118-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1118-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1118-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1117 Subtitle Indonesia",
+        "eps": 1117,
+        "date": "1 September,2024",
+        "episodeId": "wpoiec-episode-1117-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1117-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1117-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1116 Subtitle Indonesia",
+        "eps": 1116,
+        "date": "18 Agustus,2024",
+        "episodeId": "wpoiec-episode-1116-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1116-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1116-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1115 Subtitle Indonesia",
+        "eps": 1115,
+        "date": "11 Agustus,2024",
+        "episodeId": "wpoiec-episode-1115-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1115-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1115-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1114 Subtitle Indonesia",
+        "eps": 1114,
+        "date": "4 Agustus,2024",
+        "episodeId": "wpoiec-episode-1114-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1114-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1114-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1113 Subtitle Indonesia",
+        "eps": 1113,
+        "date": "28 Juli,2024",
+        "episodeId": "wpoiec-episode-1113-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1113-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1113-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1112 Subtitle Indonesia",
+        "eps": 1112,
+        "date": "14 Juli,2024",
+        "episodeId": "wpoiec-episode-1112-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1112-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1112-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1111 Subtitle Indonesia",
+        "eps": 1111,
+        "date": "7 Juli,2024",
+        "episodeId": "wpoiec-episode-1111-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1111-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1111-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1110 Subtitle Indonesia",
+        "eps": 1110,
+        "date": "30 Juni,2024",
+        "episodeId": "wpoiec-episode-1110-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1110-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1110-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1109 Subtitle Indonesia",
+        "eps": 1109,
+        "date": "23 Juni,2024",
+        "episodeId": "wpoiec-episode-1109-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1109-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1109-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1108 Subtitle Indonesia",
+        "eps": 1108,
+        "date": "9 Juni,2024",
+        "episodeId": "wpoiec-episode-1108-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1108-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1108-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1107 Subtitle Indonesia",
+        "eps": 1107,
+        "date": "2 Juni,2024",
+        "episodeId": "wpoiec-episode-1107-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1107-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1107-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1106 Subtitle Indonesia",
+        "eps": 1106,
+        "date": "26 Mei,2024",
+        "episodeId": "wpoiec-episode-1106-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1106-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1106-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1105 Subtitle Indonesia",
+        "eps": 1105,
+        "date": "19 Mei,2024",
+        "episodeId": "wpoiec-episode-1105-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1105-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1105-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1104 Subtitle Indonesia",
+        "eps": 1104,
+        "date": "12 Mei,2024",
+        "episodeId": "wpoiec-episode-1104-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1104-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1104-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1103 Subtitle Indonesia",
+        "eps": 1103,
+        "date": "5 Mei,2024",
+        "episodeId": "wpoiec-episode-1103-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1103-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1103-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1102 Subtitle Indonesia",
+        "eps": 1102,
+        "date": "28 April,2024",
+        "episodeId": "wpoiec-episode-1102-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1102-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1102-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1101 Subtitle Indonesia",
+        "eps": 1101,
+        "date": "21 April,2024",
+        "episodeId": "wpoiec-episode-1101-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1101-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1101-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1100 Subtitle Indonesia",
+        "eps": 1100,
+        "date": "7 April,2024",
+        "episodeId": "wpoiec-episode-1100-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1100-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1100-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1099 Subtitle Indonesia",
+        "eps": 1099,
+        "date": "31 Maret,2024",
+        "episodeId": "wpoiec-episode-1099-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1099-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1099-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1098 Subtitle Indonesia",
+        "eps": 1098,
+        "date": "24 Maret,2024",
+        "episodeId": "wpoiec-episode-1098-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1098-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1098-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1097 Subtitle Indonesia",
+        "eps": 1097,
+        "date": "17 Maret,2024",
+        "episodeId": "wpoiec-episode-1097-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1097-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1097-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1096 Subtitle Indonesia",
+        "eps": 1096,
+        "date": "3 Maret,2024",
+        "episodeId": "wpoiec-episode-1096-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1096-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1096-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1095 Subtitle Indonesia",
+        "eps": 1095,
+        "date": "25 Februari,2024",
+        "episodeId": "wpoiec-episode-1095-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1095-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1095-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1094 Subtitle Indonesia",
+        "eps": 1094,
+        "date": "18 Februari,2024",
+        "episodeId": "wpoiec-episode-1094-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1094-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1094-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1093 Subtitle Indonesia",
+        "eps": 1093,
+        "date": "11 Februari,2024",
+        "episodeId": "wpoiec-episode-1093-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1093-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1093-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1092 Subtitle Indonesia",
+        "eps": 1092,
+        "date": "28 Januari,2024",
+        "episodeId": "wpoiec-episode-1092-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1092-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1092-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1091 Subtitle Indonesia",
+        "eps": 1091,
+        "date": "21 Januari,2024",
+        "episodeId": "wpoiec-episode-1091-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1091-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1091-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1090 Subtitle Indonesia",
+        "eps": 1090,
+        "date": "14 Januari,2024",
+        "episodeId": "wpoiec-episode-1090-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1090-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1090-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1089 Subtitle Indonesia",
+        "eps": 1089,
+        "date": "7 Januari,2024",
+        "episodeId": "wpoiec-episode-1089-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1089-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1089-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1088 Subtitle Indonesia",
+        "eps": 1088,
+        "date": "17 Desember,2023",
+        "episodeId": "wpoiec-episode-1088-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1088-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1088-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1087 Subtitle Indonesia",
+        "eps": 1087,
+        "date": "10 Desember,2023",
+        "episodeId": "wpoiec-episode-1087-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1087-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1087-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1086 Subtitle Indonesia",
+        "eps": 1086,
+        "date": "3 Desember,2023",
+        "episodeId": "wpoiec-episode-1086-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1086-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1086-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1085 Subtitle Indonesia",
+        "eps": 1085,
+        "date": "26 November,2023",
+        "episodeId": "wpoiec-episode-1085-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1085-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1085-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1084 Subtitle Indonesia",
+        "eps": 1084,
+        "date": "19 November,2023",
+        "episodeId": "wpoiec-episode-1084-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1084-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1084-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1083 Subtitle Indonesia",
+        "eps": 1083,
+        "date": "12 November,2023",
+        "episodeId": "wpoiec-episode-1083-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1083-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1083-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1082 Subtitle Indonesia",
+        "eps": 1082,
+        "date": "5 November,2023",
+        "episodeId": "wpoiec-episode-1082-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1082-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1082-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1081 Subtitle Indonesia",
+        "eps": 1081,
+        "date": "29 Oktober,2023",
+        "episodeId": "wpoiec-episode-1081-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1081-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1081-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1080 Subtitle Indonesia",
+        "eps": 1080,
+        "date": "22 Oktober,2023",
+        "episodeId": "wpoiec-episode-1080-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1080-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1080-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1079 Subtitle Indonesia",
+        "eps": 1079,
+        "date": "15 Oktober,2023",
+        "episodeId": "wpoiec-episode-1079-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1079-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1079-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1078 Subtitle Indonesia",
+        "eps": 1078,
+        "date": "1 Oktober,2023",
+        "episodeId": "wpoiec-episode-1078-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1078-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1078-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1077 Subtitle Indonesia",
+        "eps": 1077,
+        "date": "24 September,2023",
+        "episodeId": "wpoiec-episode-1077-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1077-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1077-sub-indo/"
+      },
+      {
+        "title": " One Piece Episode 1076 Subtitle Indonesia",
+        "eps": 1076,
+        "date": "17 September,2023",
+        "episodeId": "wpoiec-episode-1076-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1076-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1076-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1075 Subtitle Indonesia",
+        "eps": 1075,
+        "date": "10 September,2023",
+        "episodeId": "wpoiec-episode-1075-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1075-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1075-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1074 Subtitle Indonesia",
+        "eps": 1074,
+        "date": "3 September,2023",
+        "episodeId": "wpoiec-episode-1074-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1074-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1074-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1073 Subtitle Indonesia",
+        "eps": 1073,
+        "date": "20 Agustus,2023",
+        "episodeId": "wpoiec-episode-1073-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1073-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1073-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1072 Subtitle Indonesia",
+        "eps": 1072,
+        "date": "13 Agustus,2023",
+        "episodeId": "wpoiec-episode-1072-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1072-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1072-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1071 Subtitle Indonesia",
+        "eps": 1071,
+        "date": "6 Agustus,2023",
+        "episodeId": "wpoiec-episode-1071-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1071-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1071-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1070 Subtitle Indonesia",
+        "eps": 1070,
+        "date": "30 Juli,2023",
+        "episodeId": "wpoiec-episode-1070-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1070-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1070-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1069 Subtitle Indonesia",
+        "eps": 1069,
+        "date": "16 Juli,2023",
+        "episodeId": "wpoiec-episode-1069-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1069-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1069-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1068 Subtitle Indonesia",
+        "eps": 1068,
+        "date": "9 Juli,2023",
+        "episodeId": "wpoiec-episode-1068-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1068-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1068-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1067 Subtitle Indonesia",
+        "eps": 1067,
+        "date": "2 Juli,2023",
+        "episodeId": "wpoiec-episode-1067-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1067-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1067-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1066 Subtitle Indonesia",
+        "eps": 1066,
+        "date": "25 Juni,2023",
+        "episodeId": "wpoiec-episode-1066-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1066-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1066-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1065 Subtitle Indonesia",
+        "eps": 1065,
+        "date": "11 Juni,2023",
+        "episodeId": "wpoiec-episode-1065-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1065-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1065-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1064 Subtitle Indonesia",
+        "eps": 1064,
+        "date": "4 Juni,2023",
+        "episodeId": "wpoiec-episode-1064-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1064-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1064-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1063 Subtitle Indonesia",
+        "eps": 1063,
+        "date": "28 Mei,2023",
+        "episodeId": "wpoiec-episode-1063-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1063-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1063-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1062 Subtitle Indonesia",
+        "eps": 1062,
+        "date": "21 Mei,2023",
+        "episodeId": "wpoiec-episode-1062-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1062-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1062-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1061 Subtitle Indonesia",
+        "eps": 1061,
+        "date": "7 Mei,2023",
+        "episodeId": "wpoiec-episode-1061-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1061-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1061-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1060 Subtitle Indonesia",
+        "eps": 1060,
+        "date": "30 April,2023",
+        "episodeId": "wpoiec-episode-1060-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1060-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1060-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1059 Subtitle Indonesia",
+        "eps": 1059,
+        "date": "23 April,2023",
+        "episodeId": "wpoiec-episode-1059-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1059-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1059-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1058 Subtitle Indonesia",
+        "eps": 1058,
+        "date": "16 April,2023",
+        "episodeId": "wpoiec-episode-1058-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1058-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1058-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1057 Subtitle Indonesia",
+        "eps": 1057,
+        "date": "9 April,2023",
+        "episodeId": "wpoiec-episode-1057-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1057-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1057-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1056 Subtitle Indonesia",
+        "eps": 1056,
+        "date": "2 April,2023",
+        "episodeId": "wpoiec-episode-1056-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1056-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1056-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1055 Subtitle Indonesia",
+        "eps": 1055,
+        "date": "26 Maret,2023",
+        "episodeId": "wpoiec-episode-1055-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1055-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1055-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1054 Subtitle Indonesia",
+        "eps": 1054,
+        "date": "19 Maret,2023",
+        "episodeId": "wpoiec-episode-1054-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1054-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1054-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1053 Subtitle Indonesia",
+        "eps": 1053,
+        "date": "26 Februari,2023",
+        "episodeId": "wpoiec-episode-1053-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1053-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1053-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1052 Subtitle Indonesia",
+        "eps": 1052,
+        "date": "19 Februari,2023",
+        "episodeId": "wpoiec-episode-1052-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1052-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1052-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1051 Subtitle Indonesia",
+        "eps": 1051,
+        "date": "12 Februari,2023",
+        "episodeId": "wpoiec-episode-1051-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1051-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1051-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1050 Subtitle Indonesia",
+        "eps": 1050,
+        "date": "5 Februari,2023",
+        "episodeId": "wpoiec-episode-1050-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1050-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1050-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1049 Subtitle Indonesia",
+        "eps": 1049,
+        "date": "29 Januari,2023",
+        "episodeId": "wpoiec-episode-1049-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1049-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1049-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1048 Subtitle Indonesia",
+        "eps": 1048,
+        "date": "22 Januari,2023",
+        "episodeId": "wpoiec-episode-1048-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1048-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1048-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1047 Subtitle Indonesia",
+        "eps": 1047,
+        "date": "15 Januari,2023",
+        "episodeId": "wpoiec-episode-1047-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1047-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1047-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1046 Subtitle Indonesia",
+        "eps": 1046,
+        "date": "8 Januari,2023",
+        "episodeId": "wpoiec-episode-1046-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1046-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1046-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1045 Subtitle Indonesia",
+        "eps": 1045,
+        "date": "18 Desember,2022",
+        "episodeId": "wpoiec-episode-1045-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1045-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1045-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1044 Subtitle Indonesia",
+        "eps": 1044,
+        "date": "11 Desember,2022",
+        "episodeId": "wpoiec-episode-1044-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1044-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1044-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1043 Subtitle Indonesia",
+        "eps": 1043,
+        "date": "4 Desember,2022",
+        "episodeId": "wpoiec-episode-1043-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1043-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1043-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1042 Subtitle Indonesia",
+        "eps": 1042,
+        "date": "27 November,2022",
+        "episodeId": "wpoiec-episode-1042-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1042-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1042-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1041 Subtitle Indonesia",
+        "eps": 1041,
+        "date": "20 November,2022",
+        "episodeId": "wpoiec-episode-1041-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1041-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1041-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1040 Subtitle Indonesia",
+        "eps": 1040,
+        "date": "13 November,2022",
+        "episodeId": "wpoiec-episode-1040-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1040-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1040-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1039 Subtitle Indonesia",
+        "eps": 1039,
+        "date": "6 November,2022",
+        "episodeId": "wpoiec-episode-1039-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1039-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1039-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1038 Subtitle Indonesia",
+        "eps": 1038,
+        "date": "30 Oktober,2022",
+        "episodeId": "wpoiec-episode-1038-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1038-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1038-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1037 Subtitle Indonesia",
+        "eps": 1037,
+        "date": "23 Oktober,2022",
+        "episodeId": "wpoiec-episode-1037-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1037-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1037-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1036 Subtitle Indonesia",
+        "eps": 1036,
+        "date": "16 Oktober,2022",
+        "episodeId": "wpoiec-episode-1036-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1036-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1036-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1035 Subtitle Indonesia",
+        "eps": 1035,
+        "date": "2 Oktober,2022",
+        "episodeId": "wpoiec-episode-1035-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1035-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1035-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1034 Subtitle Indonesia",
+        "eps": 1034,
+        "date": "25 September,2022",
+        "episodeId": "wpoiec-episode-1034-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1034-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1034-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1033 Subtitle Indonesia",
+        "eps": 1033,
+        "date": "18 September,2022",
+        "episodeId": "wpoiec-episode-1033-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1033-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1033-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1032 Subtitle Indonesia",
+        "eps": 1032,
+        "date": "11 September,2022",
+        "episodeId": "wpoiec-episode-1032-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1032-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1032-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1031 Subtitle Indonesia",
+        "eps": 1031,
+        "date": "4 September,2022",
+        "episodeId": "wpoiec-episode-1031-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1031-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1031-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1030.5 Subtitle Indonesia",
+        "eps": 1030.5,
+        "date": "28 Agustus,2022",
+        "episodeId": "wpoiec-episode-1030-5-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1030-5-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1030-5-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1030 Subtitle Indonesia",
+        "eps": 1030,
+        "date": "21 Agustus,2022",
+        "episodeId": "wpoiec-episode-1030-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1030-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1030-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1029 Subtitle Indonesia",
+        "eps": 1029,
+        "date": "14 Agustus,2022",
+        "episodeId": "wpoiec-episode-1029-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1029-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1029-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1028 Subtitle Indonesia",
+        "eps": 1028,
+        "date": "7 Agustus,2022",
+        "episodeId": "wpoiec-episode-1028-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1028-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1028-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1027 Subtitle Indonesia",
+        "eps": 1027,
+        "date": "31 Juli,2022",
+        "episodeId": "wpoiec-episode-1027-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1027-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1027-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1026 Subtitle Indonesia",
+        "eps": 1026,
+        "date": "24 Juli,2022",
+        "episodeId": "wpoiec-episode-1026-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1026-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1026-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1025 Subtitle Indonesia",
+        "eps": 1025,
+        "date": "17 Juli,2022",
+        "episodeId": "wpoiec-episode-1025-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1025-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1025-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1024 Subtitle Indonesia",
+        "eps": 1024,
+        "date": "10 Juli,2022",
+        "episodeId": "wpoiec-episode-1024-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1024-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1024-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1023 Subtitle Indonesia",
+        "eps": 1023,
+        "date": "3 Juli,2022",
+        "episodeId": "wpoiec-episode-1023-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1023-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1023-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1022.5 Subtitle Indonesia",
+        "eps": 1022.5,
+        "date": "26 Juni,2022",
+        "episodeId": "wpoiec-episode-1022-5-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1022-5-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1022-5-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1022 Subtitle Indonesia",
+        "eps": 1022,
+        "date": "19 Juni,2022",
+        "episodeId": "wpoiec-episode-1022-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1022-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1022-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1021 Subtitle Indonesia",
+        "eps": 1021,
+        "date": "12 Juni,2022",
+        "episodeId": "wpoiec-episode-1021-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1021-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1021-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1020 Subtitle Indonesia",
+        "eps": 1020,
+        "date": "5 Juni,2022",
+        "episodeId": "wpoiec-episode-1020-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1020-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1020-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1019 Subtitle Indonesia",
+        "eps": 1019,
+        "date": "29 Mei,2022",
+        "episodeId": "wpoiec-episode-1019-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1019-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1019-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1018 Subtitle Indonesia",
+        "eps": 1018,
+        "date": "22 Mei,2022",
+        "episodeId": "wpoiec-episode-1018-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1018-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1018-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1017 Subtitle Indonesia",
+        "eps": 1017,
+        "date": "15 Mei,2022",
+        "episodeId": "wpoiec-episode-1017-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1017-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1017-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1016 Subtitle Indonesia",
+        "eps": 1016,
+        "date": "8 Mei,2022",
+        "episodeId": "wpoiec-episode-1016-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1016-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1016-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1015 Subtitle Indonesia",
+        "eps": 1015,
+        "date": "24 April,2022",
+        "episodeId": "wpoiec-episode-1015-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1015-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1015-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1014 Subtitle Indonesia",
+        "eps": 1014,
+        "date": "17 April,2022",
+        "episodeId": "wpoiec-episode-1014-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1014-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1014-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1013 Subtitle Indonesia",
+        "eps": 1013,
+        "date": "6 Maret,2022",
+        "episodeId": "wpoiec-episode-1013-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1013-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1013-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1012 Subtitle Indonesia",
+        "eps": 1012,
+        "date": "27 Februari,2022",
+        "episodeId": "wpoiec-episode-1012-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1012-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1012-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1011 Subtitle Indonesia",
+        "eps": 1011,
+        "date": "20 Februari,2022",
+        "episodeId": "wpoiec-episode-1011-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1011-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1011-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1010 Subtitle Indonesia",
+        "eps": 1010,
+        "date": "13 Februari,2022",
+        "episodeId": "wpoiec-episode-1010-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1010-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1010-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1009 Subtitle Indonesia",
+        "eps": 1009,
+        "date": "6 Februari,2022",
+        "episodeId": "wpoiec-episode-1009-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1009-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1009-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1008 Subtitle Indonesia",
+        "eps": 1008,
+        "date": "30 Januari,2022",
+        "episodeId": "wpoiec-episode-1008-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1008-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1008-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1007 Subtitle Indonesia",
+        "eps": 1007,
+        "date": "23 Januari,2022",
+        "episodeId": "wpoiec-episode-1007-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1007-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1007-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1006 Subtitle Indonesia",
+        "eps": 1006,
+        "date": "16 Januari,2022",
+        "episodeId": "wpoiec-episode-1006-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1006-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1006-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1005 Subtitle Indonesia",
+        "eps": 1005,
+        "date": "9 Januari,2022",
+        "episodeId": "wpoiec-episode-1005-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1005-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1005-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1004 Subtitle Indonesia",
+        "eps": 1004,
+        "date": "19 Desember,2021",
+        "episodeId": "wpoiec-episode-1004-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1004-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1004-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1003 Subtitle Indonesia",
+        "eps": 1003,
+        "date": "12 Desember,2021",
+        "episodeId": "wpoiec-episode-1003-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1003-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1003-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1002 Subtitle Indonesia",
+        "eps": 1002,
+        "date": "5 Desember,2021",
+        "episodeId": "wpoiec-episode-1002-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1002-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1002-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1001 Subtitle Indonesia",
+        "eps": 1001,
+        "date": "28 November,2021",
+        "episodeId": "wpoiec-episode-1001-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1001-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1001-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1000 Subtitle Indonesia",
+        "eps": 1000,
+        "date": "21 November,2021",
+        "episodeId": "wpoiec-episode-1000-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1000-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1000-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 999 Subtitle Indonesia",
+        "eps": 999,
+        "date": "14 November,2021",
+        "episodeId": "wpoiec-episode-999-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-999-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-999-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 998 Subtitle Indonesia",
+        "eps": 998,
+        "date": "7 November,2021",
+        "episodeId": "wpoiec-episode-998-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-998-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-998-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 997 Subtitle Indonesia",
+        "eps": 997,
+        "date": "31 Oktober,2021",
+        "episodeId": "wpoiec-episode-997-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-997-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-997-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 996 Subtitle Indonesia",
+        "eps": 996,
+        "date": "24 Oktober,2021",
+        "episodeId": "wpoiec-episode-996-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-996-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-996-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 995 Subtitle Indonesia",
+        "eps": 995,
+        "date": "10 Oktober,2021",
+        "episodeId": "wpoiec-episode-995-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-995-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-995-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 994 Subtitle Indonesia",
+        "eps": 994,
+        "date": "3 Oktober,2021",
+        "episodeId": "wpoiec-episode-994-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-994-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-994-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 993 Subtitle Indonesia",
+        "eps": 993,
+        "date": "26 September,2021",
+        "episodeId": "wpoiec-episode-993-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-993-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-993-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 992 Subtitle Indonesia",
+        "eps": 992,
+        "date": "19 September,2021",
+        "episodeId": "wpoiec-episode-992-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-992-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-992-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 991 Subtitle Indonesia",
+        "eps": 991,
+        "date": "12 September,2021",
+        "episodeId": "wpoiec-episode-991-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-991-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-991-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 990 Subtitle Indonesia",
+        "eps": 990,
+        "date": "5 September,2021",
+        "episodeId": "wpoiec-episode-990-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-990-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-990-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 989 Subtitle Indonesia",
+        "eps": 989,
+        "date": "29 Agustus,2021",
+        "episodeId": "wpoiec-episode-989-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-989-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-989-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 988 Subtitle Indonesia",
+        "eps": 988,
+        "date": "22 Agustus,2021",
+        "episodeId": "wpoiec-episode-988-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-988-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-988-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 987 Subtitle Indonesia",
+        "eps": 987,
+        "date": "15 Agustus,2021",
+        "episodeId": "wpoiec-episode-987-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-987-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-987-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 986 Subtitle Indonesia",
+        "eps": 986,
+        "date": "8 Agustus,2021",
+        "episodeId": "wpoiec-episode-986-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-986-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-986-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 985 Subtitle Indonesia",
+        "eps": 985,
+        "date": "1 Agustus,2021",
+        "episodeId": "wpoiec-episode-985-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-985-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-985-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 984 Subtitle Indonesia",
+        "eps": 984,
+        "date": "25 Juli,2021",
+        "episodeId": "wpoiec-episode-984-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-984-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-984-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 983 Subtitle Indonesia",
+        "eps": 983,
+        "date": "18 Juli,2021",
+        "episodeId": "wpoiec-episode-983-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-983-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-983-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 982 Subtitle Indonesia",
+        "eps": 982,
+        "date": "11 Juli,2021",
+        "episodeId": "wpoiec-episode-982-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-982-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-982-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 981 Subtitle Indonesia",
+        "eps": 981,
+        "date": "4 Juli,2021",
+        "episodeId": "wpoiec-episode-981-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-981-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-981-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 980 Subtitle Indonesia",
+        "eps": 980,
+        "date": "27 Juni,2021",
+        "episodeId": "wpoiec-episode-980-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-980-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-980-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 979 Subtitle Indonesia",
+        "eps": 979,
+        "date": "20 Juni,2021",
+        "episodeId": "wpoiec-episode-979-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-979-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-979-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 978 Subtitle Indonesia",
+        "eps": 978,
+        "date": "13 Juni,2021",
+        "episodeId": "wpoiec-episode-978-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-978-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-978-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 977 Subtitle Indonesia",
+        "eps": 977,
+        "date": "6 Juni,2021",
+        "episodeId": "wpoiec-episode-977-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-977-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-977-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 976 Subtitle Indonesia",
+        "eps": 976,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-976-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-976-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-976-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 975 Subtitle Indonesia",
+        "eps": 975,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-975-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-975-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-975-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 974 Subtitle Indonesia",
+        "eps": 974,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-974-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-974-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-974-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 973 Subtitle Indonesia",
+        "eps": 973,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-973-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-973-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-973-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 972 Subtitle Indonesia",
+        "eps": 972,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-972-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-972-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-972-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 971 Subtitle Indonesia",
+        "eps": 971,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-971-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-971-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-971-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 970 Subtitle Indonesia",
+        "eps": 970,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-970-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-970-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-970-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 969 Subtitle Indonesia",
+        "eps": 969,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-969-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-969-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-969-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 968 Subtitle Indonesia",
+        "eps": 968,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-968-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-968-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-968-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 967 Subtitle Indonesia",
+        "eps": 967,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-967-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-967-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-967-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 966 Subtitle Indonesia",
+        "eps": 966,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-966-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-966-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-966-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 965 Subtitle Indonesia",
+        "eps": 965,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-965-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-965-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-965-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 964 Subtitle Indonesia",
+        "eps": 964,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-964-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-964-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-964-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 963 Subtitle Indonesia",
+        "eps": 963,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-963-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-963-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-963-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 962 Subtitle Indonesia",
+        "eps": 962,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-962-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-962-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-962-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 961 Subtitle Indonesia",
+        "eps": 961,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-961-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-961-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-961-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 960 Subtitle Indonesia",
+        "eps": 960,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-960-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-960-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-960-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 959 Subtitle Indonesia",
+        "eps": 959,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-959-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-959-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-959-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 958 Subtitle Indonesia",
+        "eps": 958,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-958-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-958-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-958-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 957 Subtitle Indonesia",
+        "eps": 957,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-957-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-957-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-957-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 956 Subtitle Indonesia",
+        "eps": 956,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-956-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-956-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-956-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 955 Subtitle Indonesia",
+        "eps": 955,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-955-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-955-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-955-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 954 Subtitle Indonesia",
+        "eps": 954,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-954-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-954-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-954-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 953 Subtitle Indonesia",
+        "eps": 953,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-953-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-953-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-953-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 952 Subtitle Indonesia",
+        "eps": 952,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-952-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-952-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-952-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 951 Subtitle Indonesia",
+        "eps": 951,
+        "date": "1 Juni,2021",
+        "episodeId": "wpoiec-episode-951-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-951-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-951-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 950 Subtitle Indonesia",
+        "eps": 950,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-950-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-950-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-950-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 949 Subtitle Indonesia",
+        "eps": 949,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-949-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-949-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-949-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 948 Subtitle Indonesia",
+        "eps": 948,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-948-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-948-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-948-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 947 Subtitle Indonesia",
+        "eps": 947,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-947-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-947-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-947-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 946 Subtitle Indonesia",
+        "eps": 946,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-946-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-946-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-946-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 945 Subtitle Indonesia",
+        "eps": 945,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-945-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-945-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-945-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 944 Subtitle Indonesia",
+        "eps": 944,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-944-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-944-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-944-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 943 Subtitle Indonesia",
+        "eps": 943,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-943-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-943-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-943-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 942 Subtitle Indonesia",
+        "eps": 942,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-942-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-942-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-942-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 941 Subtitle Indonesia",
+        "eps": 941,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-941-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-941-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-941-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 940 Subtitle Indonesia",
+        "eps": 940,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-940-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-940-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-940-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 939 Subtitle Indonesia",
+        "eps": 939,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-939-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-939-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-939-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 938 Subtitle Indonesia",
+        "eps": 938,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-938-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-938-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-938-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 937 Subtitle Indonesia",
+        "eps": 937,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-937-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-937-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-937-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 936 Subtitle Indonesia",
+        "eps": 936,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-936-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-936-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-936-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 935 Subtitle Indonesia",
+        "eps": 935,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-935-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-935-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-935-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 934 Subtitle Indonesia",
+        "eps": 934,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-934-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-934-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-934-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 933 Subtitle Indonesia",
+        "eps": 933,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-933-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-933-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-933-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 932 Subtitle Indonesia",
+        "eps": 932,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-932-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-932-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-932-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 931 Subtitle Indonesia",
+        "eps": 931,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-931-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-931-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-931-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 930 Subtitle Indonesia",
+        "eps": 930,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-930-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-930-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-930-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 929 Subtitle Indonesia",
+        "eps": 929,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-929-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-929-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-929-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 928 Subtitle Indonesia",
+        "eps": 928,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-928-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-928-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-928-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 927 Subtitle Indonesia",
+        "eps": 927,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-927-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-927-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-927-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 926 Subtitle Indonesia",
+        "eps": 926,
+        "date": "19 Mei,2021",
+        "episodeId": "wpoiec-episode-926-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-926-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-926-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 925 Subtitle Indonesia",
+        "eps": 925,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-925-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-925-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-925-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 924 Subtitle Indonesia",
+        "eps": 924,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-924-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-924-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-924-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 923 Subtitle Indonesia",
+        "eps": 923,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-923-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-923-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-923-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 922 Subtitle Indonesia",
+        "eps": 922,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-922-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-922-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-922-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 921 Subtitle Indonesia",
+        "eps": 921,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-921-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-921-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-921-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 920 Subtitle Indonesia",
+        "eps": 920,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-920-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-920-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-920-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 919 Subtitle Indonesia",
+        "eps": 919,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-919-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-919-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-919-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 918 Subtitle Indonesia",
+        "eps": 918,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-918-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-918-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-918-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 917 Subtitle Indonesia",
+        "eps": 917,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-917-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-917-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-917-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 916 Subtitle Indonesia",
+        "eps": 916,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-916-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-916-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-916-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 915 Subtitle Indonesia",
+        "eps": 915,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-915-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-915-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-915-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 914 Subtitle Indonesia",
+        "eps": 914,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-914-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-914-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-914-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 913 Subtitle Indonesia",
+        "eps": 913,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-913-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-913-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-913-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 912 Subtitle Indonesia",
+        "eps": 912,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-912-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-912-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-912-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 911 Subtitle Indonesia",
+        "eps": 911,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-911-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-911-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-911-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 910 Subtitle Indonesia",
+        "eps": 910,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-910-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-910-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-910-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 909 Subtitle Indonesia",
+        "eps": 909,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-909-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-909-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-909-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 908 Subtitle Indonesia",
+        "eps": 908,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-908-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-908-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-908-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 907 Subtitle Indonesia",
+        "eps": 907,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-907-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-907-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-907-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 906 Subtitle Indonesia",
+        "eps": 906,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-906-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-906-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-906-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 905 Subtitle Indonesia",
+        "eps": 905,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-905-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-905-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-905-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 904 Subtitle Indonesia",
+        "eps": 904,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-904-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-904-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-904-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 903 Subtitle Indonesia",
+        "eps": 903,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-903-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-903-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-903-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 902 Subtitle Indonesia",
+        "eps": 902,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-902-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-902-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-902-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 901 Subtitle Indonesia",
+        "eps": 901,
+        "date": "18 Mei,2021",
+        "episodeId": "wpoiec-episode-901-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-901-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-901-sub-indo/"
+      },
+      {
+        "title": "======== Pembatas Episode | Episode 1 – 900 Dalam Proses ======",
+        "eps": null,
+        "date": "18 Mei,2021",
+        "episodeId": "pembatas-episode-episode-1-900-dalam-proses",
+        "href": "/anime/episode/pembatas-episode-episode-1-900-dalam-proses",
+        "otakudesuUrl": "https://otakudesu.best/episode/pembatas-episode-episode-1-900-dalam-proses/"
+      },
+      {
+        "title": "One Piece Episode 200 Subtitle Indonesia",
+        "eps": 200,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-200-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-200-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-200-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 199 Subtitle Indonesia",
+        "eps": 199,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-199-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-199-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-199-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 198 Subtitle Indonesia",
+        "eps": 198,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-198-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-198-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-198-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 197 Subtitle Indonesia",
+        "eps": 197,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-197-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-197-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-197-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 196 Subtitle Indonesia",
+        "eps": 196,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-196-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-196-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-196-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 195 Subtitle Indonesia",
+        "eps": 195,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-195-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-195-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-195-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 194 Subtitle Indonesia",
+        "eps": 194,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-194-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-194-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-194-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 193 Subtitle Indonesia",
+        "eps": 193,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-193-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-193-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-193-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 192 Subtitle Indonesia",
+        "eps": 192,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-192-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-192-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-192-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 191 Subtitle Indonesia",
+        "eps": 191,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-191-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-191-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-191-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 190 Subtitle Indonesia",
+        "eps": 190,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-190-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-190-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-190-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 189 Subtitle Indonesia",
+        "eps": 189,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-189-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-189-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-189-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 188 Subtitle Indonesia",
+        "eps": 188,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-188-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-188-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-188-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 187 Subtitle Indonesia",
+        "eps": 187,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-187-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-187-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-187-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 186 Subtitle Indonesia",
+        "eps": 186,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-186-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-186-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-186-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 185 Subtitle Indonesia",
+        "eps": 185,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-185-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-185-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-185-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 184 Subtitle Indonesia",
+        "eps": 184,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-184-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-184-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-184-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 183 Subtitle Indonesia",
+        "eps": 183,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-183-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-183-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-183-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 182 Subtitle Indonesia",
+        "eps": 182,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-182-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-182-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-182-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 181 Subtitle Indonesia",
+        "eps": 181,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-181-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-181-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-181-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 180 Subtitle Indonesia",
+        "eps": 180,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-180-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-180-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-180-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 179 Subtitle Indonesia",
+        "eps": 179,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-179-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-179-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-179-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 178 Subtitle Indonesia",
+        "eps": 178,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-178-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-178-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-178-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 177 Subtitle Indonesia",
+        "eps": 177,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-177-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-177-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-177-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 176 Subtitle Indonesia",
+        "eps": 176,
+        "date": "8 Mei,2021",
+        "episodeId": "wpoiec-episode-176-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-176-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-176-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 175 Subtitle Indonesia",
+        "eps": 175,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-175-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-175-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-175-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 174 Subtitle Indonesia",
+        "eps": 174,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-174-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-174-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-174-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 173 Subtitle Indonesia",
+        "eps": 173,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-173-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-173-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-173-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 172 Subtitle Indonesia",
+        "eps": 172,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-172-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-172-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-172-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 171 Subtitle Indonesia",
+        "eps": 171,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-171-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-171-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-171-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 170 Subtitle Indonesia",
+        "eps": 170,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-170-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-170-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-170-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 169 Subtitle Indonesia",
+        "eps": 169,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-169-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-169-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-169-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 168 Subtitle Indonesia",
+        "eps": 168,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-168-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-168-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-168-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 167 Subtitle Indonesia",
+        "eps": 167,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-167-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-167-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-167-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 166 Subtitle Indonesia",
+        "eps": 166,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-166-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-166-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-166-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 165 Subtitle Indonesia",
+        "eps": 165,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-165-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-165-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-165-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 164 Subtitle Indonesia",
+        "eps": 164,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-164-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-164-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-164-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 163 Subtitle Indonesia",
+        "eps": 163,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-163-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-163-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-163-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 162 Subtitle Indonesia",
+        "eps": 162,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-162-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-162-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-162-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 161 Subtitle Indonesia",
+        "eps": 161,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-161-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-161-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-161-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 160 Subtitle Indonesia",
+        "eps": 160,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-160-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-160-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-160-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 159 Subtitle Indonesia",
+        "eps": 159,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-159-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-159-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-159-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 158 Subtitle Indonesia",
+        "eps": 158,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-158-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-158-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-158-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 157 Subtitle Indonesia",
+        "eps": 157,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-157-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-157-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-157-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 156 Subtitle Indonesia",
+        "eps": 156,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-156-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-156-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-156-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 155 Subtitle Indonesia",
+        "eps": 155,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-155-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-155-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-155-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 154 Subtitle Indonesia",
+        "eps": 154,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-154-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-154-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-154-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 153 Subtitle Indonesia",
+        "eps": 153,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-153-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-153-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-153-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 152 Subtitle Indonesia",
+        "eps": 152,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-152-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-152-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-152-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 151 Subtitle Indonesia",
+        "eps": 151,
+        "date": "7 Mei,2021",
+        "episodeId": "wpoiec-episode-151-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-151-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-151-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 150 Subtitle Indonesia",
+        "eps": 150,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-150-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-150-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-150-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 149 Subtitle Indonesia",
+        "eps": 149,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-149-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-149-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-149-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 148 Subtitle Indonesia",
+        "eps": 148,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-148-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-148-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-148-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 147 Subtitle Indonesia",
+        "eps": 147,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-147-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-147-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-147-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 146 Subtitle Indonesia",
+        "eps": 146,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-146-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-146-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-146-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 145 Subtitle Indonesia",
+        "eps": 145,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-145-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-145-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-145-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 144 Subtitle Indonesia",
+        "eps": 144,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-144-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-144-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-144-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 143 Subtitle Indonesia",
+        "eps": 143,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-143-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-143-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-143-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 142 Subtitle Indonesia",
+        "eps": 142,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-142-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-142-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-142-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 141 Subtitle Indonesia",
+        "eps": 141,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-141-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-141-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-141-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 140 Subtitle Indonesia",
+        "eps": 140,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-140-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-140-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-140-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 139 Subtitle Indonesia",
+        "eps": 139,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-139-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-139-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-139-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 138 Subtitle Indonesia",
+        "eps": 138,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-138-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-138-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-138-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 137 Subtitle Indonesia",
+        "eps": 137,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-137-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-137-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-137-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 136 Subtitle Indonesia",
+        "eps": 136,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-136-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-136-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-136-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 135 Subtitle Indonesia",
+        "eps": 135,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-135-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-135-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-135-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 134 Subtitle Indonesia",
+        "eps": 134,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-134-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-134-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-134-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 133 Subtitle Indonesia",
+        "eps": 133,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-133-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-133-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-133-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 132 Subtitle Indonesia",
+        "eps": 132,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-132-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-132-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-132-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 131 Subtitle Indonesia",
+        "eps": 131,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-131-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-131-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-131-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 130 Subtitle Indonesia",
+        "eps": 130,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-130-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-130-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-130-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 129 Subtitle Indonesia",
+        "eps": 129,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-129-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-129-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-129-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 128 Subtitle Indonesia",
+        "eps": 128,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-128-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-128-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-128-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 127 Subtitle Indonesia",
+        "eps": 127,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-127-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-127-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-127-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 126 Subtitle Indonesia",
+        "eps": 126,
+        "date": "6 Mei,2021",
+        "episodeId": "wpoiec-episode-126-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-126-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-126-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 125 Subtitle Indonesia",
+        "eps": 125,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-125-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-125-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-125-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 124 Subtitle Indonesia",
+        "eps": 124,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-124-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-124-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-124-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 123 Subtitle Indonesia",
+        "eps": 123,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-123-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-123-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-123-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 122 Subtitle Indonesia",
+        "eps": 122,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-122-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-122-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-122-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 121 Subtitle Indonesia",
+        "eps": 121,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-121-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-121-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-121-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 120 Subtitle Indonesia",
+        "eps": 120,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-120-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-120-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-120-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 119 Subtitle Indonesia",
+        "eps": 119,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-119-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-119-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-119-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 118 Subtitle Indonesia",
+        "eps": 118,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-118-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-118-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-118-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 117 Subtitle Indonesia",
+        "eps": 117,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-117-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-117-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-117-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 116 Subtitle Indonesia",
+        "eps": 116,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-116-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-116-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-116-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 115 Subtitle Indonesia",
+        "eps": 115,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-115-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-115-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-115-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 114 Subtitle Indonesia",
+        "eps": 114,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-114-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-114-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-114-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 113 Subtitle Indonesia",
+        "eps": 113,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-113-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-113-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-113-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 112 Subtitle Indonesia",
+        "eps": 112,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-112-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-112-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-112-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 111 Subtitle Indonesia",
+        "eps": 111,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-111-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-111-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-111-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 110 Subtitle Indonesia",
+        "eps": 110,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-110-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-110-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-110-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 109 Subtitle Indonesia",
+        "eps": 109,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-109-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-109-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-109-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 108 Subtitle Indonesia",
+        "eps": 108,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-108-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-108-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-108-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 107 Subtitle Indonesia",
+        "eps": 107,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-107-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-107-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-107-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 106 Subtitle Indonesia",
+        "eps": 106,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-106-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-106-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-106-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 105 Subtitle Indonesia",
+        "eps": 105,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-105-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-105-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-105-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 104 Subtitle Indonesia",
+        "eps": 104,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-104-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-104-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-104-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 103 Subtitle Indonesia",
+        "eps": 103,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-103-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-103-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-103-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 102 Subtitle Indonesia",
+        "eps": 102,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-102-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-102-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-102-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 101 Subtitle Indonesia",
+        "eps": 101,
+        "date": "5 Mei,2021",
+        "episodeId": "wpoiec-episode-101-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-101-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-101-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 100 Subtitle Indonesia",
+        "eps": 100,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-100-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-100-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-100-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 99 Subtitle Indonesia",
+        "eps": 99,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-99-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-99-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-99-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 98 Subtitle Indonesia",
+        "eps": 98,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-98-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-98-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-98-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 97 Subtitle Indonesia",
+        "eps": 97,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-97-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-97-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-97-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 96 Subtitle Indonesia",
+        "eps": 96,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-96-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-96-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-96-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 95 Subtitle Indonesia",
+        "eps": 95,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-95-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-95-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-95-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 94 Subtitle Indonesia",
+        "eps": 94,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-94-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-94-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-94-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 93 Subtitle Indonesia",
+        "eps": 93,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-93-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-93-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-93-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 92 Subtitle Indonesia",
+        "eps": 92,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-92-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-92-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-92-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 91 Subtitle Indonesia",
+        "eps": 91,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-91-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-91-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-91-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 90 Subtitle Indonesia",
+        "eps": 90,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-90-sub-indo-2",
+        "href": "/anime/episode/wpoiec-episode-90-sub-indo-2",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-90-sub-indo-2/"
+      },
+      {
+        "title": "One Piece Episode 89 Subtitle Indonesia",
+        "eps": 89,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-89-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-89-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-89-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 88 Subtitle Indonesia",
+        "eps": 88,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-88-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-88-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-88-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 87 Subtitle Indonesia",
+        "eps": 87,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-87-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-87-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-87-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 86 Subtitle Indonesia",
+        "eps": 86,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-86-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-86-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-86-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 85 Subtitle Indonesia",
+        "eps": 85,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-85-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-85-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-85-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 84 Subtitle Indonesia",
+        "eps": 84,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-84-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-84-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-84-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 83 Subtitle Indonesia",
+        "eps": 83,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-83-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-83-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-83-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 82 Subtitle Indonesia",
+        "eps": 82,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-82-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-82-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-82-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 81 Subtitle Indonesia",
+        "eps": 81,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-81-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-81-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-81-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 80 Subtitle Indonesia",
+        "eps": 80,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-90-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-90-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-90-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 79 Subtitle Indonesia",
+        "eps": 79,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-79-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-79-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-79-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 78 Subtitle Indonesia",
+        "eps": 78,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-78-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-78-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-78-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 77 Subtitle Indonesia",
+        "eps": 77,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-77-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-77-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-77-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 76 Subtitle Indonesia",
+        "eps": 76,
+        "date": "4 Mei,2021",
+        "episodeId": "wpoiec-episode-76-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-76-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-76-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 75 Subtitle Indonesia",
+        "eps": 75,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-75-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-75-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-75-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 74 Subtitle Indonesia",
+        "eps": 74,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-74-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-74-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-74-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 73 Subtitle Indonesia",
+        "eps": 73,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-73-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-73-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-73-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 72 Subtitle Indonesia",
+        "eps": 72,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-72-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-72-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-72-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 71 Subtitle Indonesia",
+        "eps": 71,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-71-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-71-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-71-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 70 Subtitle Indonesia",
+        "eps": 70,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-70-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-70-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-70-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 69 Subtitle Indonesia",
+        "eps": 69,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-69-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-69-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-69-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 68 Subtitle Indonesia",
+        "eps": 68,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-68-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-68-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-68-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 67 Subtitle Indonesia",
+        "eps": 67,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-67-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-67-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-67-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 66 Subtitle Indonesia",
+        "eps": 66,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-66-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-66-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-66-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 65 Subtitle Indonesia",
+        "eps": 65,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-65-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-65-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-65-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 64 Subtitle Indonesia",
+        "eps": 64,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-64-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-64-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-64-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 63 Subtitle Indonesia",
+        "eps": 63,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-63-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-63-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-63-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 62 Subtitle Indonesia",
+        "eps": 62,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-62-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-62-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-62-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 61 Subtitle Indonesia",
+        "eps": 61,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-61-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-61-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-61-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 60 Subtitle Indonesia",
+        "eps": 60,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-60-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-60-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-60-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 59 Subtitle Indonesia",
+        "eps": 59,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-59-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-59-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-59-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 58 Subtitle Indonesia",
+        "eps": 58,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-58-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-58-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-58-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 57 Subtitle Indonesia",
+        "eps": 57,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-57-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-57-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-57-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 56 Subtitle Indonesia",
+        "eps": 56,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-56-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-56-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-56-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 55 Subtitle Indonesia",
+        "eps": 55,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-55-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-55-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-55-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 54 Subtitle Indonesia",
+        "eps": 54,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-54-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-54-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-54-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 53 Subtitle Indonesia",
+        "eps": 53,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-53-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-53-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-53-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 52 Subtitle Indonesia",
+        "eps": 52,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-52-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-52-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-52-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 51 Subtitle Indonesia",
+        "eps": 51,
+        "date": "3 Mei,2021",
+        "episodeId": "wpoiec-episode-51-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-51-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-51-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 50 Subtitle Indonesia",
+        "eps": 50,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-50-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-50-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-50-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 49 Subtitle Indonesia",
+        "eps": 49,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-49-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-49-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-49-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 48 Subtitle Indonesia",
+        "eps": 48,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-48-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-48-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-48-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 47 Subtitle Indonesia",
+        "eps": 47,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-47-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-47-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-47-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 46 Subtitle Indonesia",
+        "eps": 46,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-46-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-46-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-46-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 45 Subtitle Indonesia",
+        "eps": 45,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-45-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-45-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-45-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 44 Subtitle Indonesia",
+        "eps": 44,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-44-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-44-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-44-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 43 Subtitle Indonesia",
+        "eps": 43,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-43-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-43-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-43-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 42 Subtitle Indonesia",
+        "eps": 42,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-42-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-42-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-42-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 41 Subtitle Indonesia",
+        "eps": 41,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-41-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-41-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-41-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 40 Subtitle Indonesia",
+        "eps": 40,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-40-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-40-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-40-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 39 Subtitle Indonesia",
+        "eps": 39,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-39-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-39-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-39-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 38 Subtitle Indonesia",
+        "eps": 38,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-38-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-38-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-38-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 37 Subtitle Indonesia",
+        "eps": 37,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-37-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-37-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-37-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 36 Subtitle Indonesia",
+        "eps": 36,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-36-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-36-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-36-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 35 Subtitle Indonesia",
+        "eps": 35,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-35-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-35-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-35-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 34 Subtitle Indonesia",
+        "eps": 34,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-34-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-34-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-34-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 33 Subtitle Indonesia",
+        "eps": 33,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-33-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-33-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-33-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 32 Subtitle Indonesia",
+        "eps": 32,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-32-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-32-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-32-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 31 Subtitle Indonesia",
+        "eps": 31,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-31-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-31-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-31-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 30 Subtitle Indonesia",
+        "eps": 30,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-30-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-30-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-30-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 29 Subtitle Indonesia",
+        "eps": 29,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-29-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-29-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-29-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 28 Subtitle Indonesia",
+        "eps": 28,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-28-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-28-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-28-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 27 Subtitle Indonesia",
+        "eps": 27,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-27-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-27-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-27-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 26 Subtitle Indonesia",
+        "eps": 26,
+        "date": "2 Mei,2021",
+        "episodeId": "wpoiec-episode-26-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-26-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-26-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 25 Subtitle Indonesia",
+        "eps": 25,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-25-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-25-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-25-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 24 Subtitle Indonesia",
+        "eps": 24,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-24-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-24-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-24-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 23 Subtitle Indonesia",
+        "eps": 23,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-23-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-23-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-23-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 22 Subtitle Indonesia",
+        "eps": 22,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-22-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-22-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-22-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 21 Subtitle Indonesia",
+        "eps": 21,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-21-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-21-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-21-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 20 Subtitle Indonesia",
+        "eps": 20,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-20-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-20-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-20-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 19 Subtitle Indonesia",
+        "eps": 19,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-19-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-19-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-19-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 18 Subtitle Indonesia",
+        "eps": 18,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-18-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-18-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-18-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 17 Subtitle Indonesia",
+        "eps": 17,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-17-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-17-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-17-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 16 Subtitle Indonesia",
+        "eps": 16,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-16-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-16-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-16-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 15 Subtitle Indonesia",
+        "eps": 15,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-15-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-15-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-15-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 14 Subtitle Indonesia",
+        "eps": 14,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-14-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-14-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-14-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 13 Subtitle Indonesia",
+        "eps": 13,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-13-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-13-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-13-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 12 Subtitle Indonesia",
+        "eps": 12,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-12-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-12-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-12-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 11 Subtitle Indonesia",
+        "eps": 11,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-11-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-11-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-11-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 10 Subtitle Indonesia",
+        "eps": 10,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-10-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-10-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-10-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 9 Subtitle Indonesia",
+        "eps": 9,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-9-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-9-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-9-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 8 Subtitle Indonesia",
+        "eps": 8,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-8-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-8-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-8-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 7 Subtitle Indonesia",
+        "eps": 7,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-7-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-7-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-7-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 6 Subtitle Indonesia",
+        "eps": 6,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-6-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-6-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-6-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 5 Subtitle Indonesia",
+        "eps": 5,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-5-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-5-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-5-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 4 Subtitle Indonesia",
+        "eps": 4,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-4-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-4-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-4-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 3 Subtitle Indonesia",
+        "eps": 3,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-3-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-3-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 2 Subtitle Indonesia",
+        "eps": 2,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-2-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-2-sub-indo/"
+      },
+      {
+        "title": "One Piece Episode 1 Subtitle Indonesia",
+        "eps": 1,
+        "date": "1 Januari,2021",
+        "episodeId": "wpoiec-episode-1-sub-indo",
+        "href": "/anime/episode/wpoiec-episode-1-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1-sub-indo/"
+      }
+    ],
+    "recommendedAnimeList": [
+      {
+        "title": "Towa no Yuugure",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/02/Towa-no-Yuugure-Sub-Indo.jpg",
+        "animeId": "towa-yuugure-sub-indo",
+        "href": "/anime/anime/towa-yuugure-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/towa-yuugure-sub-indo/"
+      },
+      {
+        "title": "Wandance",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Wandance-Sub-Indo.jpg",
+        "animeId": "wandnce-sub-indo",
+        "href": "/anime/anime/wandnce-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/wandnce-sub-indo/"
+      },
+      {
+        "title": "Nageki no Bourei wa Intai shitai Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Nageki-no-Bourei-wa-Intai-shitai-Season-2-Sub-Indo.jpg",
+        "animeId": "ageki-bourei-intai-shitai-s2-sub-indo",
+        "href": "/anime/anime/ageki-bourei-intai-shitai-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/ageki-bourei-intai-shitai-s2-sub-indo/"
+      },
+      {
+        "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Chichi-wa-Eiyuu-Haha-wa-Seirei-Musume-no-Watashi-wa-Tenseisha.-Sub-Indo.jpg",
+        "animeId": "chichi-haha-seirei-sub-indo",
+        "href": "/anime/anime/chichi-haha-seirei-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/chichi-haha-seirei-sub-indo/"
+      },
+      {
+        "title": "Mugen Gacha",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Mugen-Gacha-Sub-Indo.jpg",
+        "animeId": "mugen-gacha-sub-indo",
+        "href": "/anime/anime/mugen-gacha-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/mugen-gacha-sub-indo/"
+      }
+    ]
+  },
+  "pagination": null
+}

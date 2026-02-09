@@ -1,0 +1,484 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai Sub Indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/149858.jpg",
+        "status": "Ongoing",
+        "score": "7.68",
+        "animeId": "seishun-buta-yarou-wa-santa-claus-sub-indo",
+        "href": "/anime/anime/seishun-buta-yarou-wa-santa-claus-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/seishun-buta-yarou-wa-santa-claus-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      },
+      {
+        "title": "Douse, Koishite Shimaunda. Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/02/141789.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "douse-shimaunda-sub-indo",
+        "href": "/anime/anime/douse-shimaunda-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/douse-shimaunda-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shoujo",
+            "genreId": "shoujo",
+            "href": "/anime/genre/shoujo",
+            "otakudesuUrl": "https://otakudesu.best/genres/shoujo/"
+          }
+        ]
+      },
+      {
+        "title": "Sasayaku You ni Koi wo Utau (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/02/Sasayaku-You-ni-Koi-wo-Utau-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.67",
+        "animeId": "sasayaku-you-koi-utau-sub-indo",
+        "href": "/anime/anime/sasayaku-you-koi-utau-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/sasayaku-you-koi-utau-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Girls Love",
+            "genreId": "girls-love",
+            "href": "/anime/genre/girls-love",
+            "otakudesuUrl": "https://otakudesu.best/genres/girls-love/"
+          },
+          {
+            "title": "Music",
+            "genreId": "music",
+            "href": "/anime/genre/music",
+            "otakudesuUrl": "https://otakudesu.best/genres/music/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          }
+        ]
+      },
+      {
+        "title": "NieR:Automata Ver1.1a Part 2 (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/10/NieR-Automata-Ver1.1a-Part-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.02",
+        "animeId": "niermata-ver1-p2-sub-indo",
+        "href": "/anime/anime/niermata-ver1-p2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/niermata-ver1-p2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      },
+      {
+        "title": "NieR:Automata Ver1.1a (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/08/NieR-Automata-Ver1.1a-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.57",
+        "animeId": "niermata-ver1-sub-indo",
+        "href": "/anime/anime/niermata-ver1-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/niermata-ver1-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      },
+      {
+        "title": "Warau Arsnotoria Sun! (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2022/09/Warau-Arsnotoria-Sun-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "5.86",
+        "animeId": "warau-sun-sub-indo",
+        "href": "/anime/anime/warau-sun-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/warau-sun-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          }
+        ]
+      },
+      {
+        "title": "D_Cide Traumerei the Animation (Episode 1 – 13) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/07/D_Cide-Traumerei-the-Animation-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "5.88",
+        "animeId": "dcide-sub-indo",
+        "href": "/anime/anime/dcide-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/dcide-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Magic",
+            "genreId": "magic",
+            "href": "/anime/genre/magic",
+            "otakudesuUrl": "https://otakudesu.best/genres/magic/"
+          }
+        ]
+      },
+      {
+        "title": "Dragon, Ie wo Kau (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/04/Dragon-Ie-wo-Kau.-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.39",
+        "animeId": "drgon-iewo-sub-indo",
+        "href": "/anime/anime/drgon-iewo-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/drgon-iewo-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Centaur no Nayami (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/04/Centaur-no-Nayami-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.47",
+        "animeId": "centaur-nayami-sub-indo",
+        "href": "/anime/anime/centaur-nayami-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/centaur-nayami-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          }
+        ]
+      },
+      {
+        "title": "Assault Lily: Bouquet (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2020/10/Assault-Lily-Bouquet-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.46",
+        "animeId": "assault-lily-sub-indo",
+        "href": "/anime/anime/assault-lily-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/assault-lily-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Magic",
+            "genreId": "magic",
+            "href": "/anime/genre/magic",
+            "otakudesuUrl": "https://otakudesu.best/genres/magic/"
+          }
+        ]
+      },
+      {
+        "title": "Rifle Is Beautiful (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/10/Rifle-Is-Beautiful-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.24",
+        "animeId": "rifle-beautiful-sub-indo",
+        "href": "/anime/anime/rifle-beautiful-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/rifle-beautiful-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          }
+        ]
+      },
+      {
+        "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO (Episode 1 – 26) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/10/Kono-Yo-no-Hate-de-Koi-wo-Utau-Shoujo-YU-NO-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.77",
+        "animeId": "kono-shoujo-yu-no-subtitle-indonesia",
+        "href": "/anime/anime/kono-shoujo-yu-no-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kono-shoujo-yu-no-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      },
+      {
+        "title": "Joshikausei (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/04/Joshikausei-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "5.80",
+        "animeId": "jhkausei-sub-indo",
+        "href": "/anime/anime/jhkausei-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/jhkausei-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          }
+        ]
+      },
+      {
+        "title": "Just Because! (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/11/Just-Because-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.39",
+        "animeId": "because-in-just-subtitle-indonesia",
+        "href": "/anime/anime/because-in-just-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/because-in-just-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          }
+        ]
+      },
+      {
+        "title": "Donten ni Warau (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/10/Donten-ni-Warau-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.61",
+        "animeId": "donten-warau-sub-indo",
+        "href": "/anime/anime/donten-warau-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/donten-warau-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Historical",
+            "genreId": "historical",
+            "href": "/anime/genre/historical",
+            "otakudesuUrl": "https://otakudesu.best/genres/historical/"
+          },
+          {
+            "title": "Shoujo",
+            "genreId": "shoujo",
+            "href": "/anime/genre/shoujo",
+            "otakudesuUrl": "https://otakudesu.best/genres/shoujo/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

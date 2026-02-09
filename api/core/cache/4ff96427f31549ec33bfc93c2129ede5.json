@@ -1,0 +1,514 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Tensei shitara Dragon no Tamago datta Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Tensei-shitara-Dragon-no-Tamago-datta.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "tensei-shitara-dragon-tamago-sub-indo",
+        "href": "/anime/anime/tensei-shitara-dragon-tamago-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/tensei-shitara-dragon-tamago-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.best/genres/reincarnation/"
+          }
+        ]
+      },
+      {
+        "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/12/Mushoku-no-Eiyuu-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.24",
+        "animeId": "mushoku-eiyuu-sub-indo",
+        "href": "/anime/anime/mushoku-eiyuu-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/mushoku-eiyuu-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Season 2 (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Jidou-Hanbaiki-ni-Umarekawatta-Ore-wa-Meikyuu-wo-Samayou-Season-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.51",
+        "animeId": "vending-machine-s2-sub-indo",
+        "href": "/anime/anime/vending-machine-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/vending-machine-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.best/genres/reincarnation/"
+          }
+        ]
+      },
+      {
+        "title": "Tensei shitara Dainana Ouji Datta node Season 2 Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/149614.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "tensei-datta-node-s2-sub-indo",
+        "href": "/anime/anime/tensei-datta-node-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/tensei-datta-node-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.best/genres/reincarnation/"
+          }
+        ]
+      },
+      {
+        "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/04/Class-no-Daikirai-na-Joshi-to-Kekkon-suru-Koto-ni-Natta-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.80",
+        "animeId": "class-daikirai-joshi-to-kekkon-sub-indo",
+        "href": "/anime/anime/class-daikirai-joshi-to-kekkon-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/class-daikirai-joshi-to-kekkon-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/04/Botsuraku-Yotei-no-Kizoku-dakedo-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.06",
+        "animeId": "botsuraku-yotei-kizoku-sub-indo",
+        "href": "/anime/anime/botsuraku-yotei-kizoku-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/botsuraku-yotei-kizoku-sub-indo/",
+        "genreList": [
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/04/Salaryman-ga-Isekai-ni-Ittara-Shitennou-ni-Natta-Hanashi-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.61",
+        "animeId": "salaryman-isekai-sub-indo",
+        "href": "/anime/anime/salaryman-isekai-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/salaryman-isekai-sub-indo/",
+        "genreList": [
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          }
+        ]
+      },
+      {
+        "title": "Fuguushoku “Kanteishi” ga Jitsu wa Saikyou Datta Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146293.jpg",
+        "status": "Ongoing",
+        "score": "7.02",
+        "animeId": "kanteishi-sub-indo",
+        "href": "/anime/anime/kanteishi-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kanteishi-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru Sub Indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146843.jpg",
+        "status": "Ongoing",
+        "score": "7.01",
+        "animeId": "okitsura-sub-indo",
+        "href": "/anime/anime/okitsura-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/okitsura-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          }
+        ]
+      },
+      {
+        "title": "Goukon ni Ittara Onna ga Inakatta Hanashi (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.42",
+        "animeId": "goukon-itara-hanashi-sub-indo",
+        "href": "/anime/anime/goukon-itara-hanashi-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/goukon-itara-hanashi-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Crossdressing",
+            "genreId": "crossdressing",
+            "href": "/anime/genre/crossdressing",
+            "otakudesuUrl": "https://otakudesu.best/genres/crossdressing/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/12/Lv2-kara-Cheat-datta-Motoyuusha-Kouho-no-Mattari-Isekai-Life-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.81",
+        "animeId": "lv2-kara-cheat-sub-indo",
+        "href": "/anime/anime/lv2-kara-cheat-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/lv2-kara-cheat-sub-indo/",
+        "genreList": [
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Tensei shitara Dainana Ouji Datta node (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/12/Tensei-shitara-Dainana-Ouji-Datta-node-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.45",
+        "animeId": "tensei-datta-node-sub-indo",
+        "href": "/anime/anime/tensei-datta-node-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/tensei-datta-node-sub-indo/",
+        "genreList": [
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.best/genres/reincarnation/"
+          }
+        ]
+      },
+      {
+        "title": "Hazurewaku no “Joutai Ijou Skill” de Saikyou ni Natta Ore ga Subete wo Juurin suru made (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/10/Joutai-Ijou-Skill-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.48",
+        "animeId": "joutai-ijou-skill-sub-indo",
+        "href": "/anime/anime/joutai-ijou-skill-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/joutai-ijou-skill-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          }
+        ]
+      },
+      {
+        "title": "Tensei shitara Slime Datta Ken Season 3 (Episode 1 – 24) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/10/Tensei-shitara-Slime-Datta-Ken-Season-3-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.69",
+        "animeId": "slime-s3-sub-indo",
+        "href": "/anime/anime/slime-s3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/slime-s3-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.best/genres/reincarnation/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Maougun Saikyou no Majutsushi wa Ningen datta (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/09/Maougun-Saikyou-no-Majutsushi-wa-Ningen-datta-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.42",
+        "animeId": "maougun-saikyou-majutsushi-ningen-sub-indo",
+        "href": "/anime/anime/maougun-saikyou-majutsushi-ningen-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/maougun-saikyou-majutsushi-ningen-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Isekai",
+            "genreId": "isekai",
+            "href": "/anime/genre/isekai",
+            "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+          },
+          {
+            "title": "Reincarnation",
+            "genreId": "reincarnation",
+            "href": "/anime/genre/reincarnation",
+            "otakudesuUrl": "https://otakudesu.best/genres/reincarnation/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

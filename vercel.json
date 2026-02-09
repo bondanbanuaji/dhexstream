@@ -11,11 +11,15 @@
             "destination": "/api/index.php"
         },
         {
+            "source": "/dhexstream/api/(.*)",
+            "destination": "/api/$1"
+        },
+        {
             "source": "/dhexstream/api.php",
             "destination": "/api/index.php"
         },
         {
-            "source": "/(.*)",
+            "source": "/((?!api/.*|assets/.*|favicon.ico).*)",
             "destination": "/index.html"
         }
     ]

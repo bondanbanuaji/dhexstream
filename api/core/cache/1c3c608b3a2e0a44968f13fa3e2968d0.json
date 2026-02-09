@@ -1,0 +1,331 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "Shingeki no Kyojin: The Final Season Episode 2 Subtitle Indonesia",
+    "animeId": "shingekyo-season-4-sub-indo",
+    "releaseTime": "Release on 3:12 pm",
+    "defaultStreamingUrl": "https://desustream.info/dstream/moedesu/v2/index.php?id=cGcvWk9JUFM3RlRRVnRtWnBERFVqdU1rWjJPZkxFL08zRFU5cTJTU2twMD0=",
+    "hasPrevEpisode": true,
+    "prevEpisode": {
+      "title": "Prev",
+      "episodeId": "snk-s4-episode-1-sub-indo",
+      "href": "/anime/episode/snk-s4-episode-1-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-1-sub-indo/"
+    },
+    "hasNextEpisode": true,
+    "nextEpisode": {
+      "title": "Next",
+      "episodeId": "snk-s4-episode-3-sub-indo",
+      "href": "/anime/episode/snk-s4-episode-3-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-3-sub-indo/"
+    },
+    "server": {
+      "qualities": [
+        {
+          "title": "360p",
+          "serverList": []
+        },
+        {
+          "title": "480p",
+          "serverList": [
+            {
+              "title": "moedesu",
+              "serverId": "688969-5-9D5u",
+              "href": "/anime/server/688969-5-9D5u"
+            },
+            {
+              "title": "odstream",
+              "serverId": "688969-6-9D5u",
+              "href": "/anime/server/688969-6-9D5u"
+            },
+            {
+              "title": "mp4load",
+              "serverId": "688969-7-9D5u",
+              "href": "/anime/server/688969-7-9D5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "688969-8-9D5u",
+              "href": "/anime/server/688969-8-9D5u"
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "serverList": [
+            {
+              "title": "moedesuhd ",
+              "serverId": "688969-5-C75u",
+              "href": "/anime/server/688969-5-C75u"
+            },
+            {
+              "title": "odstreamhd ",
+              "serverId": "688969-6-C75u",
+              "href": "/anime/server/688969-6-C75u"
+            },
+            {
+              "title": "yourupload ",
+              "serverId": "688969-7-C75u",
+              "href": "/anime/server/688969-7-C75u"
+            },
+            {
+              "title": "mega ",
+              "serverId": "688969-8-C75u",
+              "href": "/anime/server/688969-8-C75u"
+            }
+          ]
+        }
+      ]
+    },
+    "downloadUrl": {
+      "qualities": [
+        {
+          "title": "360p",
+          "size": "41.6 MB",
+          "urls": [
+            {
+              "title": "ZippyShare",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V6Tms1UmxucnNMYTA1T1lzODVtNS9lUjY4NGtmc0RhYkwzWmRrNC9GUEMzajNFek56anVWU2NFYz0="
+            },
+            {
+              "title": "Uptobox",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V4TVUwUHhpVzZlYWNtSk4xN3RteG5MMG02K0VuMEMvelh3WTV3OHJKSENpVGtWREZ6MU5KMWMyQ1FnaEdYOUtGYnZ6TlhxUXdJM01MMg=="
+            },
+            {
+              "title": "Hxfile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VzT1Y4SnlDL3NOS3RtUHBZbTYzdHJlZ25xdWsrcQ=="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3lGVjVTbVNiNzJqZ1BzT0o0THRpOXBCVkJIcjlKV3NpeGVOTlRCdk90RzJYditNaGxGbzQ2UVlUZytMeHRUQ0VWWHBVTlE9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "480p",
+          "size": "76.5 MB",
+          "urls": [
+            {
+              "title": "ZippyShare",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V6Tms1Vm5HUzRQclE1TUlFbjczMW9NbE93NEFXMVZMbVI5c0loOUtaWlFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "Uptobox",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V4TVUwUHhpVzZlYWNtSk4xNitHbzVLbHpuN2hxblRQRFh3WTV3OHJKSENpVGtWREZ6MU5KMWMyQ1FnaEdYOUtGYnZ6UlpxUXdJM01MMg=="
+            },
+            {
+              "title": "Hxfile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VzT1Y4SnlDL3NOS3RtUElZNC9ueHNmZ2F3NGhtNg=="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzRrSm1YMWlMM25EZ0U4V3h5b3g5cTY5a0lSUGhLelZHeE1GVGVCM1J1a3J0NmZNODBURlg2Z1FTK1BXdHZHV2dkamR4Rnc9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "size": "148.0 MB",
+          "urls": [
+            {
+              "title": "ZippyShare",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V6Tms1VWtHUzRQclE1TUlFbjczMW9NbE93NEFXMVZOUE0zNUpiMFlwMlFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "Uptobox",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V4TVUwUHhpVzZlYWNtSk4wbXQyWnVla2lwNjAyMlRPelh3WTV3OHJKSENpVGtWREZ6MU5KMWMyQ1FnaEdYOUtGYnZ6ZFRxUXdJM01MMg=="
+            },
+            {
+              "title": "Hxfile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VzT1Y4SnlDL3NOS3RtSTU4K3VuOTRid1NtL1JpbA=="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzFGNDFTVmVXeDN2Z0l1dTUxNEowMExZT1B4akFNU1Zsd3JVVWFsMkk0MHJOaHY4YTF6Qlc3QTVNNCtUeWhSZTJWMnR1S1E9PQ=="
+            }
+          ]
+        }
+      ]
+    },
+    "info": {
+      "credit": "Pucuk Translation | Durandalsub | Kusonime",
+      "encoder": "",
+      "duration": "23 Menit",
+      "type": "TV",
+      "genreList": [
+        {
+          "title": "Action",
+          "genreId": "action",
+          "href": "/anime/genre/action",
+          "otakudesuUrl": "https://otakudesu.best/genres/action/"
+        },
+        {
+          "title": "Drama",
+          "genreId": "drama",
+          "href": "/anime/genre/drama",
+          "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+        },
+        {
+          "title": "Gore",
+          "genreId": "gore",
+          "href": "/anime/genre/gore",
+          "otakudesuUrl": "https://otakudesu.best/genres/gore/"
+        },
+        {
+          "title": "Military",
+          "genreId": "military",
+          "href": "/anime/genre/military",
+          "otakudesuUrl": "https://otakudesu.best/genres/military/"
+        },
+        {
+          "title": "Shounen",
+          "genreId": "shounen",
+          "href": "/anime/genre/shounen",
+          "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+        },
+        {
+          "title": "Survival",
+          "genreId": "survival",
+          "href": "/anime/genre/survival",
+          "otakudesuUrl": "https://otakudesu.best/genres/survival/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "Episode 16",
+          "eps": 16,
+          "date": "",
+          "episodeId": "snk-s4-episode-16-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-16-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-16-sub-indo/"
+        },
+        {
+          "title": "Episode 15",
+          "eps": 15,
+          "date": "",
+          "episodeId": "snk-s4-episode-15-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-15-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-15-sub-indo/"
+        },
+        {
+          "title": "Episode 14",
+          "eps": 14,
+          "date": "",
+          "episodeId": "snk-s4-episode-14-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-14-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-14-sub-indo/"
+        },
+        {
+          "title": "Episode 13",
+          "eps": 13,
+          "date": "",
+          "episodeId": "snk-s4-episode-13-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-13-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-13-sub-indo/"
+        },
+        {
+          "title": "Episode 12",
+          "eps": 12,
+          "date": "",
+          "episodeId": "snk-s4-episode-12-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-12-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-12-sub-indo/"
+        },
+        {
+          "title": "Episode 11",
+          "eps": 11,
+          "date": "",
+          "episodeId": "snk-s4-episode-11-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-11-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-11-sub-indo/"
+        },
+        {
+          "title": "Episode 10",
+          "eps": 10,
+          "date": "",
+          "episodeId": "snk-s4-episode-10-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-10-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-10-sub-indo/"
+        },
+        {
+          "title": "Episode 9",
+          "eps": 9,
+          "date": "",
+          "episodeId": "snk-s4-episode-9-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-9-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-9-sub-indo/"
+        },
+        {
+          "title": "Episode 8",
+          "eps": 8,
+          "date": "",
+          "episodeId": "snk-s4-episode-8-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-8-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-8-sub-indo/"
+        },
+        {
+          "title": "Episode 7",
+          "eps": 7,
+          "date": "",
+          "episodeId": "snk-s4-episode-7-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-7-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-7-sub-indo/"
+        },
+        {
+          "title": "Episode 6",
+          "eps": 6,
+          "date": "",
+          "episodeId": "snk-s4-episode-6-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-6-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-6-sub-indo/"
+        },
+        {
+          "title": "Episode 5",
+          "eps": 5,
+          "date": "",
+          "episodeId": "snk-s4-episode-5-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-5-sub-indo/"
+        },
+        {
+          "title": "Episode 4",
+          "eps": 4,
+          "date": "",
+          "episodeId": "snk-s4-episode-4-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-4-sub-indo/"
+        },
+        {
+          "title": "Episode 3",
+          "eps": 3,
+          "date": "",
+          "episodeId": "snk-s4-episode-3-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-3-sub-indo/"
+        },
+        {
+          "title": "Episode 2",
+          "eps": 2,
+          "date": "",
+          "episodeId": "snk-s4-episode-2-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-2-sub-indo/"
+        },
+        {
+          "title": "Episode 1",
+          "eps": 1,
+          "date": "",
+          "episodeId": "snk-s4-episode-1-sub-indo",
+          "href": "/anime/episode/snk-s4-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/snk-s4-episode-1-sub-indo/"
+        }
+      ]
+    }
+  },
+  "pagination": null
+}

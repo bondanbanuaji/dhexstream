@@ -1,0 +1,376 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Watari-kun no xx ga Houkai Sunzen Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Watari-kun-no-xx-ga-Houkai-Sunzen.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "watari-xx-ga-houkai-sunzen-sub-indo",
+        "href": "/anime/anime/watari-xx-ga-houkai-sunzen-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/watari-xx-ga-houkai-sunzen-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          }
+        ]
+      },
+      {
+        "title": "Watashi wo Tabetai, Hitodenashi Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Watashi-wo-Tabetai-Hitodenashi.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "watashi-tabetai-hitodenashi-sub-indo",
+        "href": "/anime/anime/watashi-tabetai-hitodenashi-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/watashi-tabetai-hitodenashi-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Girls Love",
+            "genreId": "girls-love",
+            "href": "/anime/genre/girls-love",
+            "otakudesuUrl": "https://otakudesu.best/genres/girls-love/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      },
+      {
+        "title": "Ranma ½ (2024) (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/02/Ranma-½-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.05",
+        "animeId": "ranma-2024-sub-indo",
+        "href": "/anime/anime/ranma-2024-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/ranma-2024-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Ecchi",
+            "genreId": "ecchi",
+            "href": "/anime/genre/ecchi",
+            "otakudesuUrl": "https://otakudesu.best/genres/ecchi/"
+          },
+          {
+            "title": "Martial Arts",
+            "genreId": "martial-arts",
+            "href": "/anime/genre/martial-arts",
+            "otakudesuUrl": "https://otakudesu.best/genres/martial-arts/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Tsunlise (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/04/Tsunlise-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.24",
+        "animeId": "tsunlise-sub-indo",
+        "href": "/anime/anime/tsunlise-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/tsunlise-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "Video Game",
+            "genreId": "video-game",
+            "href": "/anime/genre/video-game",
+            "otakudesuUrl": "https://otakudesu.best/genres/video-game/"
+          }
+        ]
+      },
+      {
+        "title": "Soredemo Ayumu wa Yosetekuru (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2022/09/Soredemo-Ayumu-wa-Yosetekuru-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.14",
+        "animeId": "soredemo-yosetekuru-sub-indo",
+        "href": "/anime/anime/soredemo-yosetekuru-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/soredemo-yosetekuru-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          }
+        ]
+      },
+      {
+        "title": "Kakegurui Season 2 (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/01/Kakegurui-Season-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.71",
+        "animeId": "kaegurui-season-2-subtitle-indonesia",
+        "href": "/anime/anime/kaegurui-season-2-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kaegurui-season-2-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Mystery",
+            "genreId": "mystery",
+            "href": "/anime/genre/mystery",
+            "otakudesuUrl": "https://otakudesu.best/genres/mystery/"
+          },
+          {
+            "title": "Psychological",
+            "genreId": "psychological",
+            "href": "/anime/genre/psychological",
+            "otakudesuUrl": "https://otakudesu.best/genres/psychological/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Kakegurui (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/10/Kakegurui-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.55",
+        "animeId": "kkgurui-sub-indo",
+        "href": "/anime/anime/kkgurui-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kkgurui-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Mystery",
+            "genreId": "mystery",
+            "href": "/anime/genre/mystery",
+            "otakudesuUrl": "https://otakudesu.best/genres/mystery/"
+          },
+          {
+            "title": "Psychological",
+            "genreId": "psychological",
+            "href": "/anime/genre/psychological",
+            "otakudesuUrl": "https://otakudesu.best/genres/psychological/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Ushio to Tora (Episode 1 – 26) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/12/Ushio-to-Tora-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.66",
+        "animeId": "ushio-tora-subtitle-indonesia",
+        "href": "/anime/anime/ushio-tora-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/ushio-tora-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Demons",
+            "genreId": "demons",
+            "href": "/anime/genre/demons",
+            "otakudesuUrl": "https://otakudesu.best/genres/demons/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      },
+      {
+        "title": "Clockwork Planet (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/05/Clockwork-Planet.jpg",
+        "status": "Completed",
+        "score": "6.59",
+        "animeId": "clockwork-on-planet-subtitle-indonesia",
+        "href": "/anime/anime/clockwork-on-planet-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/clockwork-on-planet-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

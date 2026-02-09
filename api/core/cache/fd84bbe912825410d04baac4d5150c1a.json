@@ -1,0 +1,478 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Goumon Baito-kun no Nichijou Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153380.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "goumon-baito-sub-indo",
+        "href": "/anime/anime/goumon-baito-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/goumon-baito-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          }
+        ]
+      },
+      {
+        "title": "Ikoku Nikki Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Ikoku-Nikki-Sub.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "ikoku-nikki-sub-indo",
+        "href": "/anime/anime/ikoku-nikki-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/ikoku-nikki-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Josei",
+            "genreId": "josei",
+            "href": "/anime/genre/josei",
+            "otakudesuUrl": "https://otakudesu.best/genres/josei/"
+          }
+        ]
+      },
+      {
+        "title": "Jigokuraku Season 2 Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154456.jpg",
+        "status": "Ongoing",
+        "score": "7.58",
+        "animeId": "jigokuku-s2-sub-indo",
+        "href": "/anime/anime/jigokuku-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/jigokuku-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Gore",
+            "genreId": "gore",
+            "href": "/anime/genre/gore",
+            "otakudesuUrl": "https://otakudesu.best/genres/gore/"
+          },
+          {
+            "title": "Historical",
+            "genreId": "historical",
+            "href": "/anime/genre/historical",
+            "otakudesuUrl": "https://otakudesu.best/genres/historical/"
+          },
+          {
+            "title": "Samurai",
+            "genreId": "samurai",
+            "href": "/anime/genre/samurai",
+            "otakudesuUrl": "https://otakudesu.best/genres/samurai/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      },
+      {
+        "title": "Kizoku Tensei Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153722.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "kizoku-tensei-subtitle-indonesia",
+        "href": "/anime/anime/kizoku-tensei-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kizoku-tensei-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Hanazakari no Kimitachi e Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/152041.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "hanazakari-kimitachi-sub-indo",
+        "href": "/anime/anime/hanazakari-kimitachi-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/hanazakari-kimitachi-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shoujo",
+            "genreId": "shoujo",
+            "href": "/anime/genre/shoujo",
+            "otakudesuUrl": "https://otakudesu.best/genres/shoujo/"
+          }
+        ]
+      },
+      {
+        "title": "Seihantai na Kimi to Boku Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Seihantai-na-Kimi-to-Boku.jpg",
+        "status": "Ongoing",
+        "score": "7.87",
+        "animeId": "seihantai-kimi-boku-sub-indo",
+        "href": "/anime/anime/seihantai-kimi-boku-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/seihantai-kimi-boku-sub-indo/",
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Majutsushi Kunon wa Mieteiru Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154459.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "majutsushi-kunon-mieteiru-sub-indo",
+        "href": "/anime/anime/majutsushi-kunon-mieteiru-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/majutsushi-kunon-mieteiru-sub-indo/",
+        "genreList": [
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Ao no Orchestra Season 2 Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151796.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "orchestra-s2-sub-indo",
+        "href": "/anime/anime/orchestra-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/orchestra-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Music",
+            "genreId": "music",
+            "href": "/anime/genre/music",
+            "otakudesuUrl": "https://otakudesu.best/genres/music/"
+          },
+          {
+            "title": "Performing Arts",
+            "genreId": "performing-arts",
+            "href": "/anime/genre/performing-arts",
+            "otakudesuUrl": "https://otakudesu.best/genres/performing-arts/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          }
+        ]
+      },
+      {
+        "title": "Gnosia Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152352.jpg",
+        "status": "Ongoing",
+        "score": "7.14",
+        "animeId": "gnosia-sub-indo",
+        "href": "/anime/anime/gnosia-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/gnosia-sub-indo/",
+        "genreList": [
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          },
+          {
+            "title": "Survival",
+            "genreId": "survival",
+            "href": "/anime/genre/survival",
+            "otakudesuUrl": "https://otakudesu.best/genres/survival/"
+          },
+          {
+            "title": "Suspense",
+            "genreId": "suspense",
+            "href": "/anime/genre/suspense",
+            "otakudesuUrl": "https://otakudesu.best/genres/suspense/"
+          },
+          {
+            "title": "Time Travel",
+            "genreId": "time-travel",
+            "href": "/anime/genre/time-travel",
+            "otakudesuUrl": "https://otakudesu.best/genres/time-travel/"
+          }
+        ]
+      },
+      {
+        "title": "Kaya-chan wa Kowakunai Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153705.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "kaya-chan-kowakunai-sub-indo",
+        "href": "/anime/anime/kaya-chan-kowakunai-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kaya-chan-kowakunai-sub-indo/",
+        "genreList": [
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      },
+      {
+        "title": "Uruwashi no Yoi no Tsuki Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Uruwashi-no-Yoi-no-Tsuki.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "uruwashi-yoi-tsuki-sub-indo",
+        "href": "/anime/anime/uruwashi-yoi-tsuki-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/uruwashi-yoi-tsuki-sub-indo/",
+        "genreList": [
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shoujo",
+            "genreId": "shoujo",
+            "href": "/anime/genre/shoujo",
+            "otakudesuUrl": "https://otakudesu.best/genres/shoujo/"
+          }
+        ]
+      },
+      {
+        "title": "Digimon Beatbreak Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Digimon-Beatbreak.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "digimon-bb-sub-indo",
+        "href": "/anime/anime/digimon-bb-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/digimon-bb-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      },
+      {
+        "title": "SI-VIS: The Sound of Heroes Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151178.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "si-vis-sub-indo",
+        "href": "/anime/anime/si-vis-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/si-vis-sub-indo/",
+        "genreList": [
+          {
+            "title": "Music",
+            "genreId": "music",
+            "href": "/anime/genre/music",
+            "otakudesuUrl": "https://otakudesu.best/genres/music/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      },
+      {
+        "title": "Medalist Season 2 Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/medalist-2nd-season-ce42515a919d92779c8ab76111b8085d.jpg",
+        "status": "Ongoing",
+        "score": "7.64",
+        "animeId": "medalist-s2-sub-indo",
+        "href": "/anime/anime/medalist-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/medalist-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Yuusha no Kuzu Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Yuusha-no-Kuzu.jpg",
+        "status": "Ongoing",
+        "score": "",
+        "animeId": "yuusha-kuzu-sub-indo",
+        "href": "/anime/anime/yuusha-kuzu-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/yuusha-kuzu-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Organized Crime",
+            "genreId": "organized-crime",
+            "href": "/anime/genre/organized-crime",
+            "otakudesuUrl": "https://otakudesu.best/genres/organized-crime/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          },
+          {
+            "title": "Super Power",
+            "genreId": "super-power",
+            "href": "/anime/genre/super-power",
+            "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

@@ -1,0 +1,3870 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "One Piece Episode 1 Subtitle Indonesia",
+    "animeId": "1piece-sub-indo",
+    "releaseTime": "Release on 1:01 am",
+    "defaultStreamingUrl": "https://desustream.info/dstream/moedesu/v2/index.php?id=OFJYdGNoZmEwaG1MUkRtK2t6NHJXdz09",
+    "hasPrevEpisode": false,
+    "prevEpisode": null,
+    "hasNextEpisode": true,
+    "nextEpisode": {
+      "title": "Next",
+      "episodeId": "wpoiec-episode-2-sub-indo",
+      "href": "/anime/episode/wpoiec-episode-2-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-2-sub-indo/"
+    },
+    "server": {
+      "qualities": [
+        {
+          "title": "360p",
+          "serverList": []
+        },
+        {
+          "title": "480p",
+          "serverList": [
+            {
+              "title": "moedesu",
+              "serverId": "65DDD5-5-9D5u",
+              "href": "/anime/server/65DDD5-5-9D5u"
+            },
+            {
+              "title": "mp4load",
+              "serverId": "65DDD5-6-9D5u",
+              "href": "/anime/server/65DDD5-6-9D5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "65DDD5-7-9D5u",
+              "href": "/anime/server/65DDD5-7-9D5u"
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "serverList": [
+            {
+              "title": "moedesuhd ",
+              "serverId": "65DDD5-5-C75u",
+              "href": "/anime/server/65DDD5-5-C75u"
+            },
+            {
+              "title": "yourupload ",
+              "serverId": "65DDD5-6-C75u",
+              "href": "/anime/server/65DDD5-6-C75u"
+            },
+            {
+              "title": "mega ",
+              "serverId": "65DDD5-7-C75u",
+              "href": "/anime/server/65DDD5-7-C75u"
+            }
+          ]
+        }
+      ]
+    },
+    "downloadUrl": {
+      "qualities": [
+        {
+          "title": "360p",
+          "size": "60.4 MB",
+          "urls": [
+            {
+              "title": "ZippyShare",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V6Tms1UmxYL3NMYTA1T1lzODVtNS9lUjY4NGtmc0RhYUt3NDFRMHBBUkEzajNFek56anVWU2NFYz0="
+            },
+            {
+              "title": "Filesim",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VpS0ZVRjEyU3JPdXNuUHNCNStUMXVMUUc3N0Z3PQ=="
+            },
+            {
+              "title": "DesuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUtycXp4T2VvTGt3RWlpNm5KTEV0TzVzNTZ5RnVjMTN3c2tPblJ0dVR0N0p3M3ZKVU94U29TeEpUK3VGb2RtSDVubUg4Ni9NL2tFdzB6VXdm"
+            },
+            {
+              "title": "LetsUp",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VvSkUwVDBUcXVPS1V0WjVzZ29WMDZlMWp3d2w2aUVQeWM2NGxreG9oelFucWhTbTVKazdzV2JYVHNuQXZYcWFVPQ=="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzcwbFBMR2FkOUV2Z0x1MlB3cTVjMnJOeUp4eitTSEpkbDlkNVIxL1V0UlAzbmFNc2hWWU96MHdSMWNLb3BESzRkbWh3RHc9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "480p",
+          "size": "93.6 MB",
+          "urls": [
+            {
+              "title": "ZippyShare",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V6Tms1UmxIenNMYTA1T1lzODVtNS9lUjY4NGtmc0RhYVI2Y2hsenA1UkduajNFek56anVWU2NFYz0="
+            },
+            {
+              "title": "Filesim",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VpS0ZVRjEyU3JPdXN0Sm9oOStEaHZkVm52LzFzPQ=="
+            },
+            {
+              "title": "DesuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUtycXp4T2VvTGt3RWlpNm5KTEV0TzVzNTZ5RnVjMTN3c2tPblJ1Mld5OHRMM1o1YkloSGJPUTRrK3ZsRGRCUEpzQmZXaXNRRWh6TXd6VXdm"
+            },
+            {
+              "title": "LetsUp",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VvSkUwVDBUcXVPS1V0WjVzZ29WMDZlMXp3d2w2aUVQeWM2NGxreG9oelFucWhTbTVKbExVV2JYVHNuQXZYcWFVPQ=="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzVGcEVaVnE5eDJQZ0wrR2R1Wjk2cm90Uk5XRDlTZzkxN2VwUGJIUGF0RUxLbHRzT2hqVVkrQmxmeCtXdnBTbUlRVHhQY2c9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "size": "86.0 MB",
+          "urls": [
+            {
+              "title": "ZippyShare",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V6Tms1V2lqQ3JKN1F3T3BvdS9Hb2pmMSt5b2x6c1BPcWM0WkJTKzQ4TUNUNzlIM0YrMU9CSw=="
+            },
+            {
+              "title": "Filesim",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VpS0ZVRjEyU3JPdXMrTG9FbC9IOWtLbHk4LzFBPQ=="
+            },
+            {
+              "title": "DesuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUtycXp4T2VvTGt3RWlpNm5KTEV0TzVzNTZ5RnVjMTN3c2tPblJzYTk0cjVEM0o0UU9UcmZFeE1rbWI1L1Mybk5nMjNzc2RwWnJuUXd6VXdm"
+            },
+            {
+              "title": "LetsUp",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VvSkUwVDBUcXVPS1V0WjVzZ29WMDZlMER3d2w2aUVQeWM2NGxreG9oelFucWhTbTVKbDc4V2JYVHNuQXZYcWFVPQ=="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3VXeFVhM0dMK252Z0NlNmQzSXM4NmFsM09TUGRMR3BtNHVsaWMwbk1zRXY5aUtJR2gwZ0g0VWhqLytPU3ZBdStWbWhCY2c9PQ=="
+            }
+          ]
+        }
+      ]
+    },
+    "info": {
+      "credit": "Samehadaku | Oploverz",
+      "encoder": "",
+      "duration": "24 Menit",
+      "type": "TV",
+      "genreList": [
+        {
+          "title": "Action",
+          "genreId": "action",
+          "href": "/anime/genre/action",
+          "otakudesuUrl": "https://otakudesu.best/genres/action/"
+        },
+        {
+          "title": "Adventure",
+          "genreId": "adventure",
+          "href": "/anime/genre/adventure",
+          "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+        },
+        {
+          "title": "Comedy",
+          "genreId": "comedy",
+          "href": "/anime/genre/comedy",
+          "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+        },
+        {
+          "title": "Drama",
+          "genreId": "drama",
+          "href": "/anime/genre/drama",
+          "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+        },
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/anime/genre/fantasy",
+          "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+        },
+        {
+          "title": "Shounen",
+          "genreId": "shounen",
+          "href": "/anime/genre/shounen",
+          "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+        },
+        {
+          "title": "Super Power",
+          "genreId": "super-power",
+          "href": "/anime/genre/super-power",
+          "otakudesuUrl": "https://otakudesu.best/genres/super-power/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "Episode 1155",
+          "eps": 1155,
+          "date": "",
+          "episodeId": "wpoiec-episode-1155-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1155-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1155-sub-indo/"
+        },
+        {
+          "title": "Episode 1154",
+          "eps": 1154,
+          "date": "",
+          "episodeId": "wpoiec-episode-1154-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1154-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1154-sub-indo/"
+        },
+        {
+          "title": "Episode 1153",
+          "eps": 1153,
+          "date": "",
+          "episodeId": "wpoiec-episode-1153-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1153-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1153-sub-indo/"
+        },
+        {
+          "title": "Episode 1152",
+          "eps": 1152,
+          "date": "",
+          "episodeId": "wpoiec-episode-1152-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1152-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1152-sub-indo/"
+        },
+        {
+          "title": "Episode 1151",
+          "eps": 1151,
+          "date": "",
+          "episodeId": "wpoiec-episode-1151-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1151-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1151-sub-indo/"
+        },
+        {
+          "title": "Episode 1150",
+          "eps": 1150,
+          "date": "",
+          "episodeId": "wpoiec-episode-1150-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1150-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1150-sub-indo/"
+        },
+        {
+          "title": "Episode 1149",
+          "eps": 1149,
+          "date": "",
+          "episodeId": "wpoiec-episode-1149-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1149-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1149-sub-indo/"
+        },
+        {
+          "title": "Episode 1148",
+          "eps": 1148,
+          "date": "",
+          "episodeId": "wpoiec-episode-1148-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1148-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1148-sub-indo/"
+        },
+        {
+          "title": "Episode 1147",
+          "eps": 1147,
+          "date": "",
+          "episodeId": "wpoiec-episode-1147-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1147-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1147-sub-indo/"
+        },
+        {
+          "title": "Episode 1146",
+          "eps": 1146,
+          "date": "",
+          "episodeId": "wpoiec-episode-1146-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1146-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1146-sub-indo/"
+        },
+        {
+          "title": "Episode 1145",
+          "eps": 1145,
+          "date": "",
+          "episodeId": "wpoiec-episode-1145-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1145-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1145-sub-indo/"
+        },
+        {
+          "title": "Episode 1144",
+          "eps": 1144,
+          "date": "",
+          "episodeId": "wpoiec-episode-1144-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1144-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1144-sub-indo/"
+        },
+        {
+          "title": "Episode 1143",
+          "eps": 1143,
+          "date": "",
+          "episodeId": "wpoiec-episode-1143-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1143-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1143-sub-indo/"
+        },
+        {
+          "title": "Episode 1142",
+          "eps": 1142,
+          "date": "",
+          "episodeId": "wpoiec-episode-1142-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1142-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1142-sub-indo/"
+        },
+        {
+          "title": "Episode 1141",
+          "eps": 1141,
+          "date": "",
+          "episodeId": "wpoiec-episode-1141-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1141-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1141-sub-indo/"
+        },
+        {
+          "title": "Episode 1140",
+          "eps": 1140,
+          "date": "",
+          "episodeId": "wpoiec-episode-1140-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1140-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1140-sub-indo/"
+        },
+        {
+          "title": "Episode 1139",
+          "eps": 1139,
+          "date": "",
+          "episodeId": "wpoiec-episode-1139-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1139-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1139-sub-indo/"
+        },
+        {
+          "title": "Episode 1138",
+          "eps": 1138,
+          "date": "",
+          "episodeId": "wpoiec-episode-1138-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1138-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1138-sub-indo/"
+        },
+        {
+          "title": "Episode 1137",
+          "eps": 1137,
+          "date": "",
+          "episodeId": "wpoiec-episode-1137-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1137-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1137-sub-indo/"
+        },
+        {
+          "title": "Episode 1136",
+          "eps": 1136,
+          "date": "",
+          "episodeId": "wpoiec-episode-1136-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1136-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1136-sub-indo/"
+        },
+        {
+          "title": "Episode 1135",
+          "eps": 1135,
+          "date": "",
+          "episodeId": "wpoiec-episode-1135-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1135-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1135-sub-indo/"
+        },
+        {
+          "title": "Episode 1134",
+          "eps": 1134,
+          "date": "",
+          "episodeId": "wpoiec-episode-1134-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1134-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1134-sub-indo/"
+        },
+        {
+          "title": "Episode 1133",
+          "eps": 1133,
+          "date": "",
+          "episodeId": "wpoiec-episode-1133-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1133-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1133-sub-indo/"
+        },
+        {
+          "title": "Episode 1132",
+          "eps": 1132,
+          "date": "",
+          "episodeId": "wpoiec-episode-1132-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1132-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1132-sub-indo/"
+        },
+        {
+          "title": "Episode 1131",
+          "eps": 1131,
+          "date": "",
+          "episodeId": "wpoiec-episode-1131-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1131-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1131-sub-indo/"
+        },
+        {
+          "title": "Episode 1130",
+          "eps": 1130,
+          "date": "",
+          "episodeId": "wpoiec-episode-1130-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1130-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1130-sub-indo/"
+        },
+        {
+          "title": "Episode 1129",
+          "eps": 1129,
+          "date": "",
+          "episodeId": "wpoiec-episode-1129-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1129-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1129-sub-indo/"
+        },
+        {
+          "title": "Episode 1128",
+          "eps": 1128,
+          "date": "",
+          "episodeId": "wpoiec-episode-1128-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1128-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1128-sub-indo/"
+        },
+        {
+          "title": "Episode 1127",
+          "eps": 1127,
+          "date": "",
+          "episodeId": "wpoiec-episode-1127-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1127-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1127-sub-indo/"
+        },
+        {
+          "title": "Episode 1126",
+          "eps": 1126,
+          "date": "",
+          "episodeId": "wpoiec-episode-1126-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1126-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1126-sub-indo/"
+        },
+        {
+          "title": "Episode 1125",
+          "eps": 1125,
+          "date": "",
+          "episodeId": "wpoiec-episode-1125-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1125-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1125-sub-indo/"
+        },
+        {
+          "title": "Episode 1124",
+          "eps": 1124,
+          "date": "",
+          "episodeId": "wpoiec-episode-1124-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1124-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1124-sub-indo/"
+        },
+        {
+          "title": "Episode 1123",
+          "eps": 1123,
+          "date": "",
+          "episodeId": "wpoiec-episode-1123-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1123-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1123-sub-indo/"
+        },
+        {
+          "title": "Episode 1122",
+          "eps": 1122,
+          "date": "",
+          "episodeId": "wpoiec-episode-1122-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1122-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1122-sub-indo/"
+        },
+        {
+          "title": "Episode 1121",
+          "eps": 1121,
+          "date": "",
+          "episodeId": "wpoiec-episode-1121-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1121-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1121-sub-indo/"
+        },
+        {
+          "title": "Episode 1120",
+          "eps": 1120,
+          "date": "",
+          "episodeId": "wpoiec-episode-1120-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1120-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1120-sub-indo/"
+        },
+        {
+          "title": "Episode 1119",
+          "eps": 1119,
+          "date": "",
+          "episodeId": "wpoiec-episode-1119-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1119-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1119-sub-indo/"
+        },
+        {
+          "title": "Episode 1118",
+          "eps": 1118,
+          "date": "",
+          "episodeId": "wpoiec-episode-1118-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1118-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1118-sub-indo/"
+        },
+        {
+          "title": "Episode 1117",
+          "eps": 1117,
+          "date": "",
+          "episodeId": "wpoiec-episode-1117-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1117-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1117-sub-indo/"
+        },
+        {
+          "title": "Episode 1116",
+          "eps": 1116,
+          "date": "",
+          "episodeId": "wpoiec-episode-1116-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1116-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1116-sub-indo/"
+        },
+        {
+          "title": "Episode 1115",
+          "eps": 1115,
+          "date": "",
+          "episodeId": "wpoiec-episode-1115-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1115-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1115-sub-indo/"
+        },
+        {
+          "title": "Episode 1114",
+          "eps": 1114,
+          "date": "",
+          "episodeId": "wpoiec-episode-1114-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1114-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1114-sub-indo/"
+        },
+        {
+          "title": "Episode 1113",
+          "eps": 1113,
+          "date": "",
+          "episodeId": "wpoiec-episode-1113-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1113-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1113-sub-indo/"
+        },
+        {
+          "title": "Episode 1112",
+          "eps": 1112,
+          "date": "",
+          "episodeId": "wpoiec-episode-1112-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1112-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1112-sub-indo/"
+        },
+        {
+          "title": "Episode 1111",
+          "eps": 1111,
+          "date": "",
+          "episodeId": "wpoiec-episode-1111-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1111-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1111-sub-indo/"
+        },
+        {
+          "title": "Episode 1110",
+          "eps": 1110,
+          "date": "",
+          "episodeId": "wpoiec-episode-1110-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1110-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1110-sub-indo/"
+        },
+        {
+          "title": "Episode 1109",
+          "eps": 1109,
+          "date": "",
+          "episodeId": "wpoiec-episode-1109-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1109-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1109-sub-indo/"
+        },
+        {
+          "title": "Episode 1108",
+          "eps": 1108,
+          "date": "",
+          "episodeId": "wpoiec-episode-1108-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1108-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1108-sub-indo/"
+        },
+        {
+          "title": "Episode 1107",
+          "eps": 1107,
+          "date": "",
+          "episodeId": "wpoiec-episode-1107-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1107-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1107-sub-indo/"
+        },
+        {
+          "title": "Episode 1106",
+          "eps": 1106,
+          "date": "",
+          "episodeId": "wpoiec-episode-1106-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1106-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1106-sub-indo/"
+        },
+        {
+          "title": "Episode 1105",
+          "eps": 1105,
+          "date": "",
+          "episodeId": "wpoiec-episode-1105-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1105-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1105-sub-indo/"
+        },
+        {
+          "title": "Episode 1104",
+          "eps": 1104,
+          "date": "",
+          "episodeId": "wpoiec-episode-1104-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1104-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1104-sub-indo/"
+        },
+        {
+          "title": "Episode 1103",
+          "eps": 1103,
+          "date": "",
+          "episodeId": "wpoiec-episode-1103-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1103-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1103-sub-indo/"
+        },
+        {
+          "title": "Episode 1102",
+          "eps": 1102,
+          "date": "",
+          "episodeId": "wpoiec-episode-1102-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1102-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1102-sub-indo/"
+        },
+        {
+          "title": "Episode 1101",
+          "eps": 1101,
+          "date": "",
+          "episodeId": "wpoiec-episode-1101-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1101-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1101-sub-indo/"
+        },
+        {
+          "title": "Episode 1100",
+          "eps": 1100,
+          "date": "",
+          "episodeId": "wpoiec-episode-1100-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1100-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1100-sub-indo/"
+        },
+        {
+          "title": "Episode 1099",
+          "eps": 1099,
+          "date": "",
+          "episodeId": "wpoiec-episode-1099-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1099-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1099-sub-indo/"
+        },
+        {
+          "title": "Episode 1098",
+          "eps": 1098,
+          "date": "",
+          "episodeId": "wpoiec-episode-1098-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1098-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1098-sub-indo/"
+        },
+        {
+          "title": "Episode 1097",
+          "eps": 1097,
+          "date": "",
+          "episodeId": "wpoiec-episode-1097-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1097-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1097-sub-indo/"
+        },
+        {
+          "title": "Episode 1096",
+          "eps": 1096,
+          "date": "",
+          "episodeId": "wpoiec-episode-1096-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1096-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1096-sub-indo/"
+        },
+        {
+          "title": "Episode 1095",
+          "eps": 1095,
+          "date": "",
+          "episodeId": "wpoiec-episode-1095-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1095-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1095-sub-indo/"
+        },
+        {
+          "title": "Episode 1094",
+          "eps": 1094,
+          "date": "",
+          "episodeId": "wpoiec-episode-1094-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1094-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1094-sub-indo/"
+        },
+        {
+          "title": "Episode 1093",
+          "eps": 1093,
+          "date": "",
+          "episodeId": "wpoiec-episode-1093-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1093-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1093-sub-indo/"
+        },
+        {
+          "title": "Episode 1092",
+          "eps": 1092,
+          "date": "",
+          "episodeId": "wpoiec-episode-1092-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1092-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1092-sub-indo/"
+        },
+        {
+          "title": "Episode",
+          "eps": null,
+          "date": "",
+          "episodeId": "wpoiec-episode-1091-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1091-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1091-sub-indo/"
+        },
+        {
+          "title": "Episode 1090",
+          "eps": 1090,
+          "date": "",
+          "episodeId": "wpoiec-episode-1090-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1090-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1090-sub-indo/"
+        },
+        {
+          "title": "Episode 1089",
+          "eps": 1089,
+          "date": "",
+          "episodeId": "wpoiec-episode-1089-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1089-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1089-sub-indo/"
+        },
+        {
+          "title": "Episode 1088",
+          "eps": 1088,
+          "date": "",
+          "episodeId": "wpoiec-episode-1088-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1088-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1088-sub-indo/"
+        },
+        {
+          "title": "Episode 1087",
+          "eps": 1087,
+          "date": "",
+          "episodeId": "wpoiec-episode-1087-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1087-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1087-sub-indo/"
+        },
+        {
+          "title": "Episode 1086",
+          "eps": 1086,
+          "date": "",
+          "episodeId": "wpoiec-episode-1086-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1086-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1086-sub-indo/"
+        },
+        {
+          "title": "Episode 1085",
+          "eps": 1085,
+          "date": "",
+          "episodeId": "wpoiec-episode-1085-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1085-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1085-sub-indo/"
+        },
+        {
+          "title": "Episode 1084",
+          "eps": 1084,
+          "date": "",
+          "episodeId": "wpoiec-episode-1084-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1084-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1084-sub-indo/"
+        },
+        {
+          "title": "Episode 1083",
+          "eps": 1083,
+          "date": "",
+          "episodeId": "wpoiec-episode-1083-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1083-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1083-sub-indo/"
+        },
+        {
+          "title": "Episode 1082",
+          "eps": 1082,
+          "date": "",
+          "episodeId": "wpoiec-episode-1082-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1082-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1082-sub-indo/"
+        },
+        {
+          "title": "Episode 1081",
+          "eps": 1081,
+          "date": "",
+          "episodeId": "wpoiec-episode-1081-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1081-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1081-sub-indo/"
+        },
+        {
+          "title": "Episode 1080",
+          "eps": 1080,
+          "date": "",
+          "episodeId": "wpoiec-episode-1080-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1080-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1080-sub-indo/"
+        },
+        {
+          "title": "Episode 1079",
+          "eps": 1079,
+          "date": "",
+          "episodeId": "wpoiec-episode-1079-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1079-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1079-sub-indo/"
+        },
+        {
+          "title": "Episode 1078",
+          "eps": 1078,
+          "date": "",
+          "episodeId": "wpoiec-episode-1078-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1078-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1078-sub-indo/"
+        },
+        {
+          "title": "Episode 1077",
+          "eps": 1077,
+          "date": "",
+          "episodeId": "wpoiec-episode-1077-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1077-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1077-sub-indo/"
+        },
+        {
+          "title": "Episode 1076",
+          "eps": 1076,
+          "date": "",
+          "episodeId": "wpoiec-episode-1076-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1076-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1076-sub-indo/"
+        },
+        {
+          "title": "Episode 1075",
+          "eps": 1075,
+          "date": "",
+          "episodeId": "wpoiec-episode-1075-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1075-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1075-sub-indo/"
+        },
+        {
+          "title": "Episode 1074",
+          "eps": 1074,
+          "date": "",
+          "episodeId": "wpoiec-episode-1074-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1074-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1074-sub-indo/"
+        },
+        {
+          "title": "Episode 1073",
+          "eps": 1073,
+          "date": "",
+          "episodeId": "wpoiec-episode-1073-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1073-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1073-sub-indo/"
+        },
+        {
+          "title": "Episode 1072",
+          "eps": 1072,
+          "date": "",
+          "episodeId": "wpoiec-episode-1072-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1072-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1072-sub-indo/"
+        },
+        {
+          "title": "Episode 1071",
+          "eps": 1071,
+          "date": "",
+          "episodeId": "wpoiec-episode-1071-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1071-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1071-sub-indo/"
+        },
+        {
+          "title": "Episode 1070",
+          "eps": 1070,
+          "date": "",
+          "episodeId": "wpoiec-episode-1070-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1070-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1070-sub-indo/"
+        },
+        {
+          "title": "Episode 1069",
+          "eps": 1069,
+          "date": "",
+          "episodeId": "wpoiec-episode-1069-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1069-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1069-sub-indo/"
+        },
+        {
+          "title": "Episode 1068",
+          "eps": 1068,
+          "date": "",
+          "episodeId": "wpoiec-episode-1068-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1068-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1068-sub-indo/"
+        },
+        {
+          "title": "Episode 1067",
+          "eps": 1067,
+          "date": "",
+          "episodeId": "wpoiec-episode-1067-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1067-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1067-sub-indo/"
+        },
+        {
+          "title": "Episode 1066",
+          "eps": 1066,
+          "date": "",
+          "episodeId": "wpoiec-episode-1066-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1066-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1066-sub-indo/"
+        },
+        {
+          "title": "Episode 1065",
+          "eps": 1065,
+          "date": "",
+          "episodeId": "wpoiec-episode-1065-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1065-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1065-sub-indo/"
+        },
+        {
+          "title": "Episode 1064",
+          "eps": 1064,
+          "date": "",
+          "episodeId": "wpoiec-episode-1064-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1064-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1064-sub-indo/"
+        },
+        {
+          "title": "Episode 1063",
+          "eps": 1063,
+          "date": "",
+          "episodeId": "wpoiec-episode-1063-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1063-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1063-sub-indo/"
+        },
+        {
+          "title": "Episode 1062",
+          "eps": 1062,
+          "date": "",
+          "episodeId": "wpoiec-episode-1062-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1062-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1062-sub-indo/"
+        },
+        {
+          "title": "Episode 1061",
+          "eps": 1061,
+          "date": "",
+          "episodeId": "wpoiec-episode-1061-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1061-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1061-sub-indo/"
+        },
+        {
+          "title": "Episode 1060",
+          "eps": 1060,
+          "date": "",
+          "episodeId": "wpoiec-episode-1060-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1060-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1060-sub-indo/"
+        },
+        {
+          "title": "Episode 1059",
+          "eps": 1059,
+          "date": "",
+          "episodeId": "wpoiec-episode-1059-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1059-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1059-sub-indo/"
+        },
+        {
+          "title": "Episode 1058",
+          "eps": 1058,
+          "date": "",
+          "episodeId": "wpoiec-episode-1058-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1058-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1058-sub-indo/"
+        },
+        {
+          "title": "Episode 1057",
+          "eps": 1057,
+          "date": "",
+          "episodeId": "wpoiec-episode-1057-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1057-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1057-sub-indo/"
+        },
+        {
+          "title": "Episode 1056",
+          "eps": 1056,
+          "date": "",
+          "episodeId": "wpoiec-episode-1056-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1056-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1056-sub-indo/"
+        },
+        {
+          "title": "Episode 1055",
+          "eps": 1055,
+          "date": "",
+          "episodeId": "wpoiec-episode-1055-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1055-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1055-sub-indo/"
+        },
+        {
+          "title": "Episode 1054",
+          "eps": 1054,
+          "date": "",
+          "episodeId": "wpoiec-episode-1054-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1054-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1054-sub-indo/"
+        },
+        {
+          "title": "Episode 1053",
+          "eps": 1053,
+          "date": "",
+          "episodeId": "wpoiec-episode-1053-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1053-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1053-sub-indo/"
+        },
+        {
+          "title": "Episode 1052",
+          "eps": 1052,
+          "date": "",
+          "episodeId": "wpoiec-episode-1052-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1052-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1052-sub-indo/"
+        },
+        {
+          "title": "Episode 1051",
+          "eps": 1051,
+          "date": "",
+          "episodeId": "wpoiec-episode-1051-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1051-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1051-sub-indo/"
+        },
+        {
+          "title": "Episode 1050",
+          "eps": 1050,
+          "date": "",
+          "episodeId": "wpoiec-episode-1050-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1050-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1050-sub-indo/"
+        },
+        {
+          "title": "Episode 1049",
+          "eps": 1049,
+          "date": "",
+          "episodeId": "wpoiec-episode-1049-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1049-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1049-sub-indo/"
+        },
+        {
+          "title": "Episode 1048",
+          "eps": 1048,
+          "date": "",
+          "episodeId": "wpoiec-episode-1048-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1048-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1048-sub-indo/"
+        },
+        {
+          "title": "Episode 1047",
+          "eps": 1047,
+          "date": "",
+          "episodeId": "wpoiec-episode-1047-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1047-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1047-sub-indo/"
+        },
+        {
+          "title": "Episode 1046",
+          "eps": 1046,
+          "date": "",
+          "episodeId": "wpoiec-episode-1046-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1046-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1046-sub-indo/"
+        },
+        {
+          "title": "Episode 1045",
+          "eps": 1045,
+          "date": "",
+          "episodeId": "wpoiec-episode-1045-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1045-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1045-sub-indo/"
+        },
+        {
+          "title": "Episode 1044",
+          "eps": 1044,
+          "date": "",
+          "episodeId": "wpoiec-episode-1044-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1044-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1044-sub-indo/"
+        },
+        {
+          "title": "Episode 1043",
+          "eps": 1043,
+          "date": "",
+          "episodeId": "wpoiec-episode-1043-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1043-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1043-sub-indo/"
+        },
+        {
+          "title": "Episode 1042",
+          "eps": 1042,
+          "date": "",
+          "episodeId": "wpoiec-episode-1042-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1042-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1042-sub-indo/"
+        },
+        {
+          "title": "Episode 1041",
+          "eps": 1041,
+          "date": "",
+          "episodeId": "wpoiec-episode-1041-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1041-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1041-sub-indo/"
+        },
+        {
+          "title": "Episode 1040",
+          "eps": 1040,
+          "date": "",
+          "episodeId": "wpoiec-episode-1040-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1040-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1040-sub-indo/"
+        },
+        {
+          "title": "Episode 1039",
+          "eps": 1039,
+          "date": "",
+          "episodeId": "wpoiec-episode-1039-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1039-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1039-sub-indo/"
+        },
+        {
+          "title": "Episode 1038",
+          "eps": 1038,
+          "date": "",
+          "episodeId": "wpoiec-episode-1038-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1038-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1038-sub-indo/"
+        },
+        {
+          "title": "Episode 1037",
+          "eps": 1037,
+          "date": "",
+          "episodeId": "wpoiec-episode-1037-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1037-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1037-sub-indo/"
+        },
+        {
+          "title": "Episode 1036",
+          "eps": 1036,
+          "date": "",
+          "episodeId": "wpoiec-episode-1036-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1036-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1036-sub-indo/"
+        },
+        {
+          "title": "Episode 1035",
+          "eps": 1035,
+          "date": "",
+          "episodeId": "wpoiec-episode-1035-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1035-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1035-sub-indo/"
+        },
+        {
+          "title": "Episode 1034",
+          "eps": 1034,
+          "date": "",
+          "episodeId": "wpoiec-episode-1034-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1034-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1034-sub-indo/"
+        },
+        {
+          "title": "Episode 1033",
+          "eps": 1033,
+          "date": "",
+          "episodeId": "wpoiec-episode-1033-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1033-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1033-sub-indo/"
+        },
+        {
+          "title": "Episode 1032",
+          "eps": 1032,
+          "date": "",
+          "episodeId": "wpoiec-episode-1032-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1032-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1032-sub-indo/"
+        },
+        {
+          "title": "Episode 1031",
+          "eps": 1031,
+          "date": "",
+          "episodeId": "wpoiec-episode-1031-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1031-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1031-sub-indo/"
+        },
+        {
+          "title": "Episode 1030.5",
+          "eps": 1030.5,
+          "date": "",
+          "episodeId": "wpoiec-episode-1030-5-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1030-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1030-5-sub-indo/"
+        },
+        {
+          "title": "Episode 1030",
+          "eps": 1030,
+          "date": "",
+          "episodeId": "wpoiec-episode-1030-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1030-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1030-sub-indo/"
+        },
+        {
+          "title": "Episode 1029",
+          "eps": 1029,
+          "date": "",
+          "episodeId": "wpoiec-episode-1029-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1029-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1029-sub-indo/"
+        },
+        {
+          "title": "Episode 1028",
+          "eps": 1028,
+          "date": "",
+          "episodeId": "wpoiec-episode-1028-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1028-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1028-sub-indo/"
+        },
+        {
+          "title": "Episode 1027",
+          "eps": 1027,
+          "date": "",
+          "episodeId": "wpoiec-episode-1027-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1027-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1027-sub-indo/"
+        },
+        {
+          "title": "Episode 126",
+          "eps": 126,
+          "date": "",
+          "episodeId": "wpoiec-episode-1026-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1026-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1026-sub-indo/"
+        },
+        {
+          "title": "Episode 1025",
+          "eps": 1025,
+          "date": "",
+          "episodeId": "wpoiec-episode-1025-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1025-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1025-sub-indo/"
+        },
+        {
+          "title": "Episode 1024",
+          "eps": 1024,
+          "date": "",
+          "episodeId": "wpoiec-episode-1024-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1024-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1024-sub-indo/"
+        },
+        {
+          "title": "Episode 1023",
+          "eps": 1023,
+          "date": "",
+          "episodeId": "wpoiec-episode-1023-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1023-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1023-sub-indo/"
+        },
+        {
+          "title": "Episode 1022.5",
+          "eps": 1022.5,
+          "date": "",
+          "episodeId": "wpoiec-episode-1022-5-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1022-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1022-5-sub-indo/"
+        },
+        {
+          "title": "Episode 1022",
+          "eps": 1022,
+          "date": "",
+          "episodeId": "wpoiec-episode-1022-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1022-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1022-sub-indo/"
+        },
+        {
+          "title": "Episode 1021",
+          "eps": 1021,
+          "date": "",
+          "episodeId": "wpoiec-episode-1021-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1021-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1021-sub-indo/"
+        },
+        {
+          "title": "Episode 1020",
+          "eps": 1020,
+          "date": "",
+          "episodeId": "wpoiec-episode-1020-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1020-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1020-sub-indo/"
+        },
+        {
+          "title": "Episode 1019",
+          "eps": 1019,
+          "date": "",
+          "episodeId": "wpoiec-episode-1019-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1019-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1019-sub-indo/"
+        },
+        {
+          "title": "Episode 1018",
+          "eps": 1018,
+          "date": "",
+          "episodeId": "wpoiec-episode-1018-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1018-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1018-sub-indo/"
+        },
+        {
+          "title": "Episode 1017",
+          "eps": 1017,
+          "date": "",
+          "episodeId": "wpoiec-episode-1017-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1017-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1017-sub-indo/"
+        },
+        {
+          "title": "Episode 1016",
+          "eps": 1016,
+          "date": "",
+          "episodeId": "wpoiec-episode-1016-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1016-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1016-sub-indo/"
+        },
+        {
+          "title": "Episode 1015",
+          "eps": 1015,
+          "date": "",
+          "episodeId": "wpoiec-episode-1015-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1015-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1015-sub-indo/"
+        },
+        {
+          "title": "Episode 1014",
+          "eps": 1014,
+          "date": "",
+          "episodeId": "wpoiec-episode-1014-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1014-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1014-sub-indo/"
+        },
+        {
+          "title": "Episode 1013",
+          "eps": 1013,
+          "date": "",
+          "episodeId": "wpoiec-episode-1013-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1013-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1013-sub-indo/"
+        },
+        {
+          "title": "Episode 1012",
+          "eps": 1012,
+          "date": "",
+          "episodeId": "wpoiec-episode-1012-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1012-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1012-sub-indo/"
+        },
+        {
+          "title": "Episode 1011",
+          "eps": 1011,
+          "date": "",
+          "episodeId": "wpoiec-episode-1011-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1011-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1011-sub-indo/"
+        },
+        {
+          "title": "Episode 1010",
+          "eps": 1010,
+          "date": "",
+          "episodeId": "wpoiec-episode-1010-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1010-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1010-sub-indo/"
+        },
+        {
+          "title": "Episode 1009",
+          "eps": 1009,
+          "date": "",
+          "episodeId": "wpoiec-episode-1009-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1009-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1009-sub-indo/"
+        },
+        {
+          "title": "Episode 1008",
+          "eps": 1008,
+          "date": "",
+          "episodeId": "wpoiec-episode-1008-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1008-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1008-sub-indo/"
+        },
+        {
+          "title": "Episode 1007",
+          "eps": 1007,
+          "date": "",
+          "episodeId": "wpoiec-episode-1007-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1007-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1007-sub-indo/"
+        },
+        {
+          "title": "Episode 1006",
+          "eps": 1006,
+          "date": "",
+          "episodeId": "wpoiec-episode-1006-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1006-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1006-sub-indo/"
+        },
+        {
+          "title": "Episode 1005",
+          "eps": 1005,
+          "date": "",
+          "episodeId": "wpoiec-episode-1005-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1005-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1005-sub-indo/"
+        },
+        {
+          "title": "Episode 1004",
+          "eps": 1004,
+          "date": "",
+          "episodeId": "wpoiec-episode-1004-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1004-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1004-sub-indo/"
+        },
+        {
+          "title": "Episode 1003",
+          "eps": 1003,
+          "date": "",
+          "episodeId": "wpoiec-episode-1003-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1003-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1003-sub-indo/"
+        },
+        {
+          "title": "Episode 1001",
+          "eps": 1001,
+          "date": "",
+          "episodeId": "wpoiec-episode-1002-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1002-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1002-sub-indo/"
+        },
+        {
+          "title": "Episode 1001",
+          "eps": 1001,
+          "date": "",
+          "episodeId": "wpoiec-episode-1001-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1001-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1001-sub-indo/"
+        },
+        {
+          "title": "Episode 1000",
+          "eps": 1000,
+          "date": "",
+          "episodeId": "wpoiec-episode-1000-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1000-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1000-sub-indo/"
+        },
+        {
+          "title": "Episode 999",
+          "eps": 999,
+          "date": "",
+          "episodeId": "wpoiec-episode-999-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-999-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-999-sub-indo/"
+        },
+        {
+          "title": "Episode 998",
+          "eps": 998,
+          "date": "",
+          "episodeId": "wpoiec-episode-998-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-998-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-998-sub-indo/"
+        },
+        {
+          "title": "Episode 997",
+          "eps": 997,
+          "date": "",
+          "episodeId": "wpoiec-episode-997-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-997-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-997-sub-indo/"
+        },
+        {
+          "title": "Episode 996",
+          "eps": 996,
+          "date": "",
+          "episodeId": "wpoiec-episode-996-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-996-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-996-sub-indo/"
+        },
+        {
+          "title": "Episode 995",
+          "eps": 995,
+          "date": "",
+          "episodeId": "wpoiec-episode-995-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-995-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-995-sub-indo/"
+        },
+        {
+          "title": "Episode 994",
+          "eps": 994,
+          "date": "",
+          "episodeId": "wpoiec-episode-994-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-994-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-994-sub-indo/"
+        },
+        {
+          "title": "Episode 993",
+          "eps": 993,
+          "date": "",
+          "episodeId": "wpoiec-episode-993-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-993-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-993-sub-indo/"
+        },
+        {
+          "title": "Episode 992",
+          "eps": 992,
+          "date": "",
+          "episodeId": "wpoiec-episode-992-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-992-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-992-sub-indo/"
+        },
+        {
+          "title": "Episode 991",
+          "eps": 991,
+          "date": "",
+          "episodeId": "wpoiec-episode-991-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-991-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-991-sub-indo/"
+        },
+        {
+          "title": "Episode 990",
+          "eps": 990,
+          "date": "",
+          "episodeId": "wpoiec-episode-990-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-990-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-990-sub-indo/"
+        },
+        {
+          "title": "Episode 989",
+          "eps": 989,
+          "date": "",
+          "episodeId": "wpoiec-episode-989-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-989-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-989-sub-indo/"
+        },
+        {
+          "title": "Episode 988",
+          "eps": 988,
+          "date": "",
+          "episodeId": "wpoiec-episode-988-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-988-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-988-sub-indo/"
+        },
+        {
+          "title": "Episode 987",
+          "eps": 987,
+          "date": "",
+          "episodeId": "wpoiec-episode-987-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-987-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-987-sub-indo/"
+        },
+        {
+          "title": "Episode 986",
+          "eps": 986,
+          "date": "",
+          "episodeId": "wpoiec-episode-986-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-986-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-986-sub-indo/"
+        },
+        {
+          "title": "Episode 985",
+          "eps": 985,
+          "date": "",
+          "episodeId": "wpoiec-episode-985-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-985-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-985-sub-indo/"
+        },
+        {
+          "title": "Episode 984",
+          "eps": 984,
+          "date": "",
+          "episodeId": "wpoiec-episode-984-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-984-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-984-sub-indo/"
+        },
+        {
+          "title": "Episode 983",
+          "eps": 983,
+          "date": "",
+          "episodeId": "wpoiec-episode-983-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-983-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-983-sub-indo/"
+        },
+        {
+          "title": "Episode 982",
+          "eps": 982,
+          "date": "",
+          "episodeId": "wpoiec-episode-982-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-982-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-982-sub-indo/"
+        },
+        {
+          "title": "Episode 981",
+          "eps": 981,
+          "date": "",
+          "episodeId": "wpoiec-episode-981-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-981-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-981-sub-indo/"
+        },
+        {
+          "title": "Episode 980",
+          "eps": 980,
+          "date": "",
+          "episodeId": "wpoiec-episode-980-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-980-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-980-sub-indo/"
+        },
+        {
+          "title": "Episode 979",
+          "eps": 979,
+          "date": "",
+          "episodeId": "wpoiec-episode-979-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-979-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-979-sub-indo/"
+        },
+        {
+          "title": "Episode 978",
+          "eps": 978,
+          "date": "",
+          "episodeId": "wpoiec-episode-978-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-978-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-978-sub-indo/"
+        },
+        {
+          "title": "Episode 977",
+          "eps": 977,
+          "date": "",
+          "episodeId": "wpoiec-episode-977-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-977-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-977-sub-indo/"
+        },
+        {
+          "title": "Episode 976",
+          "eps": 976,
+          "date": "",
+          "episodeId": "wpoiec-episode-976-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-976-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-976-sub-indo/"
+        },
+        {
+          "title": "Episode 975",
+          "eps": 975,
+          "date": "",
+          "episodeId": "wpoiec-episode-975-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-975-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-975-sub-indo/"
+        },
+        {
+          "title": "Episode 974",
+          "eps": 974,
+          "date": "",
+          "episodeId": "wpoiec-episode-974-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-974-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-974-sub-indo/"
+        },
+        {
+          "title": "Episode 973",
+          "eps": 973,
+          "date": "",
+          "episodeId": "wpoiec-episode-973-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-973-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-973-sub-indo/"
+        },
+        {
+          "title": "Episode 972",
+          "eps": 972,
+          "date": "",
+          "episodeId": "wpoiec-episode-972-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-972-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-972-sub-indo/"
+        },
+        {
+          "title": "Episode 971",
+          "eps": 971,
+          "date": "",
+          "episodeId": "wpoiec-episode-971-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-971-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-971-sub-indo/"
+        },
+        {
+          "title": "Episode 970",
+          "eps": 970,
+          "date": "",
+          "episodeId": "wpoiec-episode-970-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-970-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-970-sub-indo/"
+        },
+        {
+          "title": "Episode 969",
+          "eps": 969,
+          "date": "",
+          "episodeId": "wpoiec-episode-969-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-969-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-969-sub-indo/"
+        },
+        {
+          "title": "Episode 968",
+          "eps": 968,
+          "date": "",
+          "episodeId": "wpoiec-episode-968-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-968-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-968-sub-indo/"
+        },
+        {
+          "title": "Episode 967",
+          "eps": 967,
+          "date": "",
+          "episodeId": "wpoiec-episode-967-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-967-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-967-sub-indo/"
+        },
+        {
+          "title": "Episode 966",
+          "eps": 966,
+          "date": "",
+          "episodeId": "wpoiec-episode-966-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-966-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-966-sub-indo/"
+        },
+        {
+          "title": "Episode 965",
+          "eps": 965,
+          "date": "",
+          "episodeId": "wpoiec-episode-965-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-965-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-965-sub-indo/"
+        },
+        {
+          "title": "Episode 964",
+          "eps": 964,
+          "date": "",
+          "episodeId": "wpoiec-episode-964-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-964-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-964-sub-indo/"
+        },
+        {
+          "title": "Episode 963",
+          "eps": 963,
+          "date": "",
+          "episodeId": "wpoiec-episode-963-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-963-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-963-sub-indo/"
+        },
+        {
+          "title": "Episode 962",
+          "eps": 962,
+          "date": "",
+          "episodeId": "wpoiec-episode-962-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-962-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-962-sub-indo/"
+        },
+        {
+          "title": "Episode 961",
+          "eps": 961,
+          "date": "",
+          "episodeId": "wpoiec-episode-961-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-961-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-961-sub-indo/"
+        },
+        {
+          "title": "Episode 960",
+          "eps": 960,
+          "date": "",
+          "episodeId": "wpoiec-episode-960-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-960-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-960-sub-indo/"
+        },
+        {
+          "title": "Episode 959",
+          "eps": 959,
+          "date": "",
+          "episodeId": "wpoiec-episode-959-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-959-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-959-sub-indo/"
+        },
+        {
+          "title": "Episode 958",
+          "eps": 958,
+          "date": "",
+          "episodeId": "wpoiec-episode-958-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-958-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-958-sub-indo/"
+        },
+        {
+          "title": "Episode 957",
+          "eps": 957,
+          "date": "",
+          "episodeId": "wpoiec-episode-957-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-957-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-957-sub-indo/"
+        },
+        {
+          "title": "Episode 956",
+          "eps": 956,
+          "date": "",
+          "episodeId": "wpoiec-episode-956-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-956-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-956-sub-indo/"
+        },
+        {
+          "title": "Episode 955",
+          "eps": 955,
+          "date": "",
+          "episodeId": "wpoiec-episode-955-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-955-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-955-sub-indo/"
+        },
+        {
+          "title": "Episode 954",
+          "eps": 954,
+          "date": "",
+          "episodeId": "wpoiec-episode-954-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-954-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-954-sub-indo/"
+        },
+        {
+          "title": "Episode 953",
+          "eps": 953,
+          "date": "",
+          "episodeId": "wpoiec-episode-953-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-953-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-953-sub-indo/"
+        },
+        {
+          "title": "Episode 952",
+          "eps": 952,
+          "date": "",
+          "episodeId": "wpoiec-episode-952-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-952-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-952-sub-indo/"
+        },
+        {
+          "title": "Episode 951",
+          "eps": 951,
+          "date": "",
+          "episodeId": "wpoiec-episode-951-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-951-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-951-sub-indo/"
+        },
+        {
+          "title": "Episode 950",
+          "eps": 950,
+          "date": "",
+          "episodeId": "wpoiec-episode-950-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-950-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-950-sub-indo/"
+        },
+        {
+          "title": "Episode 949",
+          "eps": 949,
+          "date": "",
+          "episodeId": "wpoiec-episode-949-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-949-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-949-sub-indo/"
+        },
+        {
+          "title": "Episode 948",
+          "eps": 948,
+          "date": "",
+          "episodeId": "wpoiec-episode-948-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-948-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-948-sub-indo/"
+        },
+        {
+          "title": "Episode 947",
+          "eps": 947,
+          "date": "",
+          "episodeId": "wpoiec-episode-947-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-947-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-947-sub-indo/"
+        },
+        {
+          "title": "Episode 946",
+          "eps": 946,
+          "date": "",
+          "episodeId": "wpoiec-episode-946-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-946-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-946-sub-indo/"
+        },
+        {
+          "title": "Episode 945",
+          "eps": 945,
+          "date": "",
+          "episodeId": "wpoiec-episode-945-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-945-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-945-sub-indo/"
+        },
+        {
+          "title": "Episode 946",
+          "eps": 946,
+          "date": "",
+          "episodeId": "wpoiec-episode-944-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-944-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-944-sub-indo/"
+        },
+        {
+          "title": "Episode 943",
+          "eps": 943,
+          "date": "",
+          "episodeId": "wpoiec-episode-943-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-943-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-943-sub-indo/"
+        },
+        {
+          "title": "Episode 942",
+          "eps": 942,
+          "date": "",
+          "episodeId": "wpoiec-episode-942-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-942-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-942-sub-indo/"
+        },
+        {
+          "title": "Episode 941",
+          "eps": 941,
+          "date": "",
+          "episodeId": "wpoiec-episode-941-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-941-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-941-sub-indo/"
+        },
+        {
+          "title": "Episode 940",
+          "eps": 940,
+          "date": "",
+          "episodeId": "wpoiec-episode-940-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-940-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-940-sub-indo/"
+        },
+        {
+          "title": "Episode 939",
+          "eps": 939,
+          "date": "",
+          "episodeId": "wpoiec-episode-939-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-939-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-939-sub-indo/"
+        },
+        {
+          "title": "Episode 938",
+          "eps": 938,
+          "date": "",
+          "episodeId": "wpoiec-episode-938-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-938-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-938-sub-indo/"
+        },
+        {
+          "title": "Episode 937",
+          "eps": 937,
+          "date": "",
+          "episodeId": "wpoiec-episode-937-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-937-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-937-sub-indo/"
+        },
+        {
+          "title": "Episode 936",
+          "eps": 936,
+          "date": "",
+          "episodeId": "wpoiec-episode-936-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-936-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-936-sub-indo/"
+        },
+        {
+          "title": "Episode 935",
+          "eps": 935,
+          "date": "",
+          "episodeId": "wpoiec-episode-935-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-935-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-935-sub-indo/"
+        },
+        {
+          "title": "Episode 934",
+          "eps": 934,
+          "date": "",
+          "episodeId": "wpoiec-episode-934-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-934-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-934-sub-indo/"
+        },
+        {
+          "title": "Episode 933",
+          "eps": 933,
+          "date": "",
+          "episodeId": "wpoiec-episode-933-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-933-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-933-sub-indo/"
+        },
+        {
+          "title": "Episode 932",
+          "eps": 932,
+          "date": "",
+          "episodeId": "wpoiec-episode-932-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-932-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-932-sub-indo/"
+        },
+        {
+          "title": "Episode 931",
+          "eps": 931,
+          "date": "",
+          "episodeId": "wpoiec-episode-931-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-931-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-931-sub-indo/"
+        },
+        {
+          "title": "Episode 930",
+          "eps": 930,
+          "date": "",
+          "episodeId": "wpoiec-episode-930-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-930-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-930-sub-indo/"
+        },
+        {
+          "title": "Episode 929",
+          "eps": 929,
+          "date": "",
+          "episodeId": "wpoiec-episode-929-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-929-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-929-sub-indo/"
+        },
+        {
+          "title": "Episode 928",
+          "eps": 928,
+          "date": "",
+          "episodeId": "wpoiec-episode-928-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-928-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-928-sub-indo/"
+        },
+        {
+          "title": "Episode 927",
+          "eps": 927,
+          "date": "",
+          "episodeId": "wpoiec-episode-927-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-927-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-927-sub-indo/"
+        },
+        {
+          "title": "Episode 926",
+          "eps": 926,
+          "date": "",
+          "episodeId": "wpoiec-episode-926-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-926-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-926-sub-indo/"
+        },
+        {
+          "title": "Episode 925",
+          "eps": 925,
+          "date": "",
+          "episodeId": "wpoiec-episode-925-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-925-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-925-sub-indo/"
+        },
+        {
+          "title": "Episode 924",
+          "eps": 924,
+          "date": "",
+          "episodeId": "wpoiec-episode-924-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-924-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-924-sub-indo/"
+        },
+        {
+          "title": "Episode 923",
+          "eps": 923,
+          "date": "",
+          "episodeId": "wpoiec-episode-923-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-923-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-923-sub-indo/"
+        },
+        {
+          "title": "Episode 922",
+          "eps": 922,
+          "date": "",
+          "episodeId": "wpoiec-episode-922-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-922-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-922-sub-indo/"
+        },
+        {
+          "title": "Episode 921",
+          "eps": 921,
+          "date": "",
+          "episodeId": "wpoiec-episode-921-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-921-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-921-sub-indo/"
+        },
+        {
+          "title": "Episode 920",
+          "eps": 920,
+          "date": "",
+          "episodeId": "wpoiec-episode-920-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-920-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-920-sub-indo/"
+        },
+        {
+          "title": "Episode 919",
+          "eps": 919,
+          "date": "",
+          "episodeId": "wpoiec-episode-919-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-919-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-919-sub-indo/"
+        },
+        {
+          "title": "Episode 918",
+          "eps": 918,
+          "date": "",
+          "episodeId": "wpoiec-episode-918-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-918-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-918-sub-indo/"
+        },
+        {
+          "title": "Episode 917",
+          "eps": 917,
+          "date": "",
+          "episodeId": "wpoiec-episode-917-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-917-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-917-sub-indo/"
+        },
+        {
+          "title": "Episode 916",
+          "eps": 916,
+          "date": "",
+          "episodeId": "wpoiec-episode-916-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-916-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-916-sub-indo/"
+        },
+        {
+          "title": "Episode 915",
+          "eps": 915,
+          "date": "",
+          "episodeId": "wpoiec-episode-915-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-915-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-915-sub-indo/"
+        },
+        {
+          "title": "Episode 914",
+          "eps": 914,
+          "date": "",
+          "episodeId": "wpoiec-episode-914-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-914-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-914-sub-indo/"
+        },
+        {
+          "title": "Episode 913",
+          "eps": 913,
+          "date": "",
+          "episodeId": "wpoiec-episode-913-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-913-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-913-sub-indo/"
+        },
+        {
+          "title": "Episode 912",
+          "eps": 912,
+          "date": "",
+          "episodeId": "wpoiec-episode-912-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-912-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-912-sub-indo/"
+        },
+        {
+          "title": "Episode 911",
+          "eps": 911,
+          "date": "",
+          "episodeId": "wpoiec-episode-911-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-911-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-911-sub-indo/"
+        },
+        {
+          "title": "Episode 910",
+          "eps": 910,
+          "date": "",
+          "episodeId": "wpoiec-episode-910-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-910-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-910-sub-indo/"
+        },
+        {
+          "title": "Episode 909",
+          "eps": 909,
+          "date": "",
+          "episodeId": "wpoiec-episode-909-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-909-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-909-sub-indo/"
+        },
+        {
+          "title": "Episode 908",
+          "eps": 908,
+          "date": "",
+          "episodeId": "wpoiec-episode-908-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-908-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-908-sub-indo/"
+        },
+        {
+          "title": "Episode 907",
+          "eps": 907,
+          "date": "",
+          "episodeId": "wpoiec-episode-907-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-907-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-907-sub-indo/"
+        },
+        {
+          "title": "Episode 906",
+          "eps": 906,
+          "date": "",
+          "episodeId": "wpoiec-episode-906-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-906-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-906-sub-indo/"
+        },
+        {
+          "title": "Episode 905",
+          "eps": 905,
+          "date": "",
+          "episodeId": "wpoiec-episode-905-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-905-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-905-sub-indo/"
+        },
+        {
+          "title": "Episode 904",
+          "eps": 904,
+          "date": "",
+          "episodeId": "wpoiec-episode-904-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-904-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-904-sub-indo/"
+        },
+        {
+          "title": "Episode 903",
+          "eps": 903,
+          "date": "",
+          "episodeId": "wpoiec-episode-903-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-903-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-903-sub-indo/"
+        },
+        {
+          "title": "Episode 902",
+          "eps": 902,
+          "date": "",
+          "episodeId": "wpoiec-episode-902-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-902-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-902-sub-indo/"
+        },
+        {
+          "title": "Episode 901",
+          "eps": 901,
+          "date": "",
+          "episodeId": "wpoiec-episode-901-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-901-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-901-sub-indo/"
+        },
+        {
+          "title": "Episode",
+          "eps": null,
+          "date": "",
+          "episodeId": "pembatas-episode-episode-1-900-dalam-proses",
+          "href": "/anime/episode/pembatas-episode-episode-1-900-dalam-proses",
+          "otakudesuUrl": "https://otakudesu.best/episode/pembatas-episode-episode-1-900-dalam-proses/"
+        },
+        {
+          "title": "Episode 200",
+          "eps": 200,
+          "date": "",
+          "episodeId": "wpoiec-episode-200-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-200-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-200-sub-indo/"
+        },
+        {
+          "title": "Episode 199",
+          "eps": 199,
+          "date": "",
+          "episodeId": "wpoiec-episode-199-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-199-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-199-sub-indo/"
+        },
+        {
+          "title": "Episode 198",
+          "eps": 198,
+          "date": "",
+          "episodeId": "wpoiec-episode-198-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-198-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-198-sub-indo/"
+        },
+        {
+          "title": "Episode 197",
+          "eps": 197,
+          "date": "",
+          "episodeId": "wpoiec-episode-197-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-197-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-197-sub-indo/"
+        },
+        {
+          "title": "Episode 196",
+          "eps": 196,
+          "date": "",
+          "episodeId": "wpoiec-episode-196-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-196-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-196-sub-indo/"
+        },
+        {
+          "title": "Episode 195",
+          "eps": 195,
+          "date": "",
+          "episodeId": "wpoiec-episode-195-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-195-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-195-sub-indo/"
+        },
+        {
+          "title": "Episode 194",
+          "eps": 194,
+          "date": "",
+          "episodeId": "wpoiec-episode-194-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-194-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-194-sub-indo/"
+        },
+        {
+          "title": "Episode 193",
+          "eps": 193,
+          "date": "",
+          "episodeId": "wpoiec-episode-193-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-193-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-193-sub-indo/"
+        },
+        {
+          "title": "Episode 192",
+          "eps": 192,
+          "date": "",
+          "episodeId": "wpoiec-episode-192-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-192-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-192-sub-indo/"
+        },
+        {
+          "title": "Episode 191",
+          "eps": 191,
+          "date": "",
+          "episodeId": "wpoiec-episode-191-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-191-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-191-sub-indo/"
+        },
+        {
+          "title": "Episode 190",
+          "eps": 190,
+          "date": "",
+          "episodeId": "wpoiec-episode-190-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-190-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-190-sub-indo/"
+        },
+        {
+          "title": "Episode 189",
+          "eps": 189,
+          "date": "",
+          "episodeId": "wpoiec-episode-189-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-189-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-189-sub-indo/"
+        },
+        {
+          "title": "Episode 188",
+          "eps": 188,
+          "date": "",
+          "episodeId": "wpoiec-episode-188-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-188-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-188-sub-indo/"
+        },
+        {
+          "title": "Episode 187",
+          "eps": 187,
+          "date": "",
+          "episodeId": "wpoiec-episode-187-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-187-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-187-sub-indo/"
+        },
+        {
+          "title": "Episode 186",
+          "eps": 186,
+          "date": "",
+          "episodeId": "wpoiec-episode-186-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-186-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-186-sub-indo/"
+        },
+        {
+          "title": "Episode 185",
+          "eps": 185,
+          "date": "",
+          "episodeId": "wpoiec-episode-185-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-185-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-185-sub-indo/"
+        },
+        {
+          "title": "Episode 184",
+          "eps": 184,
+          "date": "",
+          "episodeId": "wpoiec-episode-184-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-184-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-184-sub-indo/"
+        },
+        {
+          "title": "Episode 183",
+          "eps": 183,
+          "date": "",
+          "episodeId": "wpoiec-episode-183-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-183-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-183-sub-indo/"
+        },
+        {
+          "title": "Episode 182",
+          "eps": 182,
+          "date": "",
+          "episodeId": "wpoiec-episode-182-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-182-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-182-sub-indo/"
+        },
+        {
+          "title": "Episode 181",
+          "eps": 181,
+          "date": "",
+          "episodeId": "wpoiec-episode-181-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-181-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-181-sub-indo/"
+        },
+        {
+          "title": "Episode 180",
+          "eps": 180,
+          "date": "",
+          "episodeId": "wpoiec-episode-180-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-180-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-180-sub-indo/"
+        },
+        {
+          "title": "Episode 179",
+          "eps": 179,
+          "date": "",
+          "episodeId": "wpoiec-episode-179-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-179-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-179-sub-indo/"
+        },
+        {
+          "title": "Episode 178",
+          "eps": 178,
+          "date": "",
+          "episodeId": "wpoiec-episode-178-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-178-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-178-sub-indo/"
+        },
+        {
+          "title": "Episode 177",
+          "eps": 177,
+          "date": "",
+          "episodeId": "wpoiec-episode-177-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-177-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-177-sub-indo/"
+        },
+        {
+          "title": "Episode 176",
+          "eps": 176,
+          "date": "",
+          "episodeId": "wpoiec-episode-176-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-176-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-176-sub-indo/"
+        },
+        {
+          "title": "Episode 175",
+          "eps": 175,
+          "date": "",
+          "episodeId": "wpoiec-episode-175-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-175-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-175-sub-indo/"
+        },
+        {
+          "title": "Episode 174",
+          "eps": 174,
+          "date": "",
+          "episodeId": "wpoiec-episode-174-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-174-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-174-sub-indo/"
+        },
+        {
+          "title": "Episode 173",
+          "eps": 173,
+          "date": "",
+          "episodeId": "wpoiec-episode-173-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-173-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-173-sub-indo/"
+        },
+        {
+          "title": "Episode 172",
+          "eps": 172,
+          "date": "",
+          "episodeId": "wpoiec-episode-172-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-172-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-172-sub-indo/"
+        },
+        {
+          "title": "Episode 71",
+          "eps": 71,
+          "date": "",
+          "episodeId": "wpoiec-episode-171-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-171-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-171-sub-indo/"
+        },
+        {
+          "title": "Episode 170",
+          "eps": 170,
+          "date": "",
+          "episodeId": "wpoiec-episode-170-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-170-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-170-sub-indo/"
+        },
+        {
+          "title": "Episode 169",
+          "eps": 169,
+          "date": "",
+          "episodeId": "wpoiec-episode-169-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-169-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-169-sub-indo/"
+        },
+        {
+          "title": "Episode 168",
+          "eps": 168,
+          "date": "",
+          "episodeId": "wpoiec-episode-168-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-168-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-168-sub-indo/"
+        },
+        {
+          "title": "Episode 167",
+          "eps": 167,
+          "date": "",
+          "episodeId": "wpoiec-episode-167-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-167-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-167-sub-indo/"
+        },
+        {
+          "title": "Episode 166",
+          "eps": 166,
+          "date": "",
+          "episodeId": "wpoiec-episode-166-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-166-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-166-sub-indo/"
+        },
+        {
+          "title": "Episode 165",
+          "eps": 165,
+          "date": "",
+          "episodeId": "wpoiec-episode-165-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-165-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-165-sub-indo/"
+        },
+        {
+          "title": "Episode 164",
+          "eps": 164,
+          "date": "",
+          "episodeId": "wpoiec-episode-164-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-164-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-164-sub-indo/"
+        },
+        {
+          "title": "Episode 163",
+          "eps": 163,
+          "date": "",
+          "episodeId": "wpoiec-episode-163-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-163-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-163-sub-indo/"
+        },
+        {
+          "title": "Episode 162",
+          "eps": 162,
+          "date": "",
+          "episodeId": "wpoiec-episode-162-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-162-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-162-sub-indo/"
+        },
+        {
+          "title": "Episode 161",
+          "eps": 161,
+          "date": "",
+          "episodeId": "wpoiec-episode-161-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-161-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-161-sub-indo/"
+        },
+        {
+          "title": "Episode 160",
+          "eps": 160,
+          "date": "",
+          "episodeId": "wpoiec-episode-160-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-160-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-160-sub-indo/"
+        },
+        {
+          "title": "Episode 159",
+          "eps": 159,
+          "date": "",
+          "episodeId": "wpoiec-episode-159-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-159-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-159-sub-indo/"
+        },
+        {
+          "title": "Episode 158",
+          "eps": 158,
+          "date": "",
+          "episodeId": "wpoiec-episode-158-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-158-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-158-sub-indo/"
+        },
+        {
+          "title": "Episode 157",
+          "eps": 157,
+          "date": "",
+          "episodeId": "wpoiec-episode-157-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-157-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-157-sub-indo/"
+        },
+        {
+          "title": "Episode 156",
+          "eps": 156,
+          "date": "",
+          "episodeId": "wpoiec-episode-156-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-156-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-156-sub-indo/"
+        },
+        {
+          "title": "Episode 155",
+          "eps": 155,
+          "date": "",
+          "episodeId": "wpoiec-episode-155-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-155-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-155-sub-indo/"
+        },
+        {
+          "title": "Episode 154",
+          "eps": 154,
+          "date": "",
+          "episodeId": "wpoiec-episode-154-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-154-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-154-sub-indo/"
+        },
+        {
+          "title": "Episode 153",
+          "eps": 153,
+          "date": "",
+          "episodeId": "wpoiec-episode-153-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-153-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-153-sub-indo/"
+        },
+        {
+          "title": "Episode 152",
+          "eps": 152,
+          "date": "",
+          "episodeId": "wpoiec-episode-152-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-152-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-152-sub-indo/"
+        },
+        {
+          "title": "Episode 151",
+          "eps": 151,
+          "date": "",
+          "episodeId": "wpoiec-episode-151-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-151-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-151-sub-indo/"
+        },
+        {
+          "title": "Episode 150",
+          "eps": 150,
+          "date": "",
+          "episodeId": "wpoiec-episode-150-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-150-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-150-sub-indo/"
+        },
+        {
+          "title": "Episode 149",
+          "eps": 149,
+          "date": "",
+          "episodeId": "wpoiec-episode-149-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-149-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-149-sub-indo/"
+        },
+        {
+          "title": "Episode 148",
+          "eps": 148,
+          "date": "",
+          "episodeId": "wpoiec-episode-148-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-148-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-148-sub-indo/"
+        },
+        {
+          "title": "Episode 147",
+          "eps": 147,
+          "date": "",
+          "episodeId": "wpoiec-episode-147-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-147-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-147-sub-indo/"
+        },
+        {
+          "title": "Episode 146",
+          "eps": 146,
+          "date": "",
+          "episodeId": "wpoiec-episode-146-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-146-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-146-sub-indo/"
+        },
+        {
+          "title": "Episode 145",
+          "eps": 145,
+          "date": "",
+          "episodeId": "wpoiec-episode-145-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-145-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-145-sub-indo/"
+        },
+        {
+          "title": "Episode 144",
+          "eps": 144,
+          "date": "",
+          "episodeId": "wpoiec-episode-144-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-144-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-144-sub-indo/"
+        },
+        {
+          "title": "Episode 143",
+          "eps": 143,
+          "date": "",
+          "episodeId": "wpoiec-episode-143-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-143-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-143-sub-indo/"
+        },
+        {
+          "title": "Episode 142",
+          "eps": 142,
+          "date": "",
+          "episodeId": "wpoiec-episode-142-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-142-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-142-sub-indo/"
+        },
+        {
+          "title": "Episode 141",
+          "eps": 141,
+          "date": "",
+          "episodeId": "wpoiec-episode-141-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-141-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-141-sub-indo/"
+        },
+        {
+          "title": "Episode 140",
+          "eps": 140,
+          "date": "",
+          "episodeId": "wpoiec-episode-140-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-140-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-140-sub-indo/"
+        },
+        {
+          "title": "Episode 139",
+          "eps": 139,
+          "date": "",
+          "episodeId": "wpoiec-episode-139-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-139-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-139-sub-indo/"
+        },
+        {
+          "title": "Episode 138",
+          "eps": 138,
+          "date": "",
+          "episodeId": "wpoiec-episode-138-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-138-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-138-sub-indo/"
+        },
+        {
+          "title": "Episode 137",
+          "eps": 137,
+          "date": "",
+          "episodeId": "wpoiec-episode-137-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-137-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-137-sub-indo/"
+        },
+        {
+          "title": "Episode 136",
+          "eps": 136,
+          "date": "",
+          "episodeId": "wpoiec-episode-136-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-136-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-136-sub-indo/"
+        },
+        {
+          "title": "Episode 135",
+          "eps": 135,
+          "date": "",
+          "episodeId": "wpoiec-episode-135-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-135-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-135-sub-indo/"
+        },
+        {
+          "title": "Episode 134",
+          "eps": 134,
+          "date": "",
+          "episodeId": "wpoiec-episode-134-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-134-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-134-sub-indo/"
+        },
+        {
+          "title": "Episode 133",
+          "eps": 133,
+          "date": "",
+          "episodeId": "wpoiec-episode-133-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-133-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-133-sub-indo/"
+        },
+        {
+          "title": "Episode 132",
+          "eps": 132,
+          "date": "",
+          "episodeId": "wpoiec-episode-132-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-132-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-132-sub-indo/"
+        },
+        {
+          "title": "Episode 131",
+          "eps": 131,
+          "date": "",
+          "episodeId": "wpoiec-episode-131-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-131-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-131-sub-indo/"
+        },
+        {
+          "title": "Episode 130",
+          "eps": 130,
+          "date": "",
+          "episodeId": "wpoiec-episode-130-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-130-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-130-sub-indo/"
+        },
+        {
+          "title": "Episode 129",
+          "eps": 129,
+          "date": "",
+          "episodeId": "wpoiec-episode-129-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-129-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-129-sub-indo/"
+        },
+        {
+          "title": "Episode 128",
+          "eps": 128,
+          "date": "",
+          "episodeId": "wpoiec-episode-128-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-128-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-128-sub-indo/"
+        },
+        {
+          "title": "Episode 127",
+          "eps": 127,
+          "date": "",
+          "episodeId": "wpoiec-episode-127-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-127-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-127-sub-indo/"
+        },
+        {
+          "title": "Episode 126",
+          "eps": 126,
+          "date": "",
+          "episodeId": "wpoiec-episode-126-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-126-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-126-sub-indo/"
+        },
+        {
+          "title": "Episode 125",
+          "eps": 125,
+          "date": "",
+          "episodeId": "wpoiec-episode-125-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-125-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-125-sub-indo/"
+        },
+        {
+          "title": "Episode 124",
+          "eps": 124,
+          "date": "",
+          "episodeId": "wpoiec-episode-124-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-124-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-124-sub-indo/"
+        },
+        {
+          "title": "Episode 123",
+          "eps": 123,
+          "date": "",
+          "episodeId": "wpoiec-episode-123-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-123-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-123-sub-indo/"
+        },
+        {
+          "title": "Episode 122",
+          "eps": 122,
+          "date": "",
+          "episodeId": "wpoiec-episode-122-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-122-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-122-sub-indo/"
+        },
+        {
+          "title": "Episode 121",
+          "eps": 121,
+          "date": "",
+          "episodeId": "wpoiec-episode-121-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-121-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-121-sub-indo/"
+        },
+        {
+          "title": "Episode 120",
+          "eps": 120,
+          "date": "",
+          "episodeId": "wpoiec-episode-120-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-120-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-120-sub-indo/"
+        },
+        {
+          "title": "Episode 119",
+          "eps": 119,
+          "date": "",
+          "episodeId": "wpoiec-episode-119-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-119-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-119-sub-indo/"
+        },
+        {
+          "title": "Episode 118",
+          "eps": 118,
+          "date": "",
+          "episodeId": "wpoiec-episode-118-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-118-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-118-sub-indo/"
+        },
+        {
+          "title": "Episode 117",
+          "eps": 117,
+          "date": "",
+          "episodeId": "wpoiec-episode-117-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-117-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-117-sub-indo/"
+        },
+        {
+          "title": "Episode 116",
+          "eps": 116,
+          "date": "",
+          "episodeId": "wpoiec-episode-116-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-116-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-116-sub-indo/"
+        },
+        {
+          "title": "Episode 115",
+          "eps": 115,
+          "date": "",
+          "episodeId": "wpoiec-episode-115-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-115-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-115-sub-indo/"
+        },
+        {
+          "title": "Episode 114",
+          "eps": 114,
+          "date": "",
+          "episodeId": "wpoiec-episode-114-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-114-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-114-sub-indo/"
+        },
+        {
+          "title": "Episode 113",
+          "eps": 113,
+          "date": "",
+          "episodeId": "wpoiec-episode-113-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-113-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-113-sub-indo/"
+        },
+        {
+          "title": "Episode 112",
+          "eps": 112,
+          "date": "",
+          "episodeId": "wpoiec-episode-112-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-112-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-112-sub-indo/"
+        },
+        {
+          "title": "Episode 111",
+          "eps": 111,
+          "date": "",
+          "episodeId": "wpoiec-episode-111-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-111-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-111-sub-indo/"
+        },
+        {
+          "title": "Episode 110",
+          "eps": 110,
+          "date": "",
+          "episodeId": "wpoiec-episode-110-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-110-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-110-sub-indo/"
+        },
+        {
+          "title": "Episode 109",
+          "eps": 109,
+          "date": "",
+          "episodeId": "wpoiec-episode-109-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-109-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-109-sub-indo/"
+        },
+        {
+          "title": "Episode 108",
+          "eps": 108,
+          "date": "",
+          "episodeId": "wpoiec-episode-108-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-108-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-108-sub-indo/"
+        },
+        {
+          "title": "Episode 107",
+          "eps": 107,
+          "date": "",
+          "episodeId": "wpoiec-episode-107-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-107-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-107-sub-indo/"
+        },
+        {
+          "title": "Episode 106",
+          "eps": 106,
+          "date": "",
+          "episodeId": "wpoiec-episode-106-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-106-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-106-sub-indo/"
+        },
+        {
+          "title": "Episode 105",
+          "eps": 105,
+          "date": "",
+          "episodeId": "wpoiec-episode-105-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-105-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-105-sub-indo/"
+        },
+        {
+          "title": "Episode 104",
+          "eps": 104,
+          "date": "",
+          "episodeId": "wpoiec-episode-104-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-104-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-104-sub-indo/"
+        },
+        {
+          "title": "Episode 103",
+          "eps": 103,
+          "date": "",
+          "episodeId": "wpoiec-episode-103-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-103-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-103-sub-indo/"
+        },
+        {
+          "title": "Episode 102",
+          "eps": 102,
+          "date": "",
+          "episodeId": "wpoiec-episode-102-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-102-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-102-sub-indo/"
+        },
+        {
+          "title": "Episode 101",
+          "eps": 101,
+          "date": "",
+          "episodeId": "wpoiec-episode-101-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-101-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-101-sub-indo/"
+        },
+        {
+          "title": "Episode 100",
+          "eps": 100,
+          "date": "",
+          "episodeId": "wpoiec-episode-100-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-100-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-100-sub-indo/"
+        },
+        {
+          "title": "Episode 99",
+          "eps": 99,
+          "date": "",
+          "episodeId": "wpoiec-episode-99-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-99-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-99-sub-indo/"
+        },
+        {
+          "title": "Episode 98",
+          "eps": 98,
+          "date": "",
+          "episodeId": "wpoiec-episode-98-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-98-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-98-sub-indo/"
+        },
+        {
+          "title": "Episode 97",
+          "eps": 97,
+          "date": "",
+          "episodeId": "wpoiec-episode-97-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-97-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-97-sub-indo/"
+        },
+        {
+          "title": "Episode 96",
+          "eps": 96,
+          "date": "",
+          "episodeId": "wpoiec-episode-96-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-96-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-96-sub-indo/"
+        },
+        {
+          "title": "Episode 95",
+          "eps": 95,
+          "date": "",
+          "episodeId": "wpoiec-episode-95-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-95-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-95-sub-indo/"
+        },
+        {
+          "title": "Episode 94",
+          "eps": 94,
+          "date": "",
+          "episodeId": "wpoiec-episode-94-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-94-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-94-sub-indo/"
+        },
+        {
+          "title": "Episode 93",
+          "eps": 93,
+          "date": "",
+          "episodeId": "wpoiec-episode-93-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-93-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-93-sub-indo/"
+        },
+        {
+          "title": "Episode 92",
+          "eps": 92,
+          "date": "",
+          "episodeId": "wpoiec-episode-92-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-92-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-92-sub-indo/"
+        },
+        {
+          "title": "Episode 91",
+          "eps": 91,
+          "date": "",
+          "episodeId": "wpoiec-episode-91-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-91-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-91-sub-indo/"
+        },
+        {
+          "title": "Episode 90",
+          "eps": 90,
+          "date": "",
+          "episodeId": "wpoiec-episode-90-sub-indo-2",
+          "href": "/anime/episode/wpoiec-episode-90-sub-indo-2",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-90-sub-indo-2/"
+        },
+        {
+          "title": "Episode 89",
+          "eps": 89,
+          "date": "",
+          "episodeId": "wpoiec-episode-89-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-89-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-89-sub-indo/"
+        },
+        {
+          "title": "Episode 88",
+          "eps": 88,
+          "date": "",
+          "episodeId": "wpoiec-episode-88-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-88-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-88-sub-indo/"
+        },
+        {
+          "title": "Episode 87",
+          "eps": 87,
+          "date": "",
+          "episodeId": "wpoiec-episode-87-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-87-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-87-sub-indo/"
+        },
+        {
+          "title": "Episode 86",
+          "eps": 86,
+          "date": "",
+          "episodeId": "wpoiec-episode-86-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-86-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-86-sub-indo/"
+        },
+        {
+          "title": "Episode 85",
+          "eps": 85,
+          "date": "",
+          "episodeId": "wpoiec-episode-85-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-85-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-85-sub-indo/"
+        },
+        {
+          "title": "Episode 84",
+          "eps": 84,
+          "date": "",
+          "episodeId": "wpoiec-episode-84-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-84-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-84-sub-indo/"
+        },
+        {
+          "title": "Episode 83",
+          "eps": 83,
+          "date": "",
+          "episodeId": "wpoiec-episode-83-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-83-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-83-sub-indo/"
+        },
+        {
+          "title": "Episode 82",
+          "eps": 82,
+          "date": "",
+          "episodeId": "wpoiec-episode-82-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-82-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-82-sub-indo/"
+        },
+        {
+          "title": "Episode 81",
+          "eps": 81,
+          "date": "",
+          "episodeId": "wpoiec-episode-81-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-81-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-81-sub-indo/"
+        },
+        {
+          "title": "Episode 80",
+          "eps": 80,
+          "date": "",
+          "episodeId": "wpoiec-episode-90-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-90-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-90-sub-indo/"
+        },
+        {
+          "title": "Episode 79",
+          "eps": 79,
+          "date": "",
+          "episodeId": "wpoiec-episode-79-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-79-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-79-sub-indo/"
+        },
+        {
+          "title": "Episode 78",
+          "eps": 78,
+          "date": "",
+          "episodeId": "wpoiec-episode-78-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-78-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-78-sub-indo/"
+        },
+        {
+          "title": "Episode 77",
+          "eps": 77,
+          "date": "",
+          "episodeId": "wpoiec-episode-77-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-77-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-77-sub-indo/"
+        },
+        {
+          "title": "Episode 76",
+          "eps": 76,
+          "date": "",
+          "episodeId": "wpoiec-episode-76-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-76-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-76-sub-indo/"
+        },
+        {
+          "title": "Episode 75",
+          "eps": 75,
+          "date": "",
+          "episodeId": "wpoiec-episode-75-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-75-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-75-sub-indo/"
+        },
+        {
+          "title": "Episode 74",
+          "eps": 74,
+          "date": "",
+          "episodeId": "wpoiec-episode-74-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-74-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-74-sub-indo/"
+        },
+        {
+          "title": "Episode 73",
+          "eps": 73,
+          "date": "",
+          "episodeId": "wpoiec-episode-73-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-73-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-73-sub-indo/"
+        },
+        {
+          "title": "Episode 72",
+          "eps": 72,
+          "date": "",
+          "episodeId": "wpoiec-episode-72-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-72-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-72-sub-indo/"
+        },
+        {
+          "title": "Episode 71",
+          "eps": 71,
+          "date": "",
+          "episodeId": "wpoiec-episode-71-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-71-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-71-sub-indo/"
+        },
+        {
+          "title": "Episode 70",
+          "eps": 70,
+          "date": "",
+          "episodeId": "wpoiec-episode-70-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-70-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-70-sub-indo/"
+        },
+        {
+          "title": "Episode 69",
+          "eps": 69,
+          "date": "",
+          "episodeId": "wpoiec-episode-69-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-69-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-69-sub-indo/"
+        },
+        {
+          "title": "Episode 68",
+          "eps": 68,
+          "date": "",
+          "episodeId": "wpoiec-episode-68-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-68-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-68-sub-indo/"
+        },
+        {
+          "title": "Episode 67",
+          "eps": 67,
+          "date": "",
+          "episodeId": "wpoiec-episode-67-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-67-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-67-sub-indo/"
+        },
+        {
+          "title": "Episode 66",
+          "eps": 66,
+          "date": "",
+          "episodeId": "wpoiec-episode-66-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-66-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-66-sub-indo/"
+        },
+        {
+          "title": "Episode 65",
+          "eps": 65,
+          "date": "",
+          "episodeId": "wpoiec-episode-65-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-65-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-65-sub-indo/"
+        },
+        {
+          "title": "Episode 64",
+          "eps": 64,
+          "date": "",
+          "episodeId": "wpoiec-episode-64-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-64-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-64-sub-indo/"
+        },
+        {
+          "title": "Episode 63",
+          "eps": 63,
+          "date": "",
+          "episodeId": "wpoiec-episode-63-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-63-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-63-sub-indo/"
+        },
+        {
+          "title": "Episode 62",
+          "eps": 62,
+          "date": "",
+          "episodeId": "wpoiec-episode-62-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-62-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-62-sub-indo/"
+        },
+        {
+          "title": "Episode 61",
+          "eps": 61,
+          "date": "",
+          "episodeId": "wpoiec-episode-61-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-61-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-61-sub-indo/"
+        },
+        {
+          "title": "Episode 60",
+          "eps": 60,
+          "date": "",
+          "episodeId": "wpoiec-episode-60-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-60-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-60-sub-indo/"
+        },
+        {
+          "title": "Episode 59",
+          "eps": 59,
+          "date": "",
+          "episodeId": "wpoiec-episode-59-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-59-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-59-sub-indo/"
+        },
+        {
+          "title": "Episode 58",
+          "eps": 58,
+          "date": "",
+          "episodeId": "wpoiec-episode-58-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-58-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-58-sub-indo/"
+        },
+        {
+          "title": "Episode 57",
+          "eps": 57,
+          "date": "",
+          "episodeId": "wpoiec-episode-57-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-57-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-57-sub-indo/"
+        },
+        {
+          "title": "Episode 56",
+          "eps": 56,
+          "date": "",
+          "episodeId": "wpoiec-episode-56-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-56-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-56-sub-indo/"
+        },
+        {
+          "title": "Episode 55",
+          "eps": 55,
+          "date": "",
+          "episodeId": "wpoiec-episode-55-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-55-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-55-sub-indo/"
+        },
+        {
+          "title": "Episode 54",
+          "eps": 54,
+          "date": "",
+          "episodeId": "wpoiec-episode-54-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-54-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-54-sub-indo/"
+        },
+        {
+          "title": "Episode 53",
+          "eps": 53,
+          "date": "",
+          "episodeId": "wpoiec-episode-53-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-53-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-53-sub-indo/"
+        },
+        {
+          "title": "Episode 52",
+          "eps": 52,
+          "date": "",
+          "episodeId": "wpoiec-episode-52-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-52-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-52-sub-indo/"
+        },
+        {
+          "title": "Episode 51",
+          "eps": 51,
+          "date": "",
+          "episodeId": "wpoiec-episode-51-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-51-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-51-sub-indo/"
+        },
+        {
+          "title": "Episode 50",
+          "eps": 50,
+          "date": "",
+          "episodeId": "wpoiec-episode-50-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-50-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-50-sub-indo/"
+        },
+        {
+          "title": "Episode 49",
+          "eps": 49,
+          "date": "",
+          "episodeId": "wpoiec-episode-49-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-49-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-49-sub-indo/"
+        },
+        {
+          "title": "Episode 48",
+          "eps": 48,
+          "date": "",
+          "episodeId": "wpoiec-episode-48-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-48-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-48-sub-indo/"
+        },
+        {
+          "title": "Episode 47",
+          "eps": 47,
+          "date": "",
+          "episodeId": "wpoiec-episode-47-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-47-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-47-sub-indo/"
+        },
+        {
+          "title": "Episode 46",
+          "eps": 46,
+          "date": "",
+          "episodeId": "wpoiec-episode-46-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-46-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-46-sub-indo/"
+        },
+        {
+          "title": "Episode 45",
+          "eps": 45,
+          "date": "",
+          "episodeId": "wpoiec-episode-45-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-45-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-45-sub-indo/"
+        },
+        {
+          "title": "Episode 44",
+          "eps": 44,
+          "date": "",
+          "episodeId": "wpoiec-episode-44-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-44-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-44-sub-indo/"
+        },
+        {
+          "title": "Episode 43",
+          "eps": 43,
+          "date": "",
+          "episodeId": "wpoiec-episode-43-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-43-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-43-sub-indo/"
+        },
+        {
+          "title": "Episode 42",
+          "eps": 42,
+          "date": "",
+          "episodeId": "wpoiec-episode-42-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-42-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-42-sub-indo/"
+        },
+        {
+          "title": "Episode 41",
+          "eps": 41,
+          "date": "",
+          "episodeId": "wpoiec-episode-41-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-41-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-41-sub-indo/"
+        },
+        {
+          "title": "Episode 40",
+          "eps": 40,
+          "date": "",
+          "episodeId": "wpoiec-episode-40-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-40-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-40-sub-indo/"
+        },
+        {
+          "title": "Episode 39",
+          "eps": 39,
+          "date": "",
+          "episodeId": "wpoiec-episode-39-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-39-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-39-sub-indo/"
+        },
+        {
+          "title": "Episode 38",
+          "eps": 38,
+          "date": "",
+          "episodeId": "wpoiec-episode-38-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-38-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-38-sub-indo/"
+        },
+        {
+          "title": "Episode 37",
+          "eps": 37,
+          "date": "",
+          "episodeId": "wpoiec-episode-37-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-37-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-37-sub-indo/"
+        },
+        {
+          "title": "Episode 36",
+          "eps": 36,
+          "date": "",
+          "episodeId": "wpoiec-episode-36-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-36-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-36-sub-indo/"
+        },
+        {
+          "title": "Episode 35",
+          "eps": 35,
+          "date": "",
+          "episodeId": "wpoiec-episode-35-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-35-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-35-sub-indo/"
+        },
+        {
+          "title": "Episode 34",
+          "eps": 34,
+          "date": "",
+          "episodeId": "wpoiec-episode-34-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-34-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-34-sub-indo/"
+        },
+        {
+          "title": "Episode 33",
+          "eps": 33,
+          "date": "",
+          "episodeId": "wpoiec-episode-33-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-33-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-33-sub-indo/"
+        },
+        {
+          "title": "Episode 32",
+          "eps": 32,
+          "date": "",
+          "episodeId": "wpoiec-episode-32-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-32-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-32-sub-indo/"
+        },
+        {
+          "title": "Episode 31",
+          "eps": 31,
+          "date": "",
+          "episodeId": "wpoiec-episode-31-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-31-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-31-sub-indo/"
+        },
+        {
+          "title": "Episode 30",
+          "eps": 30,
+          "date": "",
+          "episodeId": "wpoiec-episode-30-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-30-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-30-sub-indo/"
+        },
+        {
+          "title": "Episode 29",
+          "eps": 29,
+          "date": "",
+          "episodeId": "wpoiec-episode-29-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-29-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-29-sub-indo/"
+        },
+        {
+          "title": "Episode 28",
+          "eps": 28,
+          "date": "",
+          "episodeId": "wpoiec-episode-28-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-28-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-28-sub-indo/"
+        },
+        {
+          "title": "Episode 27",
+          "eps": 27,
+          "date": "",
+          "episodeId": "wpoiec-episode-27-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-27-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-27-sub-indo/"
+        },
+        {
+          "title": "Episode 26",
+          "eps": 26,
+          "date": "",
+          "episodeId": "wpoiec-episode-26-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-26-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-26-sub-indo/"
+        },
+        {
+          "title": "Episode 25",
+          "eps": 25,
+          "date": "",
+          "episodeId": "wpoiec-episode-25-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-25-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-25-sub-indo/"
+        },
+        {
+          "title": "Episode 24",
+          "eps": 24,
+          "date": "",
+          "episodeId": "wpoiec-episode-24-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-24-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-24-sub-indo/"
+        },
+        {
+          "title": "Episode 23",
+          "eps": 23,
+          "date": "",
+          "episodeId": "wpoiec-episode-23-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-23-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-23-sub-indo/"
+        },
+        {
+          "title": "Episode 22",
+          "eps": 22,
+          "date": "",
+          "episodeId": "wpoiec-episode-22-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-22-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-22-sub-indo/"
+        },
+        {
+          "title": "Episode 21",
+          "eps": 21,
+          "date": "",
+          "episodeId": "wpoiec-episode-21-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-21-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-21-sub-indo/"
+        },
+        {
+          "title": "Episode 20",
+          "eps": 20,
+          "date": "",
+          "episodeId": "wpoiec-episode-20-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-20-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-20-sub-indo/"
+        },
+        {
+          "title": "Episode 19",
+          "eps": 19,
+          "date": "",
+          "episodeId": "wpoiec-episode-19-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-19-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-19-sub-indo/"
+        },
+        {
+          "title": "Episode 18",
+          "eps": 18,
+          "date": "",
+          "episodeId": "wpoiec-episode-18-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-18-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-18-sub-indo/"
+        },
+        {
+          "title": "Episode 17",
+          "eps": 17,
+          "date": "",
+          "episodeId": "wpoiec-episode-17-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-17-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-17-sub-indo/"
+        },
+        {
+          "title": "Episode 16",
+          "eps": 16,
+          "date": "",
+          "episodeId": "wpoiec-episode-16-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-16-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-16-sub-indo/"
+        },
+        {
+          "title": "Episode 15",
+          "eps": 15,
+          "date": "",
+          "episodeId": "wpoiec-episode-15-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-15-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-15-sub-indo/"
+        },
+        {
+          "title": "Episode 14",
+          "eps": 14,
+          "date": "",
+          "episodeId": "wpoiec-episode-14-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-14-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-14-sub-indo/"
+        },
+        {
+          "title": "Episode 13",
+          "eps": 13,
+          "date": "",
+          "episodeId": "wpoiec-episode-13-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-13-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-13-sub-indo/"
+        },
+        {
+          "title": "Episode 12",
+          "eps": 12,
+          "date": "",
+          "episodeId": "wpoiec-episode-12-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-12-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-12-sub-indo/"
+        },
+        {
+          "title": "Episode 11",
+          "eps": 11,
+          "date": "",
+          "episodeId": "wpoiec-episode-11-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-11-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-11-sub-indo/"
+        },
+        {
+          "title": "Episode 10",
+          "eps": 10,
+          "date": "",
+          "episodeId": "wpoiec-episode-10-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-10-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-10-sub-indo/"
+        },
+        {
+          "title": "Episode 9",
+          "eps": 9,
+          "date": "",
+          "episodeId": "wpoiec-episode-9-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-9-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-9-sub-indo/"
+        },
+        {
+          "title": "Episode 8",
+          "eps": 8,
+          "date": "",
+          "episodeId": "wpoiec-episode-8-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-8-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-8-sub-indo/"
+        },
+        {
+          "title": "Episode 7",
+          "eps": 7,
+          "date": "",
+          "episodeId": "wpoiec-episode-7-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-7-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-7-sub-indo/"
+        },
+        {
+          "title": "Episode 6",
+          "eps": 6,
+          "date": "",
+          "episodeId": "wpoiec-episode-6-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-6-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-6-sub-indo/"
+        },
+        {
+          "title": "Episode 5",
+          "eps": 5,
+          "date": "",
+          "episodeId": "wpoiec-episode-5-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-5-sub-indo/"
+        },
+        {
+          "title": "Episode 4",
+          "eps": 4,
+          "date": "",
+          "episodeId": "wpoiec-episode-4-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-4-sub-indo/"
+        },
+        {
+          "title": "Episode 3",
+          "eps": 3,
+          "date": "",
+          "episodeId": "wpoiec-episode-3-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-3-sub-indo/"
+        },
+        {
+          "title": "Episode 2",
+          "eps": 2,
+          "date": "",
+          "episodeId": "wpoiec-episode-2-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-2-sub-indo/"
+        },
+        {
+          "title": "Episode 1",
+          "eps": 1,
+          "date": "",
+          "episodeId": "wpoiec-episode-1-sub-indo",
+          "href": "/anime/episode/wpoiec-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wpoiec-episode-1-sub-indo/"
+        }
+      ]
+    }
+  },
+  "pagination": null
+}
