@@ -1,28 +1,4 @@
 {
     "data": [
-        {
-            "id": "17705462154153",
-            "last_active": 1770617002,
-            "recent": [
-                {
-                    "title": "Digimon Beatbreak Episode 18 Subtitle Indonesia",
-                    "animeId": "digimon-bb-sub-indo",
-                    "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Digimon-Beatbreak.jpg",
-                    "href": "digimon-bb-sub-indo/dgbb-episode-18-sub-indo",
-                    "currentTime": 0,
-                    "duration": 0,
-                    "time": "baru saja"
-                },
-                {
-                    "title": "Goumon Baito-kun no Nichijou Episode 1 Subtitle Indonesia",
-                    "animeId": "goumon-baito-sub-indo",
-                    "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153380.jpg",
-                    "href": "goumon-baito-sub-indo/gbn-episode-1-sub-indo",
-                    "currentTime": 0,
-                    "duration": 0,
-                    "time": "baru saja"
-                }
-            ]
-        }
     ]
 }
