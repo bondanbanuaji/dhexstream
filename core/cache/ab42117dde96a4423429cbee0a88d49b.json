@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "Sozai Saishuka no Isekai Ryokouki Episode 1 Subtitle Indonesia",
+    "animeId": "sozai-isekai-ryokouki-sub-indo",
+    "releaseTime": "Release on 9:22 pm",
+    "defaultStreamingUrl": "https://desustream.info/dstream/otakuwatch5/v2/index.php?id=Yml2WkJTZEVSRzU4VXZFZ2h6Tkx0Zz09",
+    "hasPrevEpisode": false,
+    "prevEpisode": null,
+    "hasNextEpisode": true,
+    "nextEpisode": {
+      "title": "Next",
+      "episodeId": "ssnir-episode-2-sub-indo",
+      "href": "/anime/episode/ssnir-episode-2-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-2-sub-indo/"
+    },
+    "server": {
+      "qualities": [
+        {
+          "title": "360p",
+          "serverList": []
+        },
+        {
+          "title": "480p",
+          "serverList": [
+            {
+              "title": "otakuwatch5",
+              "serverId": "6E68B9-5-9D5u",
+              "href": "/anime/server/6E68B9-5-9D5u"
+            },
+            {
+              "title": "odstream",
+              "serverId": "6E68B9-6-9D5u",
+              "href": "/anime/server/6E68B9-6-9D5u"
+            },
+            {
+              "title": "vidhide",
+              "serverId": "6E68B9-7-9D5u",
+              "href": "/anime/server/6E68B9-7-9D5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "6E68B9-8-9D5u",
+              "href": "/anime/server/6E68B9-8-9D5u"
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "serverList": [
+            {
+              "title": "otakuwatch5hd ",
+              "serverId": "6E68B9-5-C75u",
+              "href": "/anime/server/6E68B9-5-C75u"
+            },
+            {
+              "title": "odstreamhd ",
+              "serverId": "6E68B9-6-C75u",
+              "href": "/anime/server/6E68B9-6-C75u"
+            },
+            {
+              "title": "vidhide ",
+              "serverId": "6E68B9-7-C75u",
+              "href": "/anime/server/6E68B9-7-C75u"
+            },
+            {
+              "title": "mega ",
+              "serverId": "6E68B9-8-C75u",
+              "href": "/anime/server/6E68B9-8-C75u"
+            }
+          ]
+        }
+      ]
+    },
+    "downloadUrl": {
+      "qualities": [
+        {
+          "title": "360p",
+          "size": "40.9 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQjlkd2Z1Nmt5ckNlSEk3NU0rMXJOQ0JDTDFIeXhqanVORGFYVHRna3Z6aTd4RTBERStxa29Xd1p5dnZHamZhM3RQS2c9PQ=="
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXQ0tObUkySWhUM0tSQlFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNd21LdEU2MEgrMk0="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJldEYvQ0w2WTkxL3FrU0hDOD0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzZrcDVXd0tVOTI3Z05ybVB2TFpKNlA5OFhESEpJRDUvMStSZmVHYjZpMEtEdmFFWXRYa2cvMGdRNGVHVHVqYTFTRUp0S1E9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "480p",
+          "size": "74.8 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQm9LUWErNVJxblRPdVE3SnMrMXJOQ0JDTDFIeXhqanVORGFYVHRna3Z6aTd4RTBERStyVVFXd1p5dnZHamZhM3RQS2c9PQ=="
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dYd0R0aXA0TWhvM29WblFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNd1htNzMzMkw3eVI="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlcVNQSEo0TXA3NmZOVlZqcz0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzVVVlljbG0remtqZ0E5Q2cyNk55eklsek9BYlhFZ3hNazdWY1pGalNra3lLbGM0b3F6Y3kweEp2aU9penFUbTlRRXhLY2c9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "size": "135.8 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQm9mVkh2dmgzMUdmK0N2WlkrMXJOQ0JDTDFIeXhqanVORGFYVHRna3Z6aTd4RTBERStyazRXd1p5dnZHamZhM3RQS2c9PQ=="
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXbEhQbVcyckpXelBWa1FESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNd250N0YydVFzaXY="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlc0NPZU12YzBvLy9GUUcyOD0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzRtdzBMMktUd1d2Z1B1K3k1SlpoK0k5VU4zcmlRd3RsNnZ3ZktVVGhsMS9Mak5oZDJIZ284amNSaHQyaitqRERRRmhoSHc9PQ=="
+            }
+          ]
+        }
+      ]
+    },
+    "info": {
+      "credit": "Samehadaku",
+      "encoder": "Samehadaku",
+      "duration": "23 Menit",
+      "type": "TV",
+      "genreList": [
+        {
+          "title": "Adventure",
+          "genreId": "adventure",
+          "href": "/anime/genre/adventure",
+          "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+        },
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/anime/genre/fantasy",
+          "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+        },
+        {
+          "title": "Isekai",
+          "genreId": "isekai",
+          "href": "/anime/genre/isekai",
+          "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "Episode 12",
+          "eps": 12,
+          "date": "",
+          "episodeId": "ssnir-episode-12-sub-indo",
+          "href": "/anime/episode/ssnir-episode-12-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-12-sub-indo/"
+        },
+        {
+          "title": "Episode 11",
+          "eps": 11,
+          "date": "",
+          "episodeId": "ssnir-episode-11-sub-indo",
+          "href": "/anime/episode/ssnir-episode-11-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-11-sub-indo/"
+        },
+        {
+          "title": "Episode 10",
+          "eps": 10,
+          "date": "",
+          "episodeId": "ssnir-episode-10-sub-indo",
+          "href": "/anime/episode/ssnir-episode-10-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-10-sub-indo/"
+        },
+        {
+          "title": "Episode 9",
+          "eps": 9,
+          "date": "",
+          "episodeId": "ssnir-episode-9-sub-indo",
+          "href": "/anime/episode/ssnir-episode-9-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-9-sub-indo/"
+        },
+        {
+          "title": "Episode 8",
+          "eps": 8,
+          "date": "",
+          "episodeId": "ssnir-episode-8-sub-indo",
+          "href": "/anime/episode/ssnir-episode-8-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-8-sub-indo/"
+        },
+        {
+          "title": "Episode 7",
+          "eps": 7,
+          "date": "",
+          "episodeId": "ssnir-episode-7-sub-indo",
+          "href": "/anime/episode/ssnir-episode-7-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-7-sub-indo/"
+        },
+        {
+          "title": "Episode 6",
+          "eps": 6,
+          "date": "",
+          "episodeId": "ssnir-episode-6-sub-indo",
+          "href": "/anime/episode/ssnir-episode-6-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-6-sub-indo/"
+        },
+        {
+          "title": "Episode 5",
+          "eps": 5,
+          "date": "",
+          "episodeId": "ssnir-episode-5-sub-indo",
+          "href": "/anime/episode/ssnir-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-5-sub-indo/"
+        },
+        {
+          "title": "Episode 4",
+          "eps": 4,
+          "date": "",
+          "episodeId": "ssnir-episode-4-sub-indo",
+          "href": "/anime/episode/ssnir-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-4-sub-indo/"
+        },
+        {
+          "title": "Episode 3",
+          "eps": 3,
+          "date": "",
+          "episodeId": "ssnir-episode-3-sub-indo",
+          "href": "/anime/episode/ssnir-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-3-sub-indo/"
+        },
+        {
+          "title": "Episode 2",
+          "eps": 2,
+          "date": "",
+          "episodeId": "ssnir-episode-2-sub-indo",
+          "href": "/anime/episode/ssnir-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-2-sub-indo/"
+        },
+        {
+          "title": "Episode 1",
+          "eps": 1,
+          "date": "",
+          "episodeId": "ssnir-episode-1-sub-indo",
+          "href": "/anime/episode/ssnir-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ssnir-episode-1-sub-indo/"
+        }
+      ]
+    }
+  },
+  "pagination": null
+}

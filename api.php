@@ -1,6 +1,18 @@
 <?php
 header('Content-Type: application/json');
-header('Access-Control-Allow-Origin: *');
+$origin = $_SERVER['HTTP_ORIGIN'] ?? '*';
+header("Access-Control-Allow-Origin: $origin");
+header('Access-Control-Allow-Credentials: true');
+header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type, Authorization');
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit;
+}
 
 require_once "core/core.php";
 
@@ -10,7 +22,7 @@ $page = $_GET['page'] ?? 1;
 
 $userId = getRecentUserId();
 $file = __DIR__ . '/data/recent.json';
-$json = loadRecentJson($file);
+// $json loading moved to specific cases for performance
 
 
 try {
@@ -21,6 +33,7 @@ try {
             break;
 
         case 'get_recent':
+            $json = loadRecentJson($file);
             $recent = getUserRecent($json, $userId);
             echo json_encode(['status' => 'success', 'data' => $recent]);
             break;
@@ -47,18 +60,10 @@ try {
                 $data = get("episode/$ep");
                 echo json_encode($data);
             }
-            cleanExpiredUsers($json, 7, 'hari');
-
-            $pos = get('anime/' . $data['data']['animeId']);
-            $href = $data['data']['animeId'] . '/' . $ep;
-            $newRecent = [
-                "title" => $data['data']['title'],
-                "animeId" => $data['data']['animeId'],
-                "poster" => $pos['data']['poster'],
-                "href" => $href
-            ];
-            addRecent($json, $userId, $newRecent);
-            saveRecentJson($file, $json);
+            if ($data && isset($data['data'])) {
+                // Implicit logging removed to favor explicit client-side logging via log_recent
+                // This prevents double-logging and reduces server-side processing time
+            }
 
             break;
 
@@ -135,10 +140,20 @@ try {
             $poster = $input['poster'] ?? $_GET['poster'] ?? '';
             $href = $input['href'] ?? $_GET['href'] ?? '';
 
-            if (empty($animeId) || empty($title) || empty($poster)) {
+            // Default values for robustness
+            $animeId = !empty($animeId) ? $animeId : ($href ? explode('/', $href)[0] : ''); // Try to extract ID from href if missing
+            $title = !empty($title) ? $title : 'Unknown Anime';
+            $poster = !empty($poster) ? $poster : '/dhexstream/assets/image/default-poster.jpg';
+
+            // Debug logging
+            file_put_contents('debug_log.txt', date('[Y-m-d H:i:s] ') . "Processing log_recent: ID=$animeId, Title=$title\n", FILE_APPEND);
+
+            if (empty($animeId)) {
+                file_put_contents('debug_log.txt', date('[Y-m-d H:i:s] ') . "Error: Missing animeId\n", FILE_APPEND);
                 http_response_code(400);
-                echo json_encode(['error' => 'Missing required fields (animeId, title, poster)']);
+                echo json_encode(['error' => 'Missing required field: animeId']);
             } else {
+                $json = loadRecentJson($file);
                 // If href is missing, generate default
                 if (empty($href)) {
                     $href = "$animeId";
@@ -153,10 +168,17 @@ try {
                     "poster" => $poster,
                     "href" => $href,
                     "currentTime" => $input['currentTime'] ?? $_GET['currentTime'] ?? 0,
-                    "duration" => $input['duration'] ?? $_GET['duration'] ?? 0
+                    "duration" => $input['duration'] ?? $_GET['duration'] ?? 0,
+                    "time" => "baru saja"
                 ];
 
-                addRecent($json, $userId, $newRecent);
+                // Add to recent list
+                addRecent($json, $userId, $newRecent, 50);
+
+                // Extra cleaning: remove duplicates based on animeId, keeping the latest one
+                // And filter out any "undefined" animeIds that might have snuck in
+                cleanDuplicates($json, $userId);
+
                 cleanExpiredUsers($json, 7, 'hari');
                 saveRecentJson($file, $json);
 
@@ -172,4 +194,39 @@ try {
 } catch (Exception $e) {
     http_response_code(500);
     echo json_encode(['error' => $e->getMessage()]);
+}
+
+function cleanDuplicates(&$json, $userId)
+{
+    foreach ($json['data'] as &$user) {
+        if ($user['id'] == $userId) {
+            $uniqueRecent = [];
+            $seenIds = [];
+
+            // Iterate through existing recent list
+            foreach ($user['recent'] as $item) {
+                // Ensure item is an array and has animeId
+                if (!is_array($item) || !isset($item['animeId']))
+                    continue;
+
+                $id = $item['animeId'];
+
+                // Skip invalid IDs
+                if (empty($id) || $id === 'undefined') {
+                    continue;
+                }
+
+                // If we haven't seen this ID yet, add it
+                // Since addRecent adds to the TOP (unshift), the first one we see is the latest
+                if (!in_array($id, $seenIds)) {
+                    $uniqueRecent[] = $item;
+                    $seenIds[] = $id;
+                }
+            }
+
+            // Re-index array
+            $user['recent'] = array_values($uniqueRecent);
+            break;
+        }
+    }
 }

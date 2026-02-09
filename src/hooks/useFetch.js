@@ -20,7 +20,10 @@ export const useFetch = (endpoint, params = {}, shouldFetch = true) => {
         const fetchData = async () => {
             try {
                 setLoading(true);
-                const response = await axios.get(url, { params });
+                const response = await axios.get(url, {
+                    params,
+                    withCredentials: true // Important: Send cookies for user tracking
+                });
                 setData(response.data);
             } catch (err) {
                 setError(err);

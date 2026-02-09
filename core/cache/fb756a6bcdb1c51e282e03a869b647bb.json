@@ -1,0 +1,136 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Jujutsu Kaisen Season 3 Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154488.jpg",
+        "status": "Ongoing",
+        "score": "7.57",
+        "animeId": "jjk-s3-sub-indo",
+        "href": "/anime/anime/jjk-s3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/jjk-s3-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      },
+      {
+        "title": "Jujutsu Kaisen Season 2 (Episode 1 – 23) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/03/Jujutsu-Kaisen-Season-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.85",
+        "animeId": "jjk-s2-sub-indo",
+        "href": "/anime/anime/jjk-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/jjk-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Gore",
+            "genreId": "gore",
+            "href": "/anime/genre/gore",
+            "otakudesuUrl": "https://otakudesu.best/genres/gore/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Jujutsu Kaisen (Episode 1 – 24) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2020/09/Jujutsu-Kaisen-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.78",
+        "animeId": "jjk-sub-indo",
+        "href": "/anime/anime/jjk-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/jjk-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Demons",
+            "genreId": "demons",
+            "href": "/anime/genre/demons",
+            "otakudesuUrl": "https://otakudesu.best/genres/demons/"
+          },
+          {
+            "title": "Horror",
+            "genreId": "horror",
+            "href": "/anime/genre/horror",
+            "otakudesuUrl": "https://otakudesu.best/genres/horror/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Supernatural",
+            "genreId": "supernatural",
+            "href": "/anime/genre/supernatural",
+            "otakudesuUrl": "https://otakudesu.best/genres/supernatural/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

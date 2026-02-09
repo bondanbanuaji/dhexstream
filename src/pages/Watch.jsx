@@ -20,8 +20,56 @@ const Watch = () => {
     useEffect(() => {
         if (streamData && streamData.data) {
             setStreamUrl(streamData.data.defaultStreamingUrl);
+
+            // Explicitly log recent watch including anime details
+            // We need anime details (poster), so we check if animeData is also available
+            // If animeData is loading, we might need another effect or check
         }
     }, [streamData]);
+
+    // Log recent watch when stream data is available (anime data optional but preferred)
+    useEffect(() => {
+        if (streamData?.data && ep) {
+            const logWatch = async () => {
+                const safeAnimeId = animeData?.data?.animeId || id;
+                const safeTitle = streamData.data.title || animeData?.data?.title || 'Unknown Title';
+                const safePoster = animeData?.data?.poster || '';
+
+                // If we don't have an ID, we can't log
+                if (!safeAnimeId) return;
+
+                try {
+                    console.log('📝 Logging watch history:', {
+                        animeId: safeAnimeId,
+                        title: safeTitle,
+                        episode: ep
+                    });
+
+                    const response = await fetch('/dhexstream/api.php?endpoint=log_recent', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        credentials: 'include', // Important: Send cookies for user tracking
+                        body: JSON.stringify({
+                            animeId: safeAnimeId,
+                            title: safeTitle,
+                            poster: safePoster,
+                            href: `${safeAnimeId}/${ep}`,
+                            currentTime: 0,
+                            duration: 0
+                        }),
+                    });
+
+                    const result = await response.json();
+                    console.log('✅ Watch history logged:', result);
+                } catch (err) {
+                    console.error('❌ Failed to log history:', err);
+                }
+            };
+            logWatch();
+        }
+    }, [streamData, animeData, ep, id]);
 
     // Function to fetch specific server stream
     const handleServerChange = async (serverId) => {

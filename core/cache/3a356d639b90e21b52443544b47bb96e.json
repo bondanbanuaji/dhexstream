@@ -1,0 +1,562 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online S2 (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/02/Sword-Art-Online-Alternative-Gun-Gale-Online-Season-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.15",
+        "animeId": "sao-alternative-online-s2-sub-indo",
+        "href": "/anime/anime/sao-alternative-online-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/sao-alternative-online-s2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "Video Game",
+            "genreId": "video-game",
+            "href": "/anime/genre/video-game",
+            "otakudesuUrl": "https://otakudesu.best/genres/video-game/"
+          }
+        ]
+      },
+      {
+        "title": "Sword Art Online: Alicization – War of Underworld (Episode 1 – 23) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2020/02/Sword-Art-Online-Alicization-War-of-Underworld-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.67",
+        "animeId": "sword-online-alicization-part-2-sub-indo",
+        "href": "/anime/anime/sword-online-alicization-part-2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/sword-online-alicization-part-2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Sword Art Online: Alicization (Episode 1 – 24) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/09/Sword-Art-Online-Alicization-Season-3-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.86",
+        "animeId": "sword-online-alicization-subtitle-indonesia",
+        "href": "/anime/anime/sword-online-alicization-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/sword-online-alicization-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Sword Art Online Season 2 (Episode 1 – 24) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/03/Sword-Art-Online-Season-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.24",
+        "animeId": "sword-online-season-2-subtitle-indonesia",
+        "href": "/anime/anime/sword-online-season-2-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/sword-online-season-2-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Sword Art Online (Episode 1 – 25) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/11/Sword-Art-Online-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.76",
+        "animeId": "sawo-sub-indo",
+        "href": "/anime/anime/sawo-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/sawo-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Sword Art Online Movie: Ordinal Scale Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/09/Sword-Art-Online-Movie-Ordinal-Scale-Subtitle-Indonesia.jpg",
+        "status": "Completed",
+        "score": "8.21",
+        "animeId": "sawo-movie-subtitle-indonesia",
+        "href": "/anime/anime/sawo-movie-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/sawo-movie-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/04/SAO-Gun-Gale-Online-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.41",
+        "animeId": "sword-online-alternative-gun-gale-online-subtitle-indonesia",
+        "href": "/anime/anime/sword-online-alternative-gun-gale-online-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/sword-online-alternative-gun-gale-online-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ]
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/05/Danmachi-Gaiden-Sword-Oratoria-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.10",
+        "animeId": "dnmachi-oratoria-subtitle-indonesia",
+        "href": "/anime/anime/dnmachi-oratoria-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/dnmachi-oratoria-subtitle-indonesia/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "DanMachi Season 4 Part 2 (Episode 1 – 11) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/03/DanMachi-Season-4-Part-2-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.26",
+        "animeId": "dnmaci-season-4-p2-sub-indo",
+        "href": "/anime/anime/dnmaci-season-4-p2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/dnmaci-season-4-p2-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga (Episode 1 – 12) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/12/Mushoku-no-Eiyuu-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "6.24",
+        "animeId": "mushoku-eiyuu-sub-indo",
+        "href": "/anime/anime/mushoku-eiyuu-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/mushoku-eiyuu-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "DanMachi Season 5 (Episode 1 – 15) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/03/DanMachi-Season-5-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.97",
+        "animeId": "dnmaci-season-5-sub-indo",
+        "href": "/anime/anime/dnmaci-season-5-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/dnmaci-season-5-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          }
+        ]
+      },
+      {
+        "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Episode 1 – 8) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/03/Kimetsu-no-Yaiba-Season-4-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.11",
+        "animeId": "kimetsu-yaiba-s4-sub-indo",
+        "href": "/anime/anime/kimetsu-yaiba-s4-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kimetsu-yaiba-s4-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Historical",
+            "genreId": "historical",
+            "href": "/anime/genre/historical",
+            "otakudesuUrl": "https://otakudesu.best/genres/historical/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "Shangri-La Frontier (Episode 1 – 25) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/09/Shangri-La-Frontier-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.07",
+        "animeId": "shangri-la-sub-indo",
+        "href": "/anime/anime/shangri-la-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/shangri-la-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Video Game",
+            "genreId": "video-game",
+            "href": "/anime/genre/video-game",
+            "otakudesuUrl": "https://otakudesu.best/genres/video-game/"
+          }
+        ]
+      },
+      {
+        "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen (Episode 1 – 11) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/05/Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "8.42",
+        "animeId": "kimetsu-yaiba-s3-sub-indo",
+        "href": "/anime/anime/kimetsu-yaiba-s3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kimetsu-yaiba-s3-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Historical",
+            "genreId": "historical",
+            "href": "/anime/genre/historical",
+            "otakudesuUrl": "https://otakudesu.best/genres/historical/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          }
+        ]
+      },
+      {
+        "title": "DanMachi Season 4 (Episode 1 – 11) Subtitle Indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2022/10/Danmachi-Season-4-Sub-Indo.jpg",
+        "status": "Completed",
+        "score": "7.69",
+        "animeId": "dnmaci-season-4-sub-indo",
+        "href": "/anime/anime/dnmaci-season-4-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/dnmaci-season-4-sub-indo/",
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Adventure",
+            "genreId": "adventure",
+            "href": "/anime/genre/adventure",
+            "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Fantasy",
+            "genreId": "fantasy",
+            "href": "/anime/genre/fantasy",
+            "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": null
+}

@@ -1,0 +1,294 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "Yasei no Last Boss ga Arawareta! Episode 1 Subtitle Indonesia",
+    "animeId": "yasei-last-bos-sub-indo",
+    "releaseTime": "Release on 9:05 pm",
+    "defaultStreamingUrl": "https://desustream.info/dstream/otakuwatch6/v2/index.php?id=clRvbml5Ris3ZWdKYS9ud2dvdU0xZz09",
+    "hasPrevEpisode": false,
+    "prevEpisode": null,
+    "hasNextEpisode": true,
+    "nextEpisode": {
+      "title": "Next",
+      "episodeId": "ynlbga-episode-2-sub-indo",
+      "href": "/anime/episode/ynlbga-episode-2-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-2-sub-indo/"
+    },
+    "server": {
+      "qualities": [
+        {
+          "title": "360p",
+          "serverList": []
+        },
+        {
+          "title": "480p",
+          "serverList": [
+            {
+              "title": "otakuwatch6",
+              "serverId": "6E6C7A-5-9D5u",
+              "href": "/anime/server/6E6C7A-5-9D5u"
+            },
+            {
+              "title": "odstream",
+              "serverId": "6E6C7A-6-9D5u",
+              "href": "/anime/server/6E6C7A-6-9D5u"
+            },
+            {
+              "title": "vidhide",
+              "serverId": "6E6C7A-7-9D5u",
+              "href": "/anime/server/6E6C7A-7-9D5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "6E6C7A-8-9D5u",
+              "href": "/anime/server/6E6C7A-8-9D5u"
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "serverList": [
+            {
+              "title": "otakuwatch6hd ",
+              "serverId": "6E6C7A-5-C75u",
+              "href": "/anime/server/6E6C7A-5-C75u"
+            },
+            {
+              "title": "odstreamhd ",
+              "serverId": "6E6C7A-6-C75u",
+              "href": "/anime/server/6E6C7A-6-C75u"
+            },
+            {
+              "title": "vidhide ",
+              "serverId": "6E6C7A-7-C75u",
+              "href": "/anime/server/6E6C7A-7-C75u"
+            },
+            {
+              "title": "mega ",
+              "serverId": "6E6C7A-8-C75u",
+              "href": "/anime/server/6E6C7A-8-C75u"
+            }
+          ]
+        }
+      ]
+    },
+    "downloadUrl": {
+      "qualities": [
+        {
+          "title": "360p",
+          "size": "40.9 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQnViMWU2K2tPNkRlZUp2cDQrMXJOQ0JDTDFIeXhqanVORGFYVG5uV2Y3OUx4WjBWOVNyMHhXbjkreStIS1pkMkpP"
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXVlAveWN1STVjd2FSRVFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMU9LeDBtQUVmL0o="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlcURmdWN2ODlvOXJZYUdqdz0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzIwSTlMRnVjOUduZ0dNeWU3NTBoMXAxRUlSM25IV2R3a3V0VVcwYnh2SEhJdjk0Y2gyd1YxMGxsaE1LVWhuRzRSa2QySHc9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "480p",
+          "size": "74.8 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQTVlQU8zNFIvMFNPREo3NHMrMXJOQ0JDTDFIeXhqanVORGFYVG5uV2Y3OUx4WjBWOVZvVXhXbjkreStIS1pkMkpP"
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dYNkw5TzY2TWdoMFpCN1FESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNM3lPNDJhQkg5K2Q="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlcURQcUsrSmxnOHZZVEZ6TT0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3gwRkxTSGFOOTJuZ0NldXU0Y05jMFk1N0lEN1dRamxma3ZWUmV4Mk9nRXpvdGFRT2lqWXR3UlpVMVB5dmhCMlZPblZQTFE9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "size": "135.8 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQjNlRm1zOXh1cEZlU0svSmsrMXJOQ0JDTDFIeXhqanVORGFYVG5uV2Y3OUx4WjBWOVdxMHhXbjkreStIS1pkMkpP"
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXbERNV2l4YzVUb2FsQVFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMFBzNlVTSEt0bks="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlb0hPZkt1WmwvKzZoTEEyWT0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3pFMW1TWGVNOTB2Z0N2MmUyTGhGclBCMEZ4U2tGanAwbExWTkpYajFvVTcwc3RNY2oyMVIzaFpYaU1LTmpTV3VNVjBQS1E9PQ=="
+            }
+          ]
+        }
+      ]
+    },
+    "info": {
+      "credit": "Samehadaku",
+      "encoder": "Samehadaku",
+      "duration": "23 Menit",
+      "type": "TV",
+      "genreList": [
+        {
+          "title": "Action",
+          "genreId": "action",
+          "href": "/anime/genre/action",
+          "otakudesuUrl": "https://otakudesu.best/genres/action/"
+        },
+        {
+          "title": "Adventure",
+          "genreId": "adventure",
+          "href": "/anime/genre/adventure",
+          "otakudesuUrl": "https://otakudesu.best/genres/adventure/"
+        },
+        {
+          "title": "Fantasy",
+          "genreId": "fantasy",
+          "href": "/anime/genre/fantasy",
+          "otakudesuUrl": "https://otakudesu.best/genres/fantasy/"
+        },
+        {
+          "title": "Isekai",
+          "genreId": "isekai",
+          "href": "/anime/genre/isekai",
+          "otakudesuUrl": "https://otakudesu.best/genres/isekai/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "Episode 12",
+          "eps": 12,
+          "date": "",
+          "episodeId": "ynlbga-episode-12-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-12-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-12-sub-indo/"
+        },
+        {
+          "title": "Episode 11",
+          "eps": 11,
+          "date": "",
+          "episodeId": "ynlbga-episode-11-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-11-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-11-sub-indo/"
+        },
+        {
+          "title": "Episode 10",
+          "eps": 10,
+          "date": "",
+          "episodeId": "ynlbga-episode-10-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-10-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-10-sub-indo/"
+        },
+        {
+          "title": "Episode 9",
+          "eps": 9,
+          "date": "",
+          "episodeId": "ynlbga-episode-9-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-9-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-9-sub-indo/"
+        },
+        {
+          "title": "Episode 8",
+          "eps": 8,
+          "date": "",
+          "episodeId": "ynlbga-episode-8-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-8-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-8-sub-indo/"
+        },
+        {
+          "title": "Episode 7",
+          "eps": 7,
+          "date": "",
+          "episodeId": "ynlbga-episode-7-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-7-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-7-sub-indo/"
+        },
+        {
+          "title": "Episode 6",
+          "eps": 6,
+          "date": "",
+          "episodeId": "ynlbga-episode-6-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-6-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-6-sub-indo/"
+        },
+        {
+          "title": "Episode 5",
+          "eps": 5,
+          "date": "",
+          "episodeId": "ynlbga-episode-5-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-5-sub-indo/"
+        },
+        {
+          "title": "Episode 4",
+          "eps": 4,
+          "date": "",
+          "episodeId": "ynlbga-episode-4-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-4-sub-indo/"
+        },
+        {
+          "title": "Episode 3",
+          "eps": 3,
+          "date": "",
+          "episodeId": "ynlbga-episode-3-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-3-sub-indo/"
+        },
+        {
+          "title": "Episode 2",
+          "eps": 2,
+          "date": "",
+          "episodeId": "ynlbga-episode-2-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-2-sub-indo/"
+        },
+        {
+          "title": "Episode 1",
+          "eps": 1,
+          "date": "",
+          "episodeId": "ynlbga-episode-1-sub-indo",
+          "href": "/anime/episode/ynlbga-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/ynlbga-episode-1-sub-indo/"
+        }
+      ]
+    }
+  },
+  "pagination": null
+}

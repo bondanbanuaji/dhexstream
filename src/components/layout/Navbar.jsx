@@ -3,7 +3,7 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 import {
     Menu, X, Search, User, MessageCircle,
     Dice5, Users, Info, Settings, ChevronLeft, ChevronRight,
-    Home, Zap, CheckCircle, Tags, Play
+    Home, Zap, CheckCircle, Tags, Play, History as HistoryIcon
 } from 'lucide-react';
 import SearchDropdown from '../search/SearchDropdown';
 
@@ -228,13 +228,25 @@ const Navbar = () => {
                     } border-r border-black/5 shadow-2xl overflow-y-auto scrollbar-hide`}
             >
                 <div className="p-6 min-h-full">
-                    <button
-                        onClick={() => setIsSidebarOpen(false)}
-                        className="mb-8 flex items-center gap-2 px-4 py-2 bg-white/5 backdrop-blur-md rounded-xl text-gray-400 hover:text-white font-bold transition-all shadow-xl shadow-black/20 border border-white/5 active:scale-95 group"
-                    >
-                        <ChevronLeft size={20} className="group-hover:-translate-x-1 transition-transform duration-300" />
-                        Close Menu
-                    </button>
+                    <div className="flex items-center justify-between mb-8">
+                        <button
+                            onClick={() => setIsSidebarOpen(false)}
+                            className="flex items-center gap-2 px-4 py-2 bg-white/5 backdrop-blur-md rounded-xl text-gray-400 hover:text-white font-bold transition-all shadow-xl shadow-black/20 border border-white/5 active:scale-95 group"
+                        >
+                            <ChevronLeft size={20} className="group-hover:-translate-x-1 transition-transform duration-300" />
+                            Close Menu
+                        </button>
+
+                        {/* History Icon (Top Right of Sidebar) */}
+                        <Link
+                            to="/history"
+                            onClick={() => setIsSidebarOpen(false)}
+                            className="p-2.5 bg-white/5 hover:bg-dhex-accent text-gray-400 hover:text-white rounded-xl transition-all border border-white/5 hover:border-dhex-accent/50 group"
+                            title="Watch History"
+                        >
+                            <HistoryIcon size={22} className="group-hover:scale-110 transition-transform" />
+                        </Link>
+                    </div>
 
                     {/* Main Nav Links */}
                     <nav className="space-y-1 mb-8">
@@ -243,10 +255,10 @@ const Navbar = () => {
                         <NavLink icon={<CheckCircle size={20} />} label="Completed" to="/watch/completed" active={location.pathname === '/watch/completed'} onClick={() => setIsSidebarOpen(false)} />
                         <NavLink icon={<Settings size={20} />} label="Jadwal" to="/schedule" active={location.pathname === '/schedule'} onClick={() => setIsSidebarOpen(false)} />
                         <NavLink icon={<Info size={20} />} label="Genre" to="/genre" active={location.pathname.startsWith('/genre')} onClick={() => setIsSidebarOpen(false)} />
-                    </nav>
+                    </nav >
 
                     {/* Genre List Section */}
-                    <div className="border-t border-black/5 pt-6 mt-6">
+                    < div className="border-t border-black/5 pt-6 mt-6" >
                         <div className="grid grid-cols-2 gap-x-4 gap-y-2">
                             {genres.map((genre, index) => {
                                 const genreColors = [
@@ -270,10 +282,10 @@ const Navbar = () => {
                                 );
                             })}
                         </div>
-                    </div>
+                    </div >
 
                     {/* Mobile Footer Logos (Sidebar) */}
-                    <div className="lg:hidden mt-10 pt-6 border-t border-white/5 space-y-6">
+                    < div className="lg:hidden mt-10 pt-6 border-t border-white/5 space-y-6" >
                         <div className="flex flex-col items-center gap-6 pb-8">
                             {/* BobAnimeList Link */}
                             <a
@@ -316,9 +328,9 @@ const Navbar = () => {
                                 © 2024 DHEX Stream. All rights reserved.
                             </p>
                         </div>
-                    </div>
-                </div>
-            </aside>
+                    </div >
+                </div >
+            </aside >
         </>
     );
 };

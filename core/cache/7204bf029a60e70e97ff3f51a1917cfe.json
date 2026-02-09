@@ -1,0 +1,294 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "Wandance Episode 1 Subtitle Indonesia",
+    "animeId": "wandnce-sub-indo",
+    "releaseTime": "Release on 2:19 pm",
+    "defaultStreamingUrl": "https://desustream.info/dstream/otakuwatch6/v2/index.php?id=V2dOdkJKQ3R1ZEtGcXczTkdOL282Zz09",
+    "hasPrevEpisode": false,
+    "prevEpisode": null,
+    "hasNextEpisode": true,
+    "nextEpisode": {
+      "title": "Next",
+      "episodeId": "wdnce-episode-2-sub-indo",
+      "href": "/anime/episode/wdnce-episode-2-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-2-sub-indo/"
+    },
+    "server": {
+      "qualities": [
+        {
+          "title": "360p",
+          "serverList": []
+        },
+        {
+          "title": "480p",
+          "serverList": [
+            {
+              "title": "otakuwatch6",
+              "serverId": "6E7A87-5-9D5u",
+              "href": "/anime/server/6E7A87-5-9D5u"
+            },
+            {
+              "title": "odstream",
+              "serverId": "6E7A87-6-9D5u",
+              "href": "/anime/server/6E7A87-6-9D5u"
+            },
+            {
+              "title": "vidhide",
+              "serverId": "6E7A87-7-9D5u",
+              "href": "/anime/server/6E7A87-7-9D5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "6E7A87-8-9D5u",
+              "href": "/anime/server/6E7A87-8-9D5u"
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "serverList": [
+            {
+              "title": "otakuwatch6hd ",
+              "serverId": "6E7A87-5-C75u",
+              "href": "/anime/server/6E7A87-5-C75u"
+            },
+            {
+              "title": "odstreamhd ",
+              "serverId": "6E7A87-6-C75u",
+              "href": "/anime/server/6E7A87-6-C75u"
+            },
+            {
+              "title": "vidhide ",
+              "serverId": "6E7A87-7-C75u",
+              "href": "/anime/server/6E7A87-7-C75u"
+            },
+            {
+              "title": "mega ",
+              "serverId": "6E7A87-8-C75u",
+              "href": "/anime/server/6E7A87-8-C75u"
+            }
+          ]
+        }
+      ]
+    },
+    "downloadUrl": {
+      "qualities": [
+        {
+          "title": "360p",
+          "size": "40.1 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQm1Ma21yOUVMMkF1T1o2NGcrMXJOQ0JDTDFIeXhqanVORGFYVHB2MEhVdXZSRXpUQlF4azhRZ2NMc29TekZMV2RXS3hJPQ=="
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXWkZPaXcxNHgycmExTFFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNd1N2L2gyYVNiMm8="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlMkE3cWR0NVJrNDZWVEhXOD0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzJqaEhXVWVONTN2Z0NPS0M0S2twcUo4UkF6bkVMWEpEbDhKalZoekt0UkRsNE50WXFsa20rQzBXMC9pRnFUT29XVVZCQXc9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "480p",
+          "size": "73.3 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQnFLa2EwdjErMEhicVArWWsrMXJOQ0JDTDFIeXhqanVORGFYVHB2MEhVdXZSRXpUQlF4a2dlZ2NMc29TekZMV2RXS3hJPQ=="
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXTkhNNjh3cGxRMGJaYlFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMEc3K251Z0FicSs="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJlNkRieUEvY2dqOUtSWkNXWT0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzZ6aFBjVjZMMUduZ0ljNmIrTXhDcTQ5SlZoWGxNUVZpOHNOa0pFVGFraDNpcWNrd3JGQUVxam9RMmZHbGxoYUhhVlVWTVE9PQ=="
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "size": "133.1 MB",
+          "urls": [
+            {
+              "title": "OtakuFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQThLd203N0VtaEdmM0wvTWcrMXJOQ0JDTDFIeXhqanVORGFYVHB2MEhVdXZSRXpUQlF4a3NVZ2NMc29TekZMV2RXS3hJPQ=="
+            },
+            {
+              "title": "Kraken",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXNlMrV2l2NTFBNi9CVlFESDRGam80eVBsTGNRPT0="
+            },
+            {
+              "title": "PDrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMFdvMm1hSE1jK3A="
+            },
+            {
+              "title": "VidHide",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VnSkVvVndEaXJJYUZuS3AwaW9XbGhNdysyNlJldUFyaUI2NTk1K3ZFWFdtUT0="
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3VHRjFYd0tWeEhqZ1NNT3p3b3hyMzRaUUF5UGhBbTlHK090a1RsR1R1blR6c1B3YW9YY215UkpDeS91Ti9DU3JUU0pYQXc9PQ=="
+            }
+          ]
+        }
+      ]
+    },
+    "info": {
+      "credit": "Samehadaku",
+      "encoder": "Samehadaku",
+      "duration": "23 Menit",
+      "type": "TV",
+      "genreList": [
+        {
+          "title": "Performing Arts",
+          "genreId": "performing-arts",
+          "href": "/anime/genre/performing-arts",
+          "otakudesuUrl": "https://otakudesu.best/genres/performing-arts/"
+        },
+        {
+          "title": "School",
+          "genreId": "school",
+          "href": "/anime/genre/school",
+          "otakudesuUrl": "https://otakudesu.best/genres/school/"
+        },
+        {
+          "title": "Seinen",
+          "genreId": "seinen",
+          "href": "/anime/genre/seinen",
+          "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+        },
+        {
+          "title": "Sports",
+          "genreId": "sports",
+          "href": "/anime/genre/sports",
+          "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "Episode 12",
+          "eps": 12,
+          "date": "",
+          "episodeId": "wdnce-episode-12-sub-indo",
+          "href": "/anime/episode/wdnce-episode-12-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-12-sub-indo/"
+        },
+        {
+          "title": "Episode 11",
+          "eps": 11,
+          "date": "",
+          "episodeId": "wdnce-episode-11-sub-indo",
+          "href": "/anime/episode/wdnce-episode-11-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-11-sub-indo/"
+        },
+        {
+          "title": "Episode 10",
+          "eps": 10,
+          "date": "",
+          "episodeId": "wdnce-episode-10-sub-indo",
+          "href": "/anime/episode/wdnce-episode-10-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-10-sub-indo/"
+        },
+        {
+          "title": "Episode 9",
+          "eps": 9,
+          "date": "",
+          "episodeId": "wdnce-episode-9-sub-indo",
+          "href": "/anime/episode/wdnce-episode-9-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-9-sub-indo/"
+        },
+        {
+          "title": "Episode 8",
+          "eps": 8,
+          "date": "",
+          "episodeId": "wdnce-episode-8-sub-indo",
+          "href": "/anime/episode/wdnce-episode-8-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-8-sub-indo/"
+        },
+        {
+          "title": "Episode 7",
+          "eps": 7,
+          "date": "",
+          "episodeId": "wdnce-episode-7-sub-indo",
+          "href": "/anime/episode/wdnce-episode-7-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-7-sub-indo/"
+        },
+        {
+          "title": "Episode 6",
+          "eps": 6,
+          "date": "",
+          "episodeId": "wdnce-episode-6-sub-indo",
+          "href": "/anime/episode/wdnce-episode-6-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-6-sub-indo/"
+        },
+        {
+          "title": "Episode 5",
+          "eps": 5,
+          "date": "",
+          "episodeId": "wdnce-episode-5-sub-indo",
+          "href": "/anime/episode/wdnce-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-5-sub-indo/"
+        },
+        {
+          "title": "Episode 4",
+          "eps": 4,
+          "date": "",
+          "episodeId": "wdnce-episode-4-sub-indo",
+          "href": "/anime/episode/wdnce-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-4-sub-indo/"
+        },
+        {
+          "title": "Episode 3",
+          "eps": 3,
+          "date": "",
+          "episodeId": "wdnce-episode-3-sub-indo",
+          "href": "/anime/episode/wdnce-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-3-sub-indo/"
+        },
+        {
+          "title": "Episode 2",
+          "eps": 2,
+          "date": "",
+          "episodeId": "wdnce-episode-2-sub-indo",
+          "href": "/anime/episode/wdnce-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-2-sub-indo/"
+        },
+        {
+          "title": "Episode 1",
+          "eps": 1,
+          "date": "",
+          "episodeId": "wdnce-episode-1-sub-indo",
+          "href": "/anime/episode/wdnce-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/wdnce-episode-1-sub-indo/"
+        }
+      ]
+    }
+  },
+  "pagination": null
+}

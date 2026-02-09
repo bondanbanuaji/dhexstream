@@ -46,24 +46,24 @@ if ($page === 'api') {
 
     <!-- If we are just serving the built assets from assets/dist: -->
     <?php
-    $manifestPath = __DIR__ . '/assets/dist/.vite/manifest.json';
+    $manifestPath = __DIR__ . '/dist/.vite/manifest.json';
     if (file_exists($manifestPath)) {
         $manifest = json_decode(file_get_contents($manifestPath), true);
         $entry = $manifest['src/main.jsx'];
         $ts = time(); // Cache busting
-        echo '<script type="module" src="/dhexstream/assets/dist/' . $entry['file'] . '?v=' . $ts . '"></script>';
+        echo '<script type="module" src="/dhexstream/dist/' . $entry['file'] . '?v=' . $ts . '"></script>';
         if (isset($entry['css'])) {
             foreach ($entry['css'] as $css) {
-                echo '<link rel="stylesheet" href="/dhexstream/assets/dist/' . $css . '?v=' . $ts . '">';
+                echo '<link rel="stylesheet" href="/dhexstream/dist/' . $css . '?v=' . $ts . '">';
             }
         }
     } else {
         // Fallback for Dev Mode if they access via Apache but haven't built yet?
         // Ideally they should use localhost:3000 for dev.
         // Let's just point to localhost:3000 for the script if we can, or just tell them.
-        echo '<script type="module" src="http://localhost:5173/src/main.jsx"></script>';
+        echo '<script type="module" src="http://localhost:3000/src/main.jsx"></script>';
         echo '<script type="module">
-        import RefreshRuntime from "http://localhost:5173/@react-refresh"
+        import RefreshRuntime from "http://localhost:3000/@react-refresh"
         RefreshRuntime.injectIntoGlobalHook(window)
         window.$RefreshReg$ = () => {}
         window.$RefreshSig$ = () => (type) => type

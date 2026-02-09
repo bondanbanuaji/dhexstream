@@ -108,12 +108,74 @@ function rateLimit(int $limit = 50, int $interval = 60): bool
 
 function get($url)
 {
-    if (!rateLimit(60, 60)) {
-        die('Too many requests!');
+    $cacheDir = __DIR__ . '/cache/';
+    if (!is_dir($cacheDir)) {
+        mkdir($cacheDir, 0777, true);
     }
 
-    $data = file_get_contents("https://www.sankavollerei.com/anime/" . $url);
-    return json_decode($data, true);
+    $cacheFile = $cacheDir . md5($url) . '.json';
+    $cacheDuration = 900; // Default 15 minutes
+
+    // Determine cache duration based on endpoint
+    if (str_contains($url, 'home') || str_contains($url, 'ongoing')) {
+        $cacheDuration = 600; // 10 minutes
+    } elseif (str_contains($url, 'schedule')) {
+        $cacheDuration = 21600; // 6 hours
+    } elseif (str_contains($url, 'anime/')) {
+        $cacheDuration = 3600; // 1 hour
+    } elseif (str_contains($url, 'search')) {
+        $cacheDuration = 3600; // 1 hour
+    } elseif (str_contains($url, 'complete')) {
+        $cacheDuration = 86400; // 24 hours
+    }
+
+    // Check if cache exists and is valid
+    if (file_exists($cacheFile) && (time() - filemtime($cacheFile) < $cacheDuration)) {
+        $cachedData = file_get_contents($cacheFile);
+        $decoded = json_decode($cachedData, true);
+        if ($decoded) {
+            return $decoded;
+        }
+    }
+
+    // Rate limit check only before external request
+    if (!rateLimit(60, 60)) {
+        // If rate limited but we have stale cache, return it?
+        if (file_exists($cacheFile)) {
+            $cachedData = file_get_contents($cacheFile);
+            return json_decode($cachedData, true);
+        }
+        die(json_encode(['error' => 'Too many requests, please try again later.']));
+    }
+
+    // Use curl for better performance and timeout handling
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, "https://www.sankavollerei.com/anime/" . $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10); // 10 seconds timeout
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+
+    // Add user agent to avoid being blocked
+    curl_setopt($ch, CURLOPT_USERAGENT, 'DhexStream/1.0');
+
+    $data = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    if ($httpCode === 200 && $data) {
+        // Save to cache
+        file_put_contents($cacheFile, $data);
+        return json_decode($data, true);
+    }
+
+    // If request failed but we have stale cache, return it
+    if (file_exists($cacheFile)) {
+        $cachedData = file_get_contents($cacheFile);
+        return json_decode($cachedData, true);
+    }
+
+    return null; // Or handle error appropriately
 }
 
 function slug($url, $num = 1)

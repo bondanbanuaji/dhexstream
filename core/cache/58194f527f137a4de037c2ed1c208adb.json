@@ -1,0 +1,433 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Hanebado!",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/10/Hanebado-Sub-Indo.jpg",
+        "studios": "LIDENFILMS",
+        "score": "7.19",
+        "episodes": 13,
+        "season": "Summer 2018",
+        "animeId": "hanebd-subtitle-indonesia",
+        "href": "/anime/anime/hanebd-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/hanebd-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Seorang pelatih bernama Tachibana Ketarou yang memiliki antusiasme tinggi namun sayangnya kebanyakan dari anggota di timnya yang kecil tidak terlalu antusias seperti dirinya. Suatu hari, dirinya bertemu dengan Ayano Hanesaki yang merupakan pemain bulutangkis dengan kekuatan fisik yang luar biasa, namun sepertinya dirinya tak tertarik dengan bulutangkis dan lebih memilih melakukan hal lain.",
+            "Oleh karena itu, Tachibana pun mulai berusaha untuk merekrut dirinya, namun sangat disayangkan Ayano tak tertarik dengan olahraga tersebut. Walaupun begitu, tetap saja sang pelatih yakin bahwa dirinya mampu menjadikan potensi Ayano menjadi juara.",
+            "Lantas apakah Ayano bersedia untuk bergabung dan bermain bulu tangkis?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Harukana Receive",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/10/Harukana-Receive-Sub-Indo.jpg",
+        "studios": "C2C",
+        "score": "6.88",
+        "episodes": 12,
+        "season": "Summer 2018",
+        "animeId": "harukana-the-receive-subtitle-indonesia",
+        "href": "/anime/anime/harukana-the-receive-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/harukana-the-receive-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Haruka yang memilik tubuh ideal ini mulai terpikat dengan keindahaan dari pantai Okinawa dan memutuskan untuk membentuk sebuah tim voli pantai bersama saudara sepupunya, Kanata.",
+            "Namun, Kanta yang memiliki tumbuh pendek ini mulai menyerah terhadap olahraga tersebut.",
+            "Meski demikian, Haruka tetap memaksa Kanata untuk kembali ke lapangan pasir sekali lagi dan mengikuti turnamen voli. Bagaimanakah keseruan cerita mereka selanjutnya?."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Girls und Panzer",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/09/Girls-und-Panzer-Sub-Indo.jpg",
+        "studios": "Actas",
+        "score": "7.64",
+        "episodes": 12,
+        "season": "Fall 2012",
+        "animeId": "girls-panzer-subtitle-indonesia",
+        "href": "/anime/anime/girls-panzer-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/girls-panzer-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "“Senshadou” adalah olahraga terkenal di jepang yang menggunakan tank sebagai kendaraan utamanya yang dikendarai oleh wanita. Karena semakin berkembangnya Senshadou, banyak kejuaraan yang dibentuk terutama kejuaraan dunia Senshadou yang akan diselenggarakan dijepang.",
+            "Nishizumi Miho merupakan gadis dari keluarga yang sangat terkenal akan kehebatan Senshadou mereka, terutama Kakak dan Ibunya Miho, namun karena tekanan keluarga dan trauma masa lalunya, Miho enggan untuk kembali menggeluti Senshadou serta hal-hal yang bersangkutan dengan Tank.",
+            "Bahkan kini ia pindah dari sekolah lamanya yaitu SMA Kuromorimine yang terkenal akan panzernya dan pindah ke SMA Ooarai yang normal.",
+            "Namun setelah beberapa lama ia pindah ke SMA Ooarai dirinya malah disuruh untuk mengikuti klub yang tak lain adalah klub Panzerdo yang sudah berpuluh-puluh tahun tak dibuka oleh sekolah itu.",
+            "Apa yang sebenarnya terjadi pada sekolah tersebut dan apakah Miho dapat kembali untuk mengendarai Panzer serta kembali kehidupan lamanya?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Military",
+            "genreId": "military",
+            "href": "/anime/genre/military",
+            "otakudesuUrl": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Kuroko no Basket Last Game",
+        "poster": "https://otakudesu.best/wp-content/uploads/2017/09/Kuroko-no-Basket-Last-Game-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.32",
+        "episodes": 1,
+        "season": "",
+        "animeId": "knb-lg-subtitle-indonesia",
+        "href": "/anime/anime/knb-lg-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/knb-lg-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Setelah kelulusannya dari SMP, Kuroko Tetsuya & Kagami Taiga pun sekarang mendaftar di SMA Seirin dan mereka dengan mendaftar dan bergabung dengan klub basket. Senior-senior di klub Basket terkejut dengan bakat Kagami yang luar biasa dan Kuroko yang mempunyai hawa kehadiran yang tipis. Ternyata, saat di SMP, Kuroko ialah seorang pemain misterius yang dijuluki “Pemain Bayangan Keenam”, Kuroko bermain bersama lima pemain jenius lainnya yang sering dijuluki sebagai “Generasi Keajaiban” dan telah menjuarai kejuaraan 3 kali berturut-turut. Kombinasi baru yang lahir, “Cahaya” & “Bayangan” yang dimainkan Kagami dan Kuroko akan menjadi kunci permainan yang mengagumkan di tim SMA Seirin dan sekarang telah berhasil mencapai tingkat nasional setelah mereka menjuarai turnamen Winter Cup dengan mengalahkan “Generasi Keajaiban”.",
+            "Kuroko sekarang telah menginjak kelas dua SMA. Sebuah Tim basket jalanan yang bernama “Jabberwock” dari Amerika datang ke Jepang untuk pertandingan persahabatan dengan tim Jepang. Sayangnya, setelah tim Jepang kalah telak dengan tim Jabberwock, Jabberwock sekarang mulai mengejek permainan basket Jepang. Ayah Riko, Aida Kagetora mendengar hal tersebut segera membentuk sebuah tim dengan mengumpulkan lima anggota “Generasi Keajaiban” ditambah Kuroko dan Kagami dengan tujuan mengalahkan Jabberwock. Tim yang kemudian dinamakan “Vorpal Swords” ini pun siap membalaskan kekalahan telak Jepang dari Jabberwock."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Ballroom e Youkoso",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/08/Ballroom-e-Youkoso-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8,41",
+        "episodes": 24,
+        "season": "Summer 2017",
+        "animeId": "ballroom-youkoso-subtitle-indonesia",
+        "href": "/anime/anime/ballroom-youkoso-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/ballroom-youkoso-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Fujita Tatara hanyalah seorang murid biasa, tak ada yang menonjol darinya, dirinya pun terlihat lesu dan merasa tak tertarik dengan berbagai hal yang ada di kehidupannya saat ini, karena itulah tak jarang ia menjadi target pembully-an yang ada disekolahnya dan tidak memiliki teman.",
+            "Suatu hari saat sedang dibully oleh siswa-siswa lainnya Tatara bertemu dengan Kaname Sengoku yang saat itu menyelamatkannya dari gangguan murid lainnya. Sengoku akhirnya mengajak tatara untuk mengunjungi sebuah tempat yaitu Studio Dansa. Disinilah awal kehidupan Tatara mulai berubah dan menarik perhatian dirinya.",
+            "Saat melihat sepasang penari berada di atas lantai yang indah tersebut membuat dirinya takjub dan bersemangat akan hal itu. Sengoku yang saat itu juga merupakan seorang penari professional mulai melihat potensi yang dimiliki Tatara dan mulai melatihnya.",
+            "Dari Dansa Tatara mulai bersemangat, mencoba berlatih keras mengembangkan hasratnya menjadi seorang penari. Memiliki teman-teman baru yang menerima dirinya serta saingan-saingan yang membakar semangatnya, serta mengatasi berbagai macam masalah melalui tari."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Megalo Box",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/04/Megalo-Box-Sub-Indo.jpg",
+        "studios": "TMS Entertainment",
+        "score": "8.31",
+        "episodes": 13,
+        "season": "Spring 2018",
+        "animeId": "mega-box-subtitle-indonesia",
+        "href": "/anime/anime/mega-box-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/mega-box-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Bercerita tentang seorang pria bernama Junk Dog. Hidup didunia bawah beserta area Ring yang selalu ia tempati, menjadi pejuang bawah tanah sebagai seorang petinju evolusi.",
+            "Didalam ring yang dimana hasil akhirnya telah diketahui, ia tetap bertahan demi mencari nafkah untuk hidupnya, di dalam rink Junk Dog dijuluki dengan sebutan “Joe”.",
+            "Ia juga memiliki tujuan & janji untuk bertemu dengan seseorang yang selama ini ia nantikan, namun sebelum itu ia harus menjadi seorang petinju professional, namun perjalanannya untuk sampai kesana tidaklah mudah karena ia harus berhadapan dengan lawan-lawan berat yang belum pernah ia jumpai sebelumnya."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Haikyuu!! Season 3",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/06/Haikyuu-Season-3-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "9.00",
+        "episodes": 10,
+        "season": "Fall 2016",
+        "animeId": "hky-season-3-sub-indo",
+        "href": "/anime/anime/hky-season-3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/hky-season-3-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Setelah menang melawan Aoba Jousai, Kini mereka menuju final turnamen musim semi yang ditunggu-tunggu. Kegembiraan setelah menang melawan Aoba Jousai diliputi kegelisahan karena didepan mereka terdapat sebuah dinding yang menghalangi mereka selama ini yaitu Shiratorizawa.",
+            "Shiratorizawa merupakan Klub terkuat di Prefektur Miyagi dan salah satu pemainnya ialah ace terkuat di prefektur mereka yaitu Wakatoshi Ushijima yang juga merupakan salah satu pemain nasional jepang.",
+            "Ini merupakan kesempatan terakhir bagi pemain kelas 3 Karasuno jika ingin masuk ke turnamen nasional, mereka harus mengeluarkan segenap kekuatan mereka untuk mengalahkan Shiratorizawa. Bagaimanakah kelanjutannya? apakah Karasuno dapat melewati dinding besar yang menghalangi mereka?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Haikyuu!! Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/06/Haikyuu-Season-2-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.87",
+        "episodes": 25,
+        "season": "Fall 2015",
+        "animeId": "hky-season-2-sub-indo",
+        "href": "/anime/anime/hky-season-2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/hky-season-2-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Setelah mengikuti turnamen Inter-High dan mendapat kekalahan saat melawan Aoba Jousai. Keadaan tim langsung mengalami keterpurukan. Terlebih lagi Hinata dan Kageyama yang selalu merasa bersalah akibat kekalahan itu.",
+            "Namun mereka harus belajar dari kekalahan yang lalu dan memfokuskan diri untuk berlatih dan mengasah kemampuan mereka masing-masing untuk menghadapi kompetisi Musim Semi yang akan diadakan tak lama lagi.",
+            "Oleh karena itu, kini mereka mulai berlatih dan bahkan telah mendapat undangan dari rival lamanya, yaitu tim Nekoma yang berada di Prefektur Tokyo.",
+            "Karasuno pun akhirnya bergabung dalam kamp yang dilaksanakan di Tokyo dan bertemu dengan Tim-tim terkenal lainnya. Dari sinilah perjuangan mereka dimulai untuk melatih dan memperkuat diri menuju turnamen yang akan dilaksanakan tak lama lagi di Musim Semi."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Haikyuu!!",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/04/Haikyuu-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.66",
+        "episodes": 25,
+        "season": "Spring 2014",
+        "animeId": "hkyu-sub-indo",
+        "href": "/anime/anime/hkyu-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/hkyu-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Bercerita tentang siswa remaja bernama Hinata Shouyou, sejak kecil ia sangat menyukai voli karena terinspirasi oleh permainan seorang Ace yang dijuluki “Raksasa Kecil” yang ia lihat di televisi.",
+            "Hinata memiliki tubuh yang kecil dibandingkan orang-orang seusianya, walaupun begitu ia selalu serius berlatih voli, dan saat SMP, Hinata membuat klub volinya sendiri dan memiliki 3 anggota. Hingga saat diselenggarakan Turnamen, karena kekurangan orang, Hinata meminta bantuan kepada 2 temannya yang berada di klub berbeda untuk masuk kedalam timnya, setidaknya hanya untuk mengikuti turnamen.",
+            "Sayangnya, pertandingan pertama mereka juga menjadi pertandingan terakhir karena kekalahan telak melawan Tim “Raja Lapangan” Tobio Kageyama. Walaupun mengalami kekalahan yang telak, hinata berjanji akan mengalahkan Kageyama dan melampauinya.",
+            "Setelah lulus SMP ia pun melanjutkan ke SMA Karasuno dan bergabung dengan tim voli. Dan saat itu Hinata sangat terkejut karena ternyata si “Raja Lapangan” Kageyama juga masuk ke sekolah yang sama dengannya, SMA Karasuno.",
+            "Dari sinilah cerita Hinata, Kageyama, beserta rekan-rekan timnya dalam voli dimulai."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "currentPage": 5,
+    "hasPrevPage": true,
+    "prevPage": 4,
+    "hasNextPage": false,
+    "nextPage": null,
+    "totalPages": 5
+  }
+}

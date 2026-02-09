@@ -6,19 +6,62 @@ import { useGsap } from '../../hooks/useGsap';
 const AnimeCard = ({ anime, showLink = true }) => {
     // anime object structure from API: { animeId, title, poster, latestReleaseDate, ... }
     const cardRef = useRef(null);
+    const ctxRef = useRef(null);
     const { gsap } = useGsap();
 
     const handleMouseEnter = () => {
-        gsap.to(cardRef.current, { y: -10, scale: 1.02, duration: 0.3, ease: 'power2.out' });
-        gsap.to(cardRef.current.querySelector('.play-btn'), { opacity: 1, scale: 1, duration: 0.3 });
-        gsap.to(cardRef.current.querySelector('.overlay'), { opacity: 0.8, duration: 0.3 });
+        if (!cardRef.current) return;
+
+        // Kill any existing animation context first
+        if (ctxRef.current) ctxRef.current.revert();
+
+        ctxRef.current = gsap.context(() => {
+            const card = cardRef.current;
+            const playBtn = card?.querySelector('.play-btn');
+            const overlay = card?.querySelector('.overlay');
+
+            if (card) {
+                gsap.to(card, { y: -10, scale: 1.02, duration: 0.3, ease: 'power2.out' });
+            }
+            if (playBtn) {
+                gsap.to(playBtn, { opacity: 1, scale: 1, duration: 0.3 });
+            }
+            if (overlay) {
+                gsap.to(overlay, { opacity: 0.8, duration: 0.3 });
+            }
+        }, cardRef);
     };
 
     const handleMouseLeave = () => {
-        gsap.to(cardRef.current, { y: 0, scale: 1, duration: 0.3, ease: 'power2.out' });
-        gsap.to(cardRef.current.querySelector('.play-btn'), { opacity: 0, scale: 0.8, duration: 0.3 });
-        gsap.to(cardRef.current.querySelector('.overlay'), { opacity: 0, duration: 0.3 });
+        if (!cardRef.current) return;
+
+        if (ctxRef.current) ctxRef.current.revert();
+
+        ctxRef.current = gsap.context(() => {
+            const card = cardRef.current;
+            const playBtn = card?.querySelector('.play-btn');
+            const overlay = card?.querySelector('.overlay');
+
+            if (card) {
+                gsap.to(card, { y: 0, scale: 1, duration: 0.3, ease: 'power2.out' });
+            }
+            if (playBtn) {
+                gsap.to(playBtn, { opacity: 0, scale: 0.8, duration: 0.3 });
+            }
+            if (overlay) {
+                gsap.to(overlay, { opacity: 0, duration: 0.3 });
+            }
+        }, cardRef);
     };
+
+    // Cleanup on unmount
+    React.useEffect(() => {
+        return () => {
+            if (ctxRef.current) {
+                ctxRef.current.revert();
+            }
+        };
+    }, []);
 
 
 
@@ -66,4 +109,4 @@ const AnimeCard = ({ anime, showLink = true }) => {
     return CardContent;
 };
 
-export default AnimeCard;
+export default React.memo(AnimeCard);

@@ -1,0 +1,650 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Ao no Kanata no Four Rhythm",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/06/Ao-no-Kanata-no-Four-Rhythm-Sub-Indo.jpg",
+        "studios": "Gonzo",
+        "score": "6.90",
+        "episodes": 12,
+        "season": "Winter 2016",
+        "animeId": "ao-no-kanata-no-four-rhythm-subtitle-indonesia",
+        "href": "/anime/anime/ao-no-kanata-no-four-rhythm-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/ao-no-kanata-no-four-rhythm-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Aokan Berlatar tempat di bagian pulau terpencil selatan Jepang, Ditemukannya sebuah inovasi baru yang dapat membuat seseorang terbang dengan bantuan sepatu anti-gravitasi yang dinamakan dengan “Grav-Shoes”.",
+            "Sepatu yang membuat seseorang terbang tanpa bantuan sayap dan hanya mengandalkan kekuatan tubuh mereka sendiri. Dari sinilah adanya cikal bakal sebuah olahraga unik baru dengan bantuan teknologi Grav-Shoes yaitu “Flying Circus”. Flying Circus sendiri merupakan olahraga yang mengandalkan keseimbangan dan adu kecepatan dalam pengendalian Grav-Shoes di udara.",
+            "Bercerita tentang seorang siswi bernama Asuka Kurashina. Ia merupakan gadis pindahan yang ceroboh dari pulau selatan jepang Kunahama. Asuka sangat terobsesi dengan Flying Circus dan ingin mengikuti olahraga tersebut walaupun ia sendiri tak mengetahui apapun tentang Grav-Shoes.",
+            "Disekolah barunya ia bergabung dengan klub Flying Citrus yang hampir bubar dan bertemu dengan Masaya Hinata, Tobisawa Misaki, dan Mashiro Arisaka. Namun sejak bergabungnya Asuka, mereka mulai bangkit dan mulai berlatih lagi guna mencapai impian mereka. Disinilah awal mula cerita mereka dimulai."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Kuroko no Basket Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Kuroko-no-Basket-Season-2-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.52",
+        "episodes": 25,
+        "season": "Fall 2013",
+        "animeId": "kuroko-no-basket-season-2-subtitle-indonesia",
+        "href": "/anime/anime/kuroko-no-basket-season-2-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kuroko-no-basket-season-2-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Season 2 dari serta lanjutan perjuangan mereka, walaupun Seirin mengalami kekalahan dengan SMA Touou namun semangat mereka untuk tetap bertanding dalam Basket tidak pernah menurun sedikitpun.",
+            "Sekarang mereka sedang berfokus pada kejuaraan baru, yaitu Winter Cup, Kini seirin harus lebih giat berlatih untuk mengasah kemampuan mereka.",
+            "Tepat seperti tujuan Kagami dan Kuroko sebelumnya, yaitu mengalahkan anggota Kiseki no Sedai dan meraih puncak.",
+            "Di Winter Cup kini, musuh baru di lapangan pun semakin banyak untuk menghadang mereka, serta pemain Kiseki no Sedai lainnya, akankah seirin dapat mengalahkan mereka semua?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Kuroko no Basket",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Kuroko-no-Basket-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.40",
+        "episodes": 25,
+        "season": "Spring 2012",
+        "animeId": "kuroko-no-basket-subtitle-indonesia",
+        "href": "/anime/anime/kuroko-no-basket-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kuroko-no-basket-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Di Jepang ada sebuah sekolah bernama SMP Teikou yang memiliki pemain tangguh dan berbakat diatas rata-rata yang selalu memenangkan permainan dengan mudah, pemain inti dari sekolah tersebut sering disebut dengan julukan “Kiseki No Sedai”.",
+            "Kini setelah lulus SMP masing-masing dari mereka mendaftar di tiap SMA yang berbeda dimana SMA tersebut memiliki prestasi dalam Basket.",
+            "Namun, ada 1 lagi pemain berbakat diantara Kiseki no Sedai, ia adalah Tetsuya Kuroko, sang bayangan ke-enam. Kuroko kini masuk ke sekolah Seirin, walaupun terlihat biasa saja, namun kuroko juga salah satu dari pemain generasi ajaib.",
+            "Bersamaan dengan masuknya seorang lagi siswa pindahan dari Amerika bernama Kagami Taiga ke Seirin, kini Kuroko menemukan cahaya barunya dan bertujuan mengalahkan anggota dari generasi keajaiban / Kiseki no Sedai lainnya."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Free! Season 3",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Free-Season-3-Sub-Indo.jpg",
+        "studios": "Kyoto Animation, Animation Do",
+        "score": "7.70",
+        "episodes": 12,
+        "season": "Summer 2018",
+        "animeId": "fri-s3-sub-indo",
+        "href": "/anime/anime/fri-s3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/fri-s3-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Season ke-3 dari anime Free!"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Free! Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Free-Season-2-Sub-Indo.jpg",
+        "studios": "Kyoto Animation, Animation Do",
+        "score": "7.83",
+        "episodes": 13,
+        "season": "Summer 2014",
+        "animeId": "fri-s2-sub-indo",
+        "href": "/anime/anime/fri-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/fri-s2-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Season ke-2 dari anime Free!"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Free!",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Free-Sub-Indo.jpg",
+        "studios": "Kyoto Animation, Animation Do",
+        "score": "7.60",
+        "episodes": 12,
+        "season": "Summer 2013",
+        "animeId": "fri-sub-indo",
+        "href": "/anime/anime/fri-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/fri-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Free! – Iwatobi Swim Club | Bercerita tentang Haruka Nanase bersama dengan temannya yang lain yaitu Makoto, Nagisa, dan Rin. Mereka berempat sangat menyukai renang dan dulu pernah bersama-sama mengikuti Turnamen renang dan memenangkannya, namun setelah mereka lulus SD, mereka pun berpisah.",
+            "Selang beberapa tahun, akhirnya mereka bertemu kembali sebagai murid SMA, namun semua tidak berjalan sesuai keinginan mereka. Rin kini sudah berubah, ia tak seperti dulu lagi.",
+            "Rin kini sangat terobsesi dengan Olimpiade dan menganggap Haruka sebagai penghalang yang harus dilewati, karena itu Rin pun masuk kesekolah yang berbeda dan bergabung dengan klub yang berbeda.",
+            "Setelah reuni pahit tersebut, akhirnya Haruka bersama dengan Makoto dan Nagisa membentuk klub renang disekolahnya (Imatobi Swim Club) dan merekrut anggota baru bersama Rei.",
+            "Akankah mereka bertemu kembali di turnamen resmi yang akan datang?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Chihayafuru Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Chihayafuru-Season-2-Sub-Indo.jpg",
+        "studios": "Madhouse",
+        "score": "8.48",
+        "episodes": 25,
+        "season": "Winter 2013",
+        "animeId": "chifuru-2-subtitle-indonesia",
+        "href": "/anime/anime/chifuru-2-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/chifuru-2-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Seiring berjalannya waktu, jumlah tersebut berkurang dan kini hanya tersisa 2 orang saja yaitu Tsukuba Akihiro dan Sumire Hanano, walaupun tujuan awal mereka berbeda, namun perlahan mereka mulai terbiasa dengan Kurata.",
+            "Meski begitu, Chihaya optimis walaupun cuman 2 anggota yang bertambah dapat membuat mereka sukses di kejuaraan Nasional tingkat SMU."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Josei",
+            "genreId": "josei",
+            "href": "/anime/genre/josei",
+            "otakudesuUrl": "https://otakudesu.best/genres/josei/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Chihayafuru",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/05/Chihayafuru-Sub-Indo.jpg",
+        "studios": "Madhouse",
+        "score": "8.30",
+        "episodes": 25,
+        "season": "Fall 2011",
+        "animeId": "chifuru-subtitle-indonesia",
+        "href": "/anime/anime/chifuru-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/chifuru-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Chihaya Ayase merupakan gadis yang tomboy dan berperilaku kasar, ia tumbuh dengan melihat mimpi kakaknya yang tinggi dan puas hanya dengan hal itu, namun hidupnya kini berubah saat bertemu dengan Arata Wataya.",
+            "Arata merupakan murid pindahan baru yang mengajarkan Kurata kepada Chihaya, Chihaya menjadi sangat suka bermain kurata hingga mereka bertiga Chihaya, Arata dan Mashima bertemu di sebuah Kompetisi.",
+            "Kini mereka telah masuk SMU dan sampai saat ini Chihaya masih mesukai kurata dan berharap dapat bermain lagi dengan Arata dan Mashima di sebuah kompetisi. Namun tak seperti yang ia harapkan, Arata dan Mashima tidak lagi bermain kurata.",
+            "Oleh karena itu Chihayafuri mendirikan sebuah Klub Kurata dengan tujuan membuat mereka berdua bermain kurata lagi dan merebut gelar Meijin dan Queen, yang merupakan gelar tertinggi pemain Kurata."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Game",
+            "genreId": "game",
+            "href": "/anime/genre/game",
+            "otakudesuUrl": "https://otakudesu.best/genres/game/"
+          },
+          {
+            "title": "Josei",
+            "genreId": "josei",
+            "href": "/anime/genre/josei",
+            "otakudesuUrl": "https://otakudesu.best/genres/josei/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Ping Pong The Animation",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/04/Ping-Pong-The-Animation-Sub-Indo.jpg",
+        "studios": "Tatsunoko Production",
+        "score": "8.65",
+        "episodes": 11,
+        "season": "Spring 2014",
+        "animeId": "ping-the-pong-subtitle-indonesia",
+        "href": "/anime/anime/ping-the-pong-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/ping-the-pong-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Bercerita tentang sepasang sahabat bernama Hoshino Yutaka dan Tsukimoto Makoto, mereka berdua telah bersahabat sejak kecil dan seringkali bermain tenis meja bersama. Walaupun mereka berdua telah berteman sejak lama, tapi kepribadian mereka jauh berbeda.",
+            "Tsukimoto Makoto sering dipanggil ‘Smile’ merupakan seorang pendiam yang tanpa ekspresi, ia jarang sekali tersenyum, tertawa, sedih, dan marah. Mirip layaknya seorang robot. Yukata Hoshino sering dipanggil ‘Peco’ merupakan pemain tenis yang hebat terutama dalam hal menyerang. Pelatih tenis SMA Koizumi memiliki harapan yang tinggi untuk mereka berdua.",
+            "Namun suatu ketika, Peco mengalami kekalahan telak oleh lawannya yang berasal dari China dan membuatnya depresi hingga kepribadiannya hancur sampai berhenti untuk bermain tenis lagi.",
+            "Akhirnya pelatihpun memutuskan untuk mengasah bakat terpendam Smile dan membuatnya menjadi pemain Professional. Dari sinilah perjalanannya dimulai."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Psychological",
+            "genreId": "psychological",
+            "href": "/anime/genre/psychological",
+            "otakudesuUrl": "https://otakudesu.best/genres/psychological/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Kaze ga Tsuyoku Fuiteiru",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/10/Kaze-ga-Tsuyoku-Fuiteiru-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.47",
+        "episodes": 23,
+        "season": "Fall 2018",
+        "animeId": "kaze-yoku-subtitle-indonesia",
+        "href": "/anime/anime/kaze-yoku-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kaze-yoku-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Suatu hari karena kelaparan, seorang mahasiswa di Universitas Kansei, mantan atlit pelari bernama Kakeru Urahara nekat mencuri makanan di salah satu toko roti. Saat ia sedang melarikan diri, seorang kakak senior di kampusnya Haiji Kiyose melihatnya namun justru kagum karena kecepatan dan kelincahan yang dimiliki Kakekru.",
+            "Karena kejadian itu, Haiji yang juga merupakan sesama pelari akhirnya mengajak Kakeru untuk tinggal bersama di sebuah asrama bersama dengan 8 temannya yang lain.",
+            "Karena telah mendapatkan 10 anggota, kini Haiji mendeklarasikan salah satu rencana besarnya, yaitu mengikuti kejuaraan lari Maraton Hakone Ekiden. Dari sinilah cerita mereka dimulai."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Circlet Princess",
+        "poster": "https://otakudesu.best/wp-content/uploads/2019/01/Circlet-Princess-Sub-Indo.jpg",
+        "studios": "Silver Link.",
+        "score": "6.08",
+        "episodes": 12,
+        "season": "Winter 2019",
+        "animeId": "circlet-prince-subtitle-indonesia",
+        "href": "/anime/anime/circlet-prince-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/circlet-prince-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Pada masa sekarang ini, kehidupan mulai berubah karena banyaknya penggunaan VR & AR. Oleh karena itu, lahirlah sebuah olahraga baru yang dinamakan dengan Circle Bout (CB).",
+            "Olahraga e-sport tersebut dapat dipertandingkan antar sekolah serta menentukan kekayaan suatu sekolah. CB tak semata-mata hanya olahraga biasa, penilaiannya menjadi tolak ukur kemampuan sekolah.",
+            "Tidak hanya pada kemampuan akademik siswa, tetapi beberapa hal lainnya seperti seni, olahraga, keterampilan, dan lain-lain."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Action",
+            "genreId": "action",
+            "href": "/anime/genre/action",
+            "otakudesuUrl": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Sci-Fi",
+            "genreId": "sci-fi",
+            "href": "/anime/genre/sci-fi",
+            "otakudesuUrl": "https://otakudesu.best/genres/sci-fi/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Anima Yell!",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/10/Anima-Yell-Sub-Indo.jpg",
+        "studios": "Doga Kobo",
+        "score": "7.02",
+        "episodes": 12,
+        "season": "Fall 2018",
+        "animeId": "aniyel-subtitle-indonesia",
+        "href": "/anime/anime/aniyel-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/aniyel-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Kohane Hatoya merupakan gadis normal yang ceria dan sering membantu orang lain, namun setelah lulus SMP ia merasa ingin melakukan sesuatu di kehidupan remajanya ini. Dirinya pun tertarik dengan pemandu sorak dan merasa kagum setelah melihat sekelompok cheerleader sedang tampil menyoraki sebuah pertandingan.",
+            "Karena itu setelah dirinya memasuki SMA, Kohane berniat untuk bergabung kedalam klub pemandu sorak. Namun saat itu juga ia kecewa karena ternyata tak ada klub tersebut disekolahnya. Walaupun begitu Kohane tidak menyerah, ia bertekad untuk membentuk sendiri klub pemandu soraknya sendiri disekolah barunya.",
+            "Kohane mencari teman lamanya yang dulu juga merupakan mantan pemandu sorak saat SMP, Uki dan Hizume. Ia pun harus mencari beberapa anggota lain agar mereka bisa segera membuat klub tersebut. Dari sinilah cerita Anima Yell! dimulai."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Kuroko no Basket Season 3",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/12/Kuroko-no-Basket-Season-3-Sub-Indo.jpg",
+        "studios": "Production I.G",
+        "score": "8.52",
+        "episodes": 25,
+        "season": "Winter 2015",
+        "animeId": "kuroko-basket-season-3-subtitle-indonesia",
+        "href": "/anime/anime/kuroko-basket-season-3-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/kuroko-basket-season-3-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Dan masing-masing dari Tim tersebut memiliki anggota generasi keajaiban. Mereka semua mencoba merebut kemenangan dengan cara & tekad mereka sendiri.",
+            "Bagaimanakah selanjutnya? siapakah yang akan berdiri dipuncak nantinya?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Uma Musume Pretty Derby",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/04/Uma-Musume-Sub-Indo.jpg",
+        "studios": "Spring 2018",
+        "score": "7.07",
+        "episodes": 13,
+        "season": "Spring 2018",
+        "animeId": "uma-musume-pretty-derby-subtitle-indonesia",
+        "href": "/anime/anime/uma-musume-pretty-derby-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/uma-musume-pretty-derby-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Bercerita tentang para Uma Musume (Gadis Kuda), mereka memiliki kemampuan berlalu yang sangat hebat, mempunyai kuping dan juga ekor layaknya seekor kuda. Mereka memiliki cita-cita untuk bertanding dalam acara Olah raga nasional “Twinkle Series”.",
+            "Bahkan sebagian dari mereka berkeinginan untuk menjadi Idol. Namun sebelum itu mereka juga harus mengikuti sekolah khusus yang mengajar mereka untuk menjadi pelari yang tercepat dan menjadi top idol. Bagaimana kisah selanjutnya?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Yuri on Ice",
+        "poster": "https://otakudesu.best/wp-content/uploads/2018/11/Yuri-on-Ice-Sub-Indo.jpg",
+        "studios": "MAPPA",
+        "score": "8.20",
+        "episodes": 12,
+        "season": "Fall 2016",
+        "animeId": "yuri-ice-subtitle-indonesia",
+        "href": "/anime/anime/yuri-ice-subtitle-indonesia",
+        "otakudesuUrl": "https://otakudesu.best/anime/yuri-ice-subtitle-indonesia/",
+        "synopsis": {
+          "paragraphs": [
+            "Anime Olahraga bertema Ice Skating ini menceritakan tentang Yuuri Katsuki, pada kejuaraan Grand Prix Skating, ia membawa harapan seluruh Jepang di pundaknya namun sayangnya ia mengalami kekalahan telak di final.",
+            "Dengan perasaan putus asa kini ia kembali ke kampung halamannya di Kyushu dan tinggal di rumah keluarganya, ia bahkan berfikir untuk pensiun dari dunia Skating.",
+            "Namun, saat ia bertemu dengan seorang juara dunia lima kali berturut-turut, Viktor Nikiforov, yang tiba-tiba muncul bersama rekan setimnya, Yuuri Plisetsky, seorang skater muda yang mulai melampaui seniornya. Kini perasaan untuk bangkit kembali mulai ada didalam hatinya."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Comedy",
+            "genreId": "comedy",
+            "href": "/anime/genre/comedy",
+            "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "currentPage": 4,
+    "hasPrevPage": true,
+    "prevPage": 3,
+    "hasNextPage": true,
+    "nextPage": 5,
+    "totalPages": 5
+  }
+}

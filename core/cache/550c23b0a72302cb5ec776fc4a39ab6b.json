@@ -1,0 +1,351 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "title": "Goumon Baito-kun no Nichijou Episode 2 Subtitle Indonesia",
+    "animeId": "goumon-baito-sub-indo",
+    "releaseTime": "Release on 4:16 am",
+    "defaultStreamingUrl": "https://str.desustream.com/dstream/ondesu/v5/index.php?id=SGZOT3RHSmIxTG5JYmtjeFdjWk0rZz09",
+    "hasPrevEpisode": true,
+    "prevEpisode": {
+      "title": "Prev",
+      "episodeId": "gbn-episode-1-sub-indo",
+      "href": "/anime/episode/gbn-episode-1-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-1-sub-indo/"
+    },
+    "hasNextEpisode": true,
+    "nextEpisode": {
+      "title": "Next",
+      "episodeId": "gbn-episode-3-sub-indo",
+      "href": "/anime/episode/gbn-episode-3-sub-indo",
+      "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-3-sub-indo/"
+    },
+    "server": {
+      "qualities": [
+        {
+          "title": "360p",
+          "serverList": [
+            {
+              "title": "vidhide",
+              "serverId": "6E6ED7-5-8B5u",
+              "href": "/anime/server/6E6ED7-5-8B5u"
+            },
+            {
+              "title": "filedon",
+              "serverId": "6E6ED7-6-8B5u",
+              "href": "/anime/server/6E6ED7-6-8B5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "6E6ED7-7-8B5u",
+              "href": "/anime/server/6E6ED7-7-8B5u"
+            }
+          ]
+        },
+        {
+          "title": "480p",
+          "serverList": [
+            {
+              "title": "ondesu",
+              "serverId": "6E6ED7-5-9D5u",
+              "href": "/anime/server/6E6ED7-5-9D5u"
+            },
+            {
+              "title": "vidhide",
+              "serverId": "6E6ED7-6-9D5u",
+              "href": "/anime/server/6E6ED7-6-9D5u"
+            },
+            {
+              "title": "filedon",
+              "serverId": "6E6ED7-7-9D5u",
+              "href": "/anime/server/6E6ED7-7-9D5u"
+            },
+            {
+              "title": "mega",
+              "serverId": "6E6ED7-8-9D5u",
+              "href": "/anime/server/6E6ED7-8-9D5u"
+            }
+          ]
+        },
+        {
+          "title": "720p",
+          "serverList": [
+            {
+              "title": "ondesuhd ",
+              "serverId": "6E6ED7-5-C75u",
+              "href": "/anime/server/6E6ED7-5-C75u"
+            },
+            {
+              "title": "filedon ",
+              "serverId": "6E6ED7-6-C75u",
+              "href": "/anime/server/6E6ED7-6-C75u"
+            },
+            {
+              "title": "vidhide ",
+              "serverId": "6E6ED7-7-C75u",
+              "href": "/anime/server/6E6ED7-7-C75u"
+            },
+            {
+              "title": "mega ",
+              "serverId": "6E6ED7-8-C75u",
+              "href": "/anime/server/6E6ED7-8-C75u"
+            }
+          ]
+        }
+      ]
+    },
+    "downloadUrl": {
+      "qualities": [
+        {
+          "title": "Mp4_360p",
+          "size": "41.0 MB",
+          "urls": [
+            {
+              "title": "ODFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQnBMMXE2dUJuNkQreU00OGsrMXJOQ0JDTDFIeXhqanVSSlFtejhuMnVYOUtGYnZ6TlhxUXdJM01MMjRqU0ZibU09"
+            },
+            {
+              "title": "Pdrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNM0tHM20zeEQ5T3E="
+            },
+            {
+              "title": "Acefile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDlKUWpzdUJMMFZPYU03NUZrL2FKUUducjRGUUJ4d3VOSU1CdU1qaGFNNmVGRWpYQlY="
+            },
+            {
+              "title": "GoFile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3lIbHViVWM9"
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3gySk1Ya2VNL0h2Z0F0Q1d4Yzk4Mm9sTExoT2xEajVEOVB0bFMwTG5obk9YanY5UWdXTlN5RkYvMzhLcHJRbUNWVU5ISVE9PQ=="
+            },
+            {
+              "title": "KFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXaUt1aTZ3SjlKM0lsQlFESDRGam80eVBsTGNRPT0="
+            }
+          ]
+        },
+        {
+          "title": "Mp4_480p",
+          "size": "74.9 MB",
+          "urls": [
+            {
+              "title": "ODFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQTVaRW1wKzF5aUR1ZUN2b0krMXJOQ0JDTDFIeXhqanVSSlFtejhuMnVYOUtGYnZ6UlpxUXdJM01MMjRqU0ZibU09"
+            },
+            {
+              "title": "Pdrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMXFOMTJhYklzU1Q="
+            },
+            {
+              "title": "Acefile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDlKUWpzdUJMN1ZPYU03NUZrL2FKUUducjRGUUJ4d3VOSU1CdU1qaEdDNmVGRWpYQlY="
+            },
+            {
+              "title": "GoFile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3lIbHViVWM9"
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3lEbGZXM09HMzJuZ0V1YUo3WmRUcUladExBYjFQU2QwbDkxREtnYjV1RXJnanRzL2xsa09vU1Z2aU9HbG5oNithMGRuTFE9PQ=="
+            },
+            {
+              "title": "KFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dYM0w4S2g0NmdoenJacVFESDRGam80eVBsTGNRPT0="
+            }
+          ]
+        },
+        {
+          "title": "Mp4_720p",
+          "size": "135.9 MB",
+          "urls": [
+            {
+              "title": "ODFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQjlMMTJ3OUVLcUViK1o3NVErMXJOQ0JDTDFIeXhqanVSSlFtejhuMnVYOUtGYnZ6ZFRxUXdJM01MMjRqU0ZibU09"
+            },
+            {
+              "title": "Pdrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNM0tWdjErSlRyR3I="
+            },
+            {
+              "title": "Acefile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDlKUWpzdUJMNlZPYU03NUZrL2FKUUducjRGUUJ4d3VOSU1CdU1qaEtJNmVGRWpYQlY="
+            },
+            {
+              "title": "GoFile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3lIbHViVWM9"
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzNIVTRkMGllejJ2Z1A3eWR5b3A1cnZKVEF6N0NGR2t1N05sM1dFN2M0VXZENi84aGpHeE04amxQeGZXdHJXK1ZVMWhQY2c9PQ=="
+            },
+            {
+              "title": "KFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXWFRzckE0cEJlK0l4MFFESDRGam80eVBsTGNRPT0="
+            }
+          ]
+        },
+        {
+          "title": "MKV_480p",
+          "size": "74.7 MB",
+          "urls": [
+            {
+              "title": "ODFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQnVaQWU2dFUycEY3alA1WXMrMXJOQ0JDTDFIeXhqanVSSlFtejhuMnVYOUtGYnYwMEs3MGdlZ2NMc29UZUhMV2RXS3hJPQ=="
+            },
+            {
+              "title": "Pdrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMGlJdWgyQ0dQL04="
+            },
+            {
+              "title": "Acefile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDlKUWpzdUJQelZPYU03NUZrL2FKUUducjRGUUJ4d3VOSU1CdU1qa2pScjZWUjBIQk05QmRR"
+            },
+            {
+              "title": "GoFile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3lIbHViVWM9"
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3RtSlBkRWU5eG1QZ0pQT1U5N3QvcmI1cUl6V2tFUWhVdy9oOFNtM3RzMEtLdktKZHRuQU8zQnAzNHY2SHVXeUVWV3AzTVE9PQ=="
+            },
+            {
+              "title": "KFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXdEZyK1c0YUpBOFA5U1FESDRGam80eVBsTGNRPT0="
+            }
+          ]
+        },
+        {
+          "title": "MKV_720p",
+          "size": "135.7 MB",
+          "urls": [
+            {
+              "title": "ODFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQTBjVkdxdms2aEdlMkE2cGsrMXJOQ0JDTDFIeXhqanVSSlFtejhuMnVYOUtGYnYwMEs3MHNVZ2NMc29UZUhMV2RXS3hJPQ=="
+            },
+            {
+              "title": "Pdrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMGVGeTJuM0gvK2I="
+            },
+            {
+              "title": "Acefile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDlKUWpzdUJQeVZPYU03NUZrL2FKUUducjRGUUJ4d3VOSU1CdU1qa2pScjZaYjBIQk05QmRR"
+            },
+            {
+              "title": "GoFile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3lIbHViVWM9"
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZ3kySlBaR0dWdUdEZ1RmRE16NjhoclpKOEtCdi9PQndrMC85TGNYaVBwUmJpbHFJNGlGQUpyMDFQNi9UNnYyakNTbVZhQnc9PQ=="
+            },
+            {
+              "title": "KFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXVkZQSEx5Nk53MGZNVVFESDRGam80eVBsTGNRPT0="
+            }
+          ]
+        },
+        {
+          "title": "MKV_1080p",
+          "size": "237.3 MB",
+          "urls": [
+            {
+              "title": "ODFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VyTlZnTDBTeXJPNkU2WjV3cStpQjRjVXF2K0VtcER1YVh1NHMrMXJOQ0JDTDFIeXhqanVSSlFtejhuMnVYOUtGYnYwMEs3MDBXaVlLeTRqR2FkU0ZLTWhPUA=="
+            },
+            {
+              "title": "Pdrain",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3UwS0VFRnlDNndOcTBuWjVFZzR5QjRNMTZzdW5DSEd1MmE="
+            },
+            {
+              "title": "Acefile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VsSWx3R3pTYW5lYWNtWnBSZ3Z6NDlKUWpzdUJQeFZPYU03NUZrL2FKUUducjRGUUJ4d3VOSU1CdU1qa2pScjZCWjJEQVJ0QkZOeHc9PQ=="
+            },
+            {
+              "title": "GoFile",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VqTGw4SnlDL3NQcXRtTGQwb3lIbHViVWM9"
+            },
+            {
+              "title": "Mega",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3VwSkY0QmlpUzRlS0lnSlpkZzdUbFVlMG1iLzB2Z0NydW8vb0JMcVowUkp6ckdPRFlteS81L1ozbjdrMnJDa2RjbnNEWVl3eTk4ODllMHFUdXdWRDFhQXc9PQ=="
+            },
+            {
+              "title": "KFiles",
+              "url": "https://desustream.com/safelink/linkuz/?id=Uk83OUt2T214S3V2TTFnTHdTU2tQcWdzT3R3czRXSWlhbG02K2dXVklzV3B1YnRCemFBU1FESDRGam80eVBsTGNRPT0="
+            }
+          ]
+        }
+      ]
+    },
+    "info": {
+      "credit": "Samehadaku",
+      "encoder": "Samehadaku",
+      "duration": "23 min. per ep.",
+      "type": "TV",
+      "genreList": [
+        {
+          "title": "Comedy",
+          "genreId": "comedy",
+          "href": "/anime/genre/comedy",
+          "otakudesuUrl": "https://otakudesu.best/genres/comedy/"
+        }
+      ],
+      "episodeList": [
+        {
+          "title": "Episode 6",
+          "eps": 6,
+          "date": "",
+          "episodeId": "gbn-episode-6-sub-indo",
+          "href": "/anime/episode/gbn-episode-6-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-6-sub-indo/"
+        },
+        {
+          "title": "Episode 5",
+          "eps": 5,
+          "date": "",
+          "episodeId": "gbn-episode-5-sub-indo",
+          "href": "/anime/episode/gbn-episode-5-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-5-sub-indo/"
+        },
+        {
+          "title": "Episode 4",
+          "eps": 4,
+          "date": "",
+          "episodeId": "gbn-episode-4-sub-indo",
+          "href": "/anime/episode/gbn-episode-4-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-4-sub-indo/"
+        },
+        {
+          "title": "Episode 3",
+          "eps": 3,
+          "date": "",
+          "episodeId": "gbn-episode-3-sub-indo",
+          "href": "/anime/episode/gbn-episode-3-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-3-sub-indo/"
+        },
+        {
+          "title": "Episode 2",
+          "eps": 2,
+          "date": "",
+          "episodeId": "gbn-episode-2-sub-indo",
+          "href": "/anime/episode/gbn-episode-2-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-2-sub-indo/"
+        },
+        {
+          "title": "Episode 1",
+          "eps": 1,
+          "date": "",
+          "episodeId": "gbn-episode-1-sub-indo",
+          "href": "/anime/episode/gbn-episode-1-sub-indo",
+          "otakudesuUrl": "https://otakudesu.best/episode/gbn-episode-1-sub-indo/"
+        }
+      ]
+    }
+  },
+  "pagination": null
+}

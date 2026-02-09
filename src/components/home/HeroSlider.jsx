@@ -189,11 +189,12 @@ const HeroSlider = ({ slides }) => {
                         >
                             {/* Progress Indicator */}
                             {isActive && (
-                                <div
+                                <span
                                     className="absolute inset-0 bg-dhex-accent"
                                     style={{
                                         animation: `progress-slide 5s linear forwards`,
-                                        transformOrigin: 'top left'
+                                        transformOrigin: 'top left',
+                                        display: 'block'
                                     }}
                                 />
                             )}

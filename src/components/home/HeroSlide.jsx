@@ -12,11 +12,20 @@ const HeroSlide = ({ anime, currentSlide, totalSlides, active }) => {
 
     useEffect(() => {
         if (heroContentRef.current && active) {
-            const tl = gsap.timeline();
-            tl.fromTo(heroContentRef.current.querySelectorAll('.animate-hero'),
-                { opacity: 0, x: -30 },
-                { opacity: 1, x: 0, duration: 0.6, stagger: 0.1, ease: 'power2.out' }
-            );
+            const ctx = gsap.context(() => {
+                // Scope selector to only elements inside this specific slide's heroContentRef
+                const animateElements = heroContentRef.current.querySelectorAll('.animate-hero');
+
+                if (animateElements.length > 0) {
+                    const tl = gsap.timeline();
+                    tl.fromTo(animateElements,
+                        { opacity: 0, x: -30 },
+                        { opacity: 1, x: 0, duration: 0.6, stagger: 0.1, ease: 'power2.out' }
+                    );
+                }
+            }, heroContentRef);
+
+            return () => ctx.revert();
         }
     }, [anime.animeId, active]);
 

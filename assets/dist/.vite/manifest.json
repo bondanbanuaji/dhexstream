@@ -1,11 +1,110 @@
 {
+  "_clock-4VROpzCJ.js": {
+    "file": "assets/clock-4VROpzCJ.js",
+    "name": "clock",
+    "imports": [
+      "src/main.jsx"
+    ]
+  },
+  "_tags-tU65WQ82.js": {
+    "file": "assets/tags-tU65WQ82.js",
+    "name": "tags",
+    "imports": [
+      "src/main.jsx"
+    ]
+  },
+  "_useAniListImage-D73AcLf9.js": {
+    "file": "assets/useAniListImage-D73AcLf9.js",
+    "name": "useAniListImage",
+    "imports": [
+      "src/main.jsx"
+    ]
+  },
   "src/main.jsx": {
-    "file": "assets/main-B0keGzdT.js",
+    "file": "assets/main-BicMX7AG.js",
     "name": "main",
     "src": "src/main.jsx",
     "isEntry": true,
+    "dynamicImports": [
+      "src/pages/Home.jsx",
+      "src/pages/AnimeDetail.jsx",
+      "src/pages/Watch.jsx",
+      "src/pages/Search.jsx",
+      "src/pages/Schedule.jsx",
+      "src/pages/AnimeList.jsx",
+      "src/pages/Genre.jsx"
+    ],
     "css": [
-      "assets/main-CZ1XDjpK.css"
+      "assets/main-C7lQIW_0.css"
+    ]
+  },
+  "src/pages/AnimeDetail.jsx": {
+    "file": "assets/AnimeDetail-CgF0L_Lh.js",
+    "name": "AnimeDetail",
+    "src": "src/pages/AnimeDetail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx",
+      "_useAniListImage-D73AcLf9.js",
+      "_clock-4VROpzCJ.js"
+    ]
+  },
+  "src/pages/AnimeList.jsx": {
+    "file": "assets/AnimeList-BS9qiiXk.js",
+    "name": "AnimeList",
+    "src": "src/pages/AnimeList.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx",
+      "_tags-tU65WQ82.js"
+    ]
+  },
+  "src/pages/Genre.jsx": {
+    "file": "assets/Genre-Bj9uEreY.js",
+    "name": "Genre",
+    "src": "src/pages/Genre.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx",
+      "_tags-tU65WQ82.js"
+    ]
+  },
+  "src/pages/Home.jsx": {
+    "file": "assets/Home-BchU91DI.js",
+    "name": "Home",
+    "src": "src/pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx",
+      "_useAniListImage-D73AcLf9.js"
+    ]
+  },
+  "src/pages/Schedule.jsx": {
+    "file": "assets/Schedule-DeSmyoQE.js",
+    "name": "Schedule",
+    "src": "src/pages/Schedule.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx",
+      "_clock-4VROpzCJ.js"
+    ]
+  },
+  "src/pages/Search.jsx": {
+    "file": "assets/Search-DudkicLs.js",
+    "name": "Search",
+    "src": "src/pages/Search.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx"
+    ]
+  },
+  "src/pages/Watch.jsx": {
+    "file": "assets/Watch-Cx8FcpaV.js",
+    "name": "Watch",
+    "src": "src/pages/Watch.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.jsx"
     ]
   }
 }

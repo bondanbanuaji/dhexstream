@@ -13,30 +13,87 @@ const AnimeDetail = () => {
     const { image: bannerImage } = useAniListImage(animeData?.data?.title || '');
 
     useEffect(() => {
-        if (!loading && animeData) {
-            animatePageIn(containerRef.current);
+        if (!loading && animeData && containerRef.current) {
+            // Wrap all animations in a single context
+            const ctx = gsap.context(() => {
+                const container = containerRef.current;
 
-            // Stagger episodes
-            gsap.fromTo('.episode-item',
-                { opacity: 0, y: 10 },
-                { opacity: 1, y: 0, stagger: 0.03, duration: 0.5, delay: 0.5 }
-            );
+                // Page entrance animation
+                if (container) {
+                    gsap.fromTo(container,
+                        { opacity: 0, y: 20 },
+                        { opacity: 1, y: 0, duration: 0.6, ease: 'power2.out' }
+                    );
+                }
+
+                // Scope episode items to only those inside containerRef
+                const episodeItems = container.querySelectorAll('.episode-item');
+                if (episodeItems.length > 0) {
+                    gsap.fromTo(episodeItems,
+                        { opacity: 0, y: 10 },
+                        { opacity: 1, y: 0, stagger: 0.03, duration: 0.5, delay: 0.5 }
+                    );
+                }
+            }, containerRef); // Scope context to containerRef
+
+            // Cleanup: revert all animations and kill ScrollTriggers
+            return () => {
+                ctx.revert();
+                // Kill only ScrollTriggers associated with this container
+                ScrollTrigger.getAll().forEach(trigger => {
+                    if (containerRef.current?.contains(trigger.trigger)) {
+                        trigger.kill();
+                    }
+                });
+            };
         }
-    }, [loading, animeData]);
+    }, [loading, animeData, gsap, ScrollTrigger]);
 
     if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Loading...</div>;
     if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Error loading anime details</div>;
     if (!animeData) return null;
 
-    // Adjust data access based on actual API response structure
     const anime = animeData.data;
     const episodes = anime.episodeList || [];
+
+    // Function to log watch history immediately when clicking episode
+    const logWatchHistory = async (episodeId) => {
+        if (!anime?.animeId) return; // Prevent logging if ID is missing
+
+        try {
+            console.log('📝 Pre-logging watch (from AnimeDetail):', {
+                animeId: anime.animeId,
+                title: anime.title,
+                episode: episodeId
+            });
+
+            await fetch('/dhexstream/api.php?endpoint=log_recent', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                credentials: 'include', // Important: Send cookies for user tracking
+                body: JSON.stringify({
+                    animeId: anime.animeId,
+                    title: anime.title,
+                    poster: anime.poster,
+                    href: `${anime.animeId}/${episodeId}`,
+                    currentTime: 0,
+                    duration: 0
+                }),
+            });
+            console.log('✅ Pre-log successful');
+        } catch (err) {
+            console.error('❌ Pre-log failed:', err);
+            // Don't block navigation even if logging fails
+        }
+    };
 
     return (
         <div ref={containerRef} className="pb-20">
             {/* Banner / Header */}
             <div className="anime-banner-container relative w-full h-[50vh] overflow-hidden">
-                <div 
+                <div
                     className="absolute inset-0 bg-cover bg-center"
                     style={{
                         backgroundImage: `url(${bannerImage || anime.poster})`,
@@ -96,6 +153,7 @@ const AnimeDetail = () => {
                             {episodes.length > 0 && (
                                 <Link
                                     to={`/watch/${id}/${episodes[episodes.length - 1].episodeId}`}
+                                    onClick={() => logWatchHistory(episodes[episodes.length - 1].episodeId)}
                                     className="px-8 py-3 bg-dhex-accent hover:bg-dhex-accent-hover text-white rounded-lg font-semibold flex items-center gap-2 transition-all hover:scale-105 shadow-lg shadow-dhex-accent/20"
                                 >
                                     <Play size={20} fill="currentColor" /> Start Watching
@@ -121,6 +179,7 @@ const AnimeDetail = () => {
                                             <Link
                                                 key={ep.episodeId}
                                                 to={`/watch/${id}/${ep.episodeId}`}
+                                                onClick={() => logWatchHistory(ep.episodeId)}
                                                 className="episode-item block bg-dhex-bg hover:bg-white/5 p-4 rounded-lg border border-white/5 hover:border-dhex-accent/50 transition-all group"
                                             >
                                                 <div className="flex justify-between items-center mb-2">

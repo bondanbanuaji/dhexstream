@@ -1,0 +1,536 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "message": "",
+  "ok": true,
+  "data": {
+    "animeList": [
+      {
+        "title": "Medalist Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/medalist-2nd-season-ce42515a919d92779c8ab76111b8085d.jpg",
+        "studios": "ENGI",
+        "score": "7.64",
+        "episodes": 9,
+        "season": "Winter 2026",
+        "animeId": "medalist-s2-sub-indo",
+        "href": "/anime/anime/medalist-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/medalist-s2-sub-indo/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Wandance",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Wandance-Sub-Indo.jpg",
+        "studios": "Madhouse, Cyclone Graphics",
+        "score": "Fall 2025",
+        "episodes": 12,
+        "season": "Fall 2025",
+        "animeId": "wandnce-sub-indo",
+        "href": "/anime/anime/wandnce-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/wandnce-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Ketika SMP dulu, Kaboku Kotani memiliki sebuah trauma yang begitu mendalam soal tarian. Pasalnya, ia pernah ditertawakan oleh seluruh teman kelasnya karena gaya menarinya yang begitu aneh dan terasa sangat kaku.",
+            "Setelah masuk di SMA Ichirin, Kotani memilih untuk menjauh dari klub tarian. Namun, pertemuannya dengan Wanda Hikari mengubah segala persepsinya tentang menari. Sebab, Wanda adalah salah satu gadis yang sangat suka dengan tarian.",
+            "Kini, Kotani memutuskan untuk bergabung dengan klub dance setelah melihat Wanda yang ingin bebas dalam melakukan apa yang ia sukai."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Performing Arts",
+            "genreId": "performing-arts",
+            "href": "/anime/genre/performing-arts",
+            "otakudesuUrl": "https://otakudesu.best/genres/performing-arts/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Uma Musume: Cinderella Gray Part 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152280-1.jpg",
+        "studios": "CygamesPictures",
+        "score": "7.67",
+        "episodes": null,
+        "season": "Fall 2025",
+        "animeId": "uma-musume-cinderella-gray-p2-sub-indo",
+        "href": "/anime/anime/uma-musume-cinderella-gray-p2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/uma-musume-cinderella-gray-p2-sub-indo/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "Anthropomorphic",
+            "genreId": "anthropomorphic",
+            "href": "/anime/genre/anthropomorphic",
+            "otakudesuUrl": "https://otakudesu.best/genres/anthropomorphic/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Racing",
+            "genreId": "racing",
+            "href": "/anime/genre/racing",
+            "otakudesuUrl": "https://otakudesu.best/genres/racing/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Uma Musume: Cinderella Gray",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Uma-Musume-Cinderella-Gray-Sub-Indo.jpg",
+        "studios": "CygamesPictures",
+        "score": "8.56",
+        "episodes": 13,
+        "season": "Spring 2025",
+        "animeId": "uma-musume-cinderella-gray-sub-indo",
+        "href": "/anime/anime/uma-musume-cinderella-gray-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/uma-musume-cinderella-gray-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Uma Musume, mereka terlahir hanya untuk berlari. Mewarisi nama-nama dunia lain serta terinspirasi dari mimpi mereka terus melaju mengukir takdir masing-masing. Berlatar di Akademi Pusat Pelatihan Kasamatsu, ada seorang gadis bernama Oguri Cap.",
+            "Oguri memiliki kemampuan yang luar biasa dalam berlari. Saking kuatnya, ia mendapatkan julukan monster. Setelah melihat kekuatan Oguri, Kitahara Jo yang merupakan seorang pelatih mengajaknya untuk bergabung dengan tim yang ia asuh. Kini, kisah Oguri akan terlukis dalam sejarah sebagai salah satu pelari tercepat di masanya."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Anthropomorphic",
+            "genreId": "anthropomorphic",
+            "href": "/anime/genre/anthropomorphic",
+            "otakudesuUrl": "https://otakudesu.best/genres/anthropomorphic/"
+          },
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Racing",
+            "genreId": "racing",
+            "href": "/anime/genre/racing",
+            "otakudesuUrl": "https://otakudesu.best/genres/racing/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Sorairo Utility",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/04/Sorairo-Utility-Sub-Indo.jpg",
+        "studios": "Yostar Pictures",
+        "score": "7.13",
+        "episodes": 12,
+        "season": "Winter 2025",
+        "animeId": "sorairo-util-sub-indo",
+        "href": "/anime/anime/sorairo-util-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/sorairo-util-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Minami Aoba, gadis SMA yang baru saja khawatir pada dirinya sendiri karena tidak memiliki sesuatu yang bisa ia kuasai, termasuk olahraga. Tentu, hal ini membuatnya tidak ingin menjadi karakter sampingan saja dan melewati masa SMA tanpa melakukan apapun.",
+            "Suatu hari, Aoba yang sedang berjalan pulang bertemu dengan Haruka Akane, seorang pegolf Wanita yang sangat jenius. Di sana, Aoba berlatih untuk menjadi seorang pegolf mengingat olahraga ini bisa dinikmati oleh semua umur dan jenis kelamin.",
+            "Tentu, Aoba pun bertekad untuk mendalami lebih jauh olahraga gold dan menemukan keahlian khususnya sendiri."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "CGDCT",
+            "genreId": "cgdct",
+            "href": "/anime/genre/cgdct",
+            "otakudesuUrl": "https://otakudesu.best/genres/cgdct/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Medalist",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146850.jpg",
+        "studios": "ENGI",
+        "score": "7.11",
+        "episodes": 13,
+        "season": "Winter 2025",
+        "animeId": "medalist-sub-indo",
+        "href": "/anime/anime/medalist-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/medalist-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Tsukasa Akeuraji, seorang pria yang menggeluti olahraga seluncur es sejak SMP ini menganggap bahwa dirinya sudah terlambat untuk bisa menjadi seorang professional. Walau begitu, anggapan tersebut berubah setelah ia bertemu dengan Inori Yuitsuka, gadis kecil yang sangat ingin menjadi peselancar es.",
+            "Tsukasa yang melihat bahwa Inori memiliki bakat memutuskan untuk melatihnya agar bisa masuk ke Kejuaraan Nasional Jepang dan meraih medali. Mampukah Tsukasa membuat Inori bisa bersaing dengan orang lain yang lebih dulu terjun di dunia selancar es?"
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Seinen",
+            "genreId": "seinen",
+            "href": "/anime/genre/seinen",
+            "otakudesuUrl": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Ao no Hako",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/03/Ao-no-Hako-Sub-Indo.jpg",
+        "studios": "Telecom Animation Film",
+        "score": "8.28",
+        "episodes": 25,
+        "season": "Fall 2024",
+        "animeId": "ao-hako-sub-indo",
+        "href": "/anime/anime/ao-hako-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/ao-hako-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Berlatar di Akademi Eimei, sebuah sekolah yang memiliki keunggulan dalam menciptakan atlet-atlet berbakat. Taiki Inomata, anggota dari klub bulu tangkis selalu datang di pagi hari untuk berlatih sendirian. Namun, sayangnya ia selalu kalah cepat oleh Chinatsu Kano, anggota klub basket.",
+            "Taiki yang sangat mengagumi Chinatsu pun bertekad untuk menjadi pemain terkenal agar bisa bersanding dengan gadis yang ia cintai tersebut. Untuk mencapai tujuannya tentu tidak mudah, terlebih hubungan mereka berdua mulai mengalami perubahan setelah keduanya tinggal Bersama-sama."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Romance",
+            "genreId": "romance",
+            "href": "/anime/genre/romance",
+            "otakudesuUrl": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          },
+          {
+            "title": "Team Sports",
+            "genreId": "team-sports",
+            "href": "/anime/genre/team-sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/team-sports/"
+          }
+        ]
+      },
+      {
+        "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/Shin-Tennis-no-Oujisama-U-17-World-Cup-Semifinal-Sub-Indo.jpg",
+        "studios": "M.S.C",
+        "score": "6.65",
+        "episodes": 13,
+        "season": "Fall 2024",
+        "animeId": "tennis-world-cup-sub-indo",
+        "href": "/anime/anime/tennis-world-cup-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/tennis-world-cup-sub-indo/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Blue Lock Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/Blue-Lock-Season-2-Sub-Indo.jpg",
+        "studios": "8bit",
+        "score": "7.53",
+        "episodes": 14,
+        "season": "Fall 2024",
+        "animeId": "blelock-s2-sub-indo",
+        "href": "/anime/anime/blelock-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/blelock-s2-sub-indo/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "NegaPosi Angler",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/01/NegaPosi-Angler-Sub-Indo.jpg",
+        "studios": "Nut",
+        "score": "7.36",
+        "episodes": 12,
+        "season": "Fall 2024",
+        "animeId": "nega-angler-sub-indo",
+        "href": "/anime/anime/nega-angler-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/nega-angler-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Mengisahkan Tsunehiro Sasaki, mahasiswa yang saat ini Tengah terlibat dengan banyak sekali hutang. Terlebih, ia baru mendapatkan kabar dari sang dokter bahwa dirinya hanya memiliki waktu tersisa selama 2 tahun lagi untuk hidup.",
+            "Suatu hari, Tsunehiro yang sedang dikejar oleh debt collector terjatuh di laut dan ia diselematkan oleh Hana serta Takaaki yang tengah memancing di sekitar sana. Pertemuannya dengan Hana dan Takaaki membuat Hiro ingin menikmati sisa-sisa hidupnya dengan Bahagia."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Drama",
+            "genreId": "drama",
+            "href": "/anime/genre/drama",
+            "otakudesuUrl": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "title": "Slice of Life",
+            "genreId": "slice-of-life",
+            "href": "/anime/genre/slice-of-life",
+            "otakudesuUrl": "https://otakudesu.best/genres/slice-of-life/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/10/Captain-Tsubasa-Season-2.jpg",
+        "studios": "Studio Kai",
+        "score": "",
+        "episodes": 39,
+        "season": "Fall 2023",
+        "animeId": "captain-tsubasa-s2-sub-indo",
+        "href": "/anime/anime/captain-tsubasa-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/captain-tsubasa-s2-sub-indo/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "Shounen",
+            "genreId": "shounen",
+            "href": "/anime/genre/shounen",
+            "otakudesuUrl": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Uma Musume: Pretty Derby Season 3",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/09/Uma-Musume-Pretty-Derby-Season-3-Sub-Indo.jpg",
+        "studios": "Studio Kai",
+        "score": "7.59",
+        "episodes": 13,
+        "season": "Fall 2023",
+        "animeId": "uma-musume-s3-sub-indo",
+        "href": "/anime/anime/uma-musume-s3-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/uma-musume-s3-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Season ke-3 dari anime Uma Musume: Pretty Derby."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Birdie Wing: Golf Girls' Story Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/04/Birdie-Wing-Golf-Girls-Story-Season-2-Sub-Indo.jpg",
+        "studios": "Bandai Namco Pictures",
+        "score": "7.66",
+        "episodes": 12,
+        "season": "Spring 2023",
+        "animeId": "brdie-wing-golf-s2-sub-indo",
+        "href": "/anime/anime/brdie-wing-golf-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/brdie-wing-golf-s2-sub-indo/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Uma Musume: Pretty Derby - Road to the Top",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/08/Uma-Musume-Pretty-Derby-Road-to-the-Top-Sub-Indo.jpg",
+        "studios": "CygamesPictures",
+        "score": "7.85",
+        "episodes": 4,
+        "season": "Spring 2023",
+        "animeId": "uma-musume-road-to-top-sub-indo",
+        "href": "/anime/anime/uma-musume-road-to-top-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/uma-musume-road-to-top-sub-indo/",
+        "synopsis": {
+          "paragraphs": [
+            "Di musim ini cerita berfokus ke-3 gadis yaitu T.M. Opera O, Narita Top Road, & Admire Vega."
+          ]
+        },
+        "genreList": [
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      },
+      {
+        "title": "Tsurune Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2023/05/Tsurune-Season-2-Sub-Indo.jpg",
+        "studios": "Kyoto Animation",
+        "score": "8.09",
+        "episodes": 13,
+        "season": "Winter 2023",
+        "animeId": "tsrune-s2-sub-ind",
+        "href": "/anime/anime/tsrune-s2-sub-ind",
+        "otakudesuUrl": "https://otakudesu.best/anime/tsrune-s2-sub-ind/",
+        "synopsis": {
+          "paragraphs": []
+        },
+        "genreList": [
+          {
+            "title": "School",
+            "genreId": "school",
+            "href": "/anime/genre/school",
+            "otakudesuUrl": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "title": "Sports",
+            "genreId": "sports",
+            "href": "/anime/genre/sports",
+            "otakudesuUrl": "https://otakudesu.best/genres/sports/"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "currentPage": 1,
+    "hasPrevPage": false,
+    "prevPage": null,
+    "hasNextPage": true,
+    "nextPage": 2,
+    "totalPages": 5
+  }
+}
