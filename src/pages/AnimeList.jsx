@@ -25,11 +25,11 @@ const AnimeList = ({ type }) => {
 
     if (type === 'ongoing') {
         endpoint = 'ongoing';
-        title = 'Ongoing Anime';
+        title = 'Anime Sedang Tayang';
         Icon = Zap;
     } else if (type === 'complete') {
         endpoint = 'complete';
-        title = 'Completed Anime';
+        title = 'Anime Tamat';
         Icon = CheckCircle;
     } else if (type === 'genre') {
         endpoint = 'genre';
@@ -38,11 +38,11 @@ const AnimeList = ({ type }) => {
         Icon = Tags;
     } else if (type === 'popular') {
         endpoint = 'popular';
-        title = 'Popular Anime';
+        title = 'Anime Populer';
         Icon = Zap;
     } else if (type === 'top_rated') {
         endpoint = 'top_rated';
-        title = 'Highest Rated Anime';
+        title = 'Anime Rating Tertinggi';
         Icon = CheckCircle;
     }
 
@@ -74,7 +74,7 @@ const AnimeList = ({ type }) => {
                     <div className="w-16 h-16 border-4 border-dhex-accent/20 rounded-full"></div>
                     <div className="w-16 h-16 border-4 border-dhex-accent border-t-transparent rounded-full animate-spin absolute top-0"></div>
                 </div>
-                <p className="text-dhex-accent mt-4 font-semibold">Loading anime...</p>
+                <p className="text-dhex-accent mt-4 font-semibold">Memuat anime...</p>
             </div>
         );
     }
@@ -83,8 +83,8 @@ const AnimeList = ({ type }) => {
         return (
             <div className="min-h-screen pt-20 flex flex-col items-center justify-center">
                 <div className="text-center bg-red-500/10 border border-red-500/30 rounded-2xl p-8 max-w-md">
-                    <p className="text-red-500 text-xl mb-2 font-bold">⚠️ Error Loading Data</p>
-                    <p className="text-gray-400 text-sm">{error.message || 'Please try again later'}</p>
+                    <p className="text-red-500 text-xl mb-2 font-bold">⚠️ Gagal Memuat Data</p>
+                    <p className="text-gray-400 text-sm">{error.message || 'Silakan coba lagi nanti'}</p>
                 </div>
             </div>
         );
@@ -115,7 +115,7 @@ const AnimeList = ({ type }) => {
                 <div className="inline-flex items-center gap-3 bg-white/5 border border-white/10 px-6 py-2 rounded-full backdrop-blur-md">
                     <span className="w-2 h-2 rounded-full bg-dhex-accent animate-pulse shadow-lg shadow-dhex-accent/50" />
                     <p className="text-gray-300 text-sm font-medium">
-                        Page <span className="text-white font-bold">{currentPage}</span> of <span className="text-white font-bold">{totalPages}</span>
+                        Halaman <span className="text-white font-bold">{currentPage}</span> dari <span className="text-white font-bold">{totalPages}</span>
                     </p>
                     {totalAnime > 0 && (
                         <>
@@ -132,8 +132,8 @@ const AnimeList = ({ type }) => {
             {animeList.length === 0 ? (
                 <div className="text-center py-20">
                     <div className="bg-white/5 border border-white/10 rounded-2xl p-12 max-w-md mx-auto">
-                        <p className="text-gray-400 text-xl mb-2">📭 No anime found</p>
-                        <p className="text-gray-500 text-sm">Try a different page or check back later</p>
+                        <p className="text-gray-400 text-xl mb-2">📭 Anime tidak ditemukan</p>
+                        <p className="text-gray-500 text-sm">Coba halaman lain atau cek lagi nanti</p>
                     </div>
                 </div>
             ) : (
@@ -162,7 +162,7 @@ const AnimeList = ({ type }) => {
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
                                 : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/5 hover:border-white/20'
                                 }`}
-                            title="First Page"
+                            title="Halaman Pertama"
                         >
                             <ChevronsLeft size={18} />
                         </button>
@@ -175,7 +175,7 @@ const AnimeList = ({ type }) => {
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
                                 : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/20 active:scale-95 border border-white/10'
                                 }`}
-                            title="Previous Page"
+                            title="Halaman Sebelumnya"
                         >
                             <ChevronLeft size={20} className="md:hidden" />
                             <ChevronLeft size={24} className="hidden md:block" />
@@ -252,7 +252,7 @@ const AnimeList = ({ type }) => {
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
                                 : 'bg-dhex-accent hover:bg-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/20 active:scale-95 border border-white/10'
                                 }`}
-                            title="Next Page"
+                            title="Halaman Selanjutnya"
                         >
                             <ChevronRight size={20} className="md:hidden" />
                             <ChevronRight size={24} className="hidden md:block" />
@@ -266,7 +266,7 @@ const AnimeList = ({ type }) => {
                                 ? 'bg-white/5 text-gray-600 cursor-not-allowed opacity-50'
                                 : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/5 hover:border-white/20'
                                 }`}
-                            title="Last Page"
+                            title="Halaman Terakhir"
                         >
                             <ChevronsRight size={18} />
                         </button>
@@ -277,7 +277,7 @@ const AnimeList = ({ type }) => {
                         <div className="inline-flex items-center gap-3 bg-white/5 border border-white/10 px-6 py-2.5 rounded-full backdrop-blur-md">
                             <span className="text-gray-400 text-xs md:text-sm font-medium tracking-wide flex items-center gap-2">
                                 <span className="w-1.5 h-1.5 rounded-full bg-green-500" />
-                                Showing <span className="text-white font-bold">{animeList.length}</span> masterpieces on this page
+                                Menampilkan <span className="text-white font-bold">{animeList.length}</span> anime di halaman ini
                             </span>
                         </div>
                     </div>

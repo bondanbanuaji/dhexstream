@@ -16,15 +16,16 @@ const PopularAnime = () => {
             <div className="flex items-center justify-between mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-white flex items-center gap-3">
                     <Flame className="text-orange-500" size={32} />
-                    Popular Anime
+                    Anime Populer
                 </h2>
                 <Link
                     to="/watch/popular"
                     className="text-dhex-accent hover:text-dhex-accent-hover transition-colors flex items-center gap-2"
                 >
-                    View All
+                    Lihat Semua
                     <ChevronRight size={18} />
                 </Link>
+
             </div>
 
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 md:gap-6">

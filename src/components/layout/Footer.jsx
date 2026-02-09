@@ -10,13 +10,13 @@ const FOOTER_CONTENT = {
       'Platform streaming anime modern dengan pengalaman menonton terbaik. Bebas iklan mengganggu dan selalu update.',
   },
   navigation: [
-    { label: 'Popular', href: '/popular' },
-    { label: 'Trending', href: '/trending' },
-    { label: 'Character List', href: '/characters' },
+    { label: 'Popular', href: '/dhexstream/watch/popular' },
+    { label: 'Trending', href: '/dhexstream/watch/top-rated' },
+    { label: 'Character List', href: '/dhexstream/characters' },
   ],
   legal: [
-    { label: 'Terms of Service', href: '/terms' },
-    { label: 'Privacy Policy', href: '/privacy' },
+    { label: 'Terms of Service', href: '/dhexstream/terms' },
+    { label: 'Privacy Policy', href: '/dhexstream/privacy' },
     { label: 'DMCA', href: '/dmca' },
   ],
   social: [
@@ -81,9 +81,16 @@ const SocialLinks = ({ links }) => (
 // Komponen brand section
 const BrandSection = ({ brand }) => (
   <div className="col-span-1">
-    <h3 className="text-xl font-bold text-white mb-4">
+    <h3 className="text-xl font-bold text-white mb-4 flex items-center gap-10">
+       <div className="ml-14 sm:ml-10 md:ml-14 lg:ml-14 xl:ml-14 w-8 h-8 flex items-center justify-center transition-transform group-hover:scale-110">
+            <img
+        src="/dhexstream/public/image/logo.png"
+        alt="DHEX Logo"
+        className="w-full h-full object-contain opacity-80 group-hover:opacity-100 mr-1"
+      />
       {brand.name}
       <span className="text-dhex-accent">{brand.accent}</span>
+      </div>
     </h3>
     <p className="text-gray-400 text-sm leading-relaxed">
       {brand.description}

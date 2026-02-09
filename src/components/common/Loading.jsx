@@ -12,7 +12,8 @@ const Loading = () => {
                     className="absolute inset-0 w-full h-full object-contain p-4 animate-pulse"
                 />
             </div>
-            <p className="mt-4 text-dhex-accent font-bold tracking-widest animate-pulse">LOADING</p>
+            <p className="mt-4 text-dhex-accent font-bold tracking-widest animate-pulse">MEMUAT</p>
+
         </div>
     );
 };

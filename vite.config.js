@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => ({
-  base: command === 'serve' ? '/dhexstream/' : '/dhexstream/dist/',
+  base: command === 'serve' ? '/dhexstream/' : '/',
   plugins: [react()],
   resolve: {
     alias: {
@@ -14,15 +14,17 @@ export default defineConfig(({ command }) => ({
   build: {
     outDir: 'dist',
     emptyOutDir: true,
-    manifest: true,
+    sourcemap: true,
     rollupOptions: {
-      input: 'src/main.jsx',
       output: {
         manualChunks: {
-          vendor: ['react', 'react-dom', 'react-router-dom', 'gsap', 'lenis']
+          'react-vendor': ['react', 'react-dom', 'react-router-dom'],
+          'animation': ['gsap', 'lenis'],
+          'utils': ['axios']
         }
       }
-    }
+    },
+    chunkSizeWarningLimit: 1000
   },
   server: {
     port: 3000,
@@ -36,3 +38,4 @@ export default defineConfig(({ command }) => ({
     }
   }
 }))
+

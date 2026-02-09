@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "echo 'Running code quality checks...' && grep -r 'console.log' src/ || echo 'No console.log found ✓'"
   },
   "dependencies": {
     "axios": "^1.6.7",

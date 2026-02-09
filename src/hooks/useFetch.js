@@ -15,7 +15,21 @@ export const useFetch = (endpoint, params = {}, shouldFetch = true) => {
             return;
         }
 
-        const url = `/dhexstream/api.php?endpoint=${endpoint}`;
+
+        // Determine base URL based on environment
+        // If we are in development (localhost), we might be served from /dhexstream/ or root
+        // In Vercel, we are at root but API is at /api.php
+        // We use a relative path strategy or environment variable if available
+
+        let baseUrl = '';
+        if (window.location.hostname === 'localhost') {
+            baseUrl = '/dhexstream/api.php';
+        } else {
+            // Production / Vercel
+            baseUrl = '/api.php';
+        }
+
+        const url = `${baseUrl}?endpoint=${endpoint}`;
 
         const fetchData = async () => {
             try {

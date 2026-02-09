@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useFetch } from '../hooks/useFetch';
+import '../styles/animations.css';
 import { ChevronLeft, LayoutList, Play, Zap, Server, ChevronRight, CheckCircle2 } from 'lucide-react';
 
 
@@ -20,14 +21,10 @@ const Watch = () => {
     useEffect(() => {
         if (streamData && streamData.data) {
             setStreamUrl(streamData.data.defaultStreamingUrl);
-
-            // Explicitly log recent watch including anime details
-            // We need anime details (poster), so we check if animeData is also available
-            // If animeData is loading, we might need another effect or check
         }
     }, [streamData]);
 
-    // Log recent watch when stream data is available (anime data optional but preferred)
+    // Log recent watch when stream data is available
     useEffect(() => {
         if (streamData?.data && ep) {
             const logWatch = async () => {
@@ -35,22 +32,23 @@ const Watch = () => {
                 const safeTitle = streamData.data.title || animeData?.data?.title || 'Unknown Title';
                 const safePoster = animeData?.data?.poster || '';
 
-                // If we don't have an ID, we can't log
                 if (!safeAnimeId) return;
 
-                try {
-                    console.log('📝 Logging watch history:', {
-                        animeId: safeAnimeId,
-                        title: safeTitle,
-                        episode: ep
-                    });
+                // Determine base URL based on environment
+                let baseUrl = '';
+                if (window.location.hostname === 'localhost') {
+                    baseUrl = '/dhexstream/api.php';
+                } else {
+                    baseUrl = '/api.php';
+                }
 
-                    const response = await fetch('/dhexstream/api.php?endpoint=log_recent', {
+                try {
+                    await fetch(`${baseUrl}?endpoint=log_recent`, {
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/json',
                         },
-                        credentials: 'include', // Important: Send cookies for user tracking
+                        credentials: 'include',
                         body: JSON.stringify({
                             animeId: safeAnimeId,
                             title: safeTitle,
@@ -60,11 +58,8 @@ const Watch = () => {
                             duration: 0
                         }),
                     });
-
-                    const result = await response.json();
-                    console.log('✅ Watch history logged:', result);
                 } catch (err) {
-                    console.error('❌ Failed to log history:', err);
+                    // Failed to log history
                 }
             };
             logWatch();
@@ -103,7 +98,7 @@ const Watch = () => {
                     <div className="w-20 h-20 border-4 border-dhex-accent border-t-transparent rounded-full animate-spin absolute top-0"></div>
                     <Play className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-dhex-accent animate-pulse" size={32} fill="currentColor" />
                 </div>
-                <p className="text-dhex-accent mt-6 font-bold text-lg animate-pulse">Loading Stream...</p>
+                <p className="text-dhex-accent mt-6 font-bold text-lg animate-pulse">Memuat Stream...</p>
             </div>
         );
     }
@@ -115,13 +110,13 @@ const Watch = () => {
                     <div className="w-16 h-16 bg-red-500/20 rounded-full flex items-center justify-center mx-auto mb-4">
                         <span className="text-4xl">⚠️</span>
                     </div>
-                    <p className="text-red-500 text-2xl mb-2 font-bold">Stream Error</p>
-                    <p className="text-gray-400 text-sm mb-4">Unable to load the episode stream</p>
+                    <p className="text-red-500 text-2xl mb-2 font-bold">Error Stream</p>
+                    <p className="text-gray-400 text-sm mb-4">Tidak dapat memuat stream episode</p>
                     <Link
                         to={`/anime/${id}`}
                         className="inline-flex items-center gap-2 px-6 py-3 bg-dhex-accent hover:bg-dhex-accent-hover text-white rounded-lg font-semibold transition-all"
                     >
-                        <ChevronLeft size={18} /> Back to Anime
+                        <ChevronLeft size={18} /> Kembali ke Anime
                     </Link>
                 </div>
             </div>
@@ -142,11 +137,9 @@ const Watch = () => {
     const currentEpisodeIndex = reversedEpisodes.findIndex(e => e && e.episodeId === ep);
     const currentEpNumber = currentEpisodeIndex >= 0 ? currentEpisodeIndex + 1 : 1;
 
-    // Navigation dalam urutan ascending (EP 1 -> EP 2 -> ... -> EP terbaru)
-    // "Previous" = episode dengan nomor lebih kecil (lebih lama) = index lebih besar
-    // "Next" = episode dengan nomor lebih besar (lebih baru) = index lebih kecil
-    const hasPrevEpisode = currentEpisodeIndex > 0; // Ada episode sebelumnya jika bukan EP 1
-    const hasNextEpisode = currentEpisodeIndex < reversedEpisodes.length - 1; // Ada episode berikutnya jika bukan EP terakhir
+    // Navigation dalam urutan ascending
+    const hasPrevEpisode = currentEpisodeIndex > 0;
+    const hasNextEpisode = currentEpisodeIndex < reversedEpisodes.length - 1;
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-dhex-bg via-dhex-bg-secondary to-dhex-bg pt-6 pb-20">
@@ -158,7 +151,7 @@ const Watch = () => {
                         className="group inline-flex items-center gap-2 px-4 py-2 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-dhex-accent/50 rounded-xl transition-all backdrop-blur-sm"
                     >
                         <ChevronLeft size={20} className="group-hover:-translate-x-1 transition-transform" />
-                        <span className="text-gray-400 group-hover:text-white transition-colors font-medium">Back to Anime</span>
+                        <span className="text-gray-400 group-hover:text-white transition-colors font-medium">Kembali ke Anime</span>
                     </Link>
                 </div>
 
@@ -178,7 +171,7 @@ const Watch = () => {
                                             autoPlay
                                             playsInline
                                         >
-                                            Your browser does not support the video tag.
+                                            Browser Anda tidak mendukung tag video.
                                         </video>
                                     ) : (
                                         <iframe
@@ -195,7 +188,7 @@ const Watch = () => {
                                             <div className="w-16 h-16 border-4 border-dhex-accent/20 rounded-full"></div>
                                             <div className="w-16 h-16 border-4 border-dhex-accent border-t-transparent rounded-full animate-spin absolute top-0"></div>
                                         </div>
-                                        <p className="text-lg font-semibold animate-pulse">Initializing Stream...</p>
+                                        <p className="text-lg font-semibold animate-pulse">Menginisialisasi Stream...</p>
                                     </div>
                                 )}
                             </div>
@@ -219,7 +212,7 @@ const Watch = () => {
                                             Episode {currentEpNumber}
                                         </span>
                                         <span className="w-1 h-1 bg-gray-600 rounded-full"></span>
-                                        <span className="text-gray-500 text-xs">Now Playing</span>
+                                        <span className="text-gray-500 text-xs">Sedang Diputar</span>
                                     </div>
                                     <h1 className="text-2xl md:text-3xl font-bold text-white mb-2 leading-tight">
                                         {episodeTitle}
@@ -230,8 +223,6 @@ const Watch = () => {
                                 </div>
                             </div>
                         </div>
-
-
 
                         {/* Episode Navigation */}
                         {reversedEpisodes.length > 0 && (
@@ -246,7 +237,7 @@ const Watch = () => {
                                                 <ChevronLeft size={20} className="text-dhex-accent" />
                                             </div>
                                             <div className="flex-grow text-left">
-                                                <p className="text-xs text-gray-500 uppercase font-semibold mb-1">Previous</p>
+                                                <p className="text-xs text-gray-500 uppercase font-semibold mb-1">Sebelumnya</p>
                                                 <p className="text-sm text-white font-medium truncate">Episode {currentEpNumber - 1}</p>
                                             </div>
                                         </div>
@@ -258,7 +249,7 @@ const Watch = () => {
                                                 <ChevronLeft size={20} className="text-gray-600" />
                                             </div>
                                             <div className="flex-grow text-left">
-                                                <p className="text-xs text-gray-600 uppercase font-semibold">No Previous</p>
+                                                <p className="text-xs text-gray-600 uppercase font-semibold">Tidak Ada</p>
                                             </div>
                                         </div>
                                     </div>
@@ -271,7 +262,7 @@ const Watch = () => {
                                     >
                                         <div className="flex items-center gap-3">
                                             <div className="flex-grow text-right">
-                                                <p className="text-xs text-dhex-accent group-hover:text-white uppercase font-semibold mb-1">Next</p>
+                                                <p className="text-xs text-dhex-accent group-hover:text-white uppercase font-semibold mb-1">Selanjutnya</p>
                                                 <p className="text-sm text-white font-medium truncate">Episode {currentEpNumber + 1}</p>
                                             </div>
                                             <div className="w-10 h-10 bg-white/20 group-hover:bg-white/30 rounded-full flex items-center justify-center transition-colors">
@@ -283,7 +274,7 @@ const Watch = () => {
                                     <div className="bg-white/5 border border-white/5 rounded-xl p-4 opacity-50">
                                         <div className="flex items-center gap-3">
                                             <div className="flex-grow text-right">
-                                                <p className="text-xs text-gray-600 uppercase font-semibold">No Next</p>
+                                                <p className="text-xs text-gray-600 uppercase font-semibold">Tidak Ada</p>
                                             </div>
                                             <div className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center">
                                                 <ChevronRight size={20} className="text-gray-600" />
@@ -299,11 +290,11 @@ const Watch = () => {
                             <div className="bg-gradient-to-br from-dhex-bg-secondary to-dhex-bg rounded-xl p-6 border border-white/10 backdrop-blur-sm">
                                 <div className="flex items-center gap-2 mb-4">
                                     <Server size={20} className="text-dhex-accent" />
-                                    <h3 className="text-lg font-bold text-white">Select Server</h3>
+                                    <h3 className="text-lg font-bold text-white">Pilih Server</h3>
                                     {isChangingServer && (
                                         <div className="ml-auto flex items-center gap-2 text-dhex-accent text-sm">
                                             <div className="w-4 h-4 border-2 border-dhex-accent border-t-transparent rounded-full animate-spin"></div>
-                                            <span>Switching...</span>
+                                            <span>Mengganti...</span>
                                         </div>
                                     )}
                                 </div>
@@ -346,15 +337,15 @@ const Watch = () => {
                         )}
                     </div>
 
-                    {/* Sidebar / Playlist */}
+                    {/* Sidebar / Playlist - SUDAH DIPERBAIKI */}
                     <div className="lg:w-1/4 flex-shrink-0 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
                         <div className="sticky top-6">
-                            <div className="bg-gradient-to-br from-dhex-bg-secondary to-dhex-bg rounded-xl overflow-hidden border border-white/10 shadow-2xl backdrop-blur-sm">
+                            <div className="bg-gradient-to-br from-dhex-bg-secondary to-dhex-bg rounded-xl border border-white/10 shadow-2xl backdrop-blur-sm">
                                 <div className="p-4 border-b border-white/10 bg-gradient-to-r from-dhex-accent/10 to-transparent">
                                     <div className="flex items-center justify-between">
                                         <h3 className="font-bold text-white flex items-center gap-2">
                                             <LayoutList size={18} className="text-dhex-accent" />
-                                            Episodes
+                                            Episode
                                         </h3>
                                         <span className="px-2 py-1 bg-dhex-accent/20 border border-dhex-accent/30 rounded-full text-dhex-accent text-xs font-bold">
                                             {episodes.length}
@@ -362,9 +353,35 @@ const Watch = () => {
                                     </div>
                                 </div>
 
-                                <div className="overflow-y-auto h-[calc(100vh-250px)] max-h-[600px] p-3 space-y-2 custom-scrollbar">
+                                {/* PERBAIKAN DI SINI - Tambah onWheel handler */}
+                                <div
+                                    className="overflow-y-auto h-[calc(100vh-250px)] max-h-[600px] p-3 space-y-2 custom-scrollbar"
+                                    onWheel={(e) => {
+                                        // Prevent scroll propagation to parent page
+                                        const element = e.currentTarget;
+                                        const scrollTop = element.scrollTop;
+                                        const scrollHeight = element.scrollHeight;
+                                        const height = element.clientHeight;
+                                        const wheelDelta = e.deltaY;
+                                        const isDeltaPositive = wheelDelta > 0;
+
+                                        if (isDeltaPositive && wheelDelta > scrollHeight - height - scrollTop) {
+                                            // Scrolling down at the bottom
+                                            element.scrollTop = scrollHeight;
+                                            e.preventDefault();
+                                            e.stopPropagation();
+                                        } else if (!isDeltaPositive && -wheelDelta > scrollTop) {
+                                            // Scrolling up at the top
+                                            element.scrollTop = 0;
+                                            e.preventDefault();
+                                            e.stopPropagation();
+                                        } else {
+                                            // In between - allow scroll but stop propagation
+                                            e.stopPropagation();
+                                        }
+                                    }}
+                                >
                                     {reversedEpisodes.map((episode, index) => {
-                                        // Setelah reverse: index 0 = Episode 1, index 1 = Episode 2, dst
                                         const episodeNumber = index + 1;
                                         const isActive = episode.episodeId === ep;
 
@@ -381,9 +398,7 @@ const Watch = () => {
                                                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent animate-shimmer"></div>
                                                 )}
                                                 <div className="relative flex items-center gap-3">
-                                                    <div className={`w-10 h-10 rounded-lg flex items-center justify-center font-bold text-sm flex-shrink-0 ${isActive
-                                                        ? 'bg-white/20'
-                                                        : 'bg-white/10 group-hover:bg-dhex-accent/20'
+                                                    <div className={`w-10 h-10 rounded-lg flex items-center justify-center font-bold text-sm flex-shrink-0 ${isActive ? 'bg-white/20' : 'bg-white/10 group-hover:bg-dhex-accent/20'
                                                         }`}>
                                                         {isActive ? (
                                                             <Play size={16} fill="currentColor" />
@@ -398,7 +413,7 @@ const Watch = () => {
                                                             </span>
                                                             {isActive && (
                                                                 <span className="flex-shrink-0 text-xs bg-white/20 px-2 py-0.5 rounded-full ml-2">
-                                                                    Now
+                                                                    Sekarang
                                                                 </span>
                                                             )}
                                                         </div>
@@ -417,43 +432,7 @@ const Watch = () => {
                 </div>
             </div>
 
-            <style jsx>{`
-                @keyframes shimmer {
-                    0% { transform: translateX(-100%); }
-                    100% { transform: translateX(100%); }
-                }
-                .animate-shimmer {
-                    animation: shimmer 2s infinite;
-                }
-                .animate-fade-in-up {
-                    animation: fadeInUp 0.6s ease-out forwards;
-                    opacity: 0;
-                }
-                @keyframes fadeInUp {
-                    from {
-                        opacity: 0;
-                        transform: translateY(20px);
-                    }
-                    to {
-                        opacity: 1;
-                        transform: translateY(0);
-                    }
-                }
-                .custom-scrollbar::-webkit-scrollbar {
-                    width: 6px;
-                }
-                .custom-scrollbar::-webkit-scrollbar-track {
-                    background: rgba(255, 255, 255, 0.05);
-                    border-radius: 10px;
-                }
-                .custom-scrollbar::-webkit-scrollbar-thumb {
-                    background: linear-gradient(180deg, var(--dhex-accent), var(--dhex-accent-hover));
-                    border-radius: 10px;
-                }
-                .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-                    background: var(--dhex-accent-hover);
-                }
-            `}</style>
+
         </div>
     );
 };

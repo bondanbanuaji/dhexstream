@@ -6,8 +6,8 @@ import { Tags } from 'lucide-react';
 const Genre = () => {
     const { data: genreData, loading, error } = useFetch('genre');
 
-    if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Loading Genres...</div>;
-    if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Error loading genres</div>;
+    if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Memuat Genre...</div>;
+    if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Gagal memuat genre</div>;
 
     // Based on genre.php: $raw['data']['genreList']
     const genres = genreData?.data?.genreList || [];
@@ -36,9 +36,9 @@ const Genre = () => {
             <div className="text-center mb-16">
                 <h1 className="text-3xl md:text-5xl font-bold text-white mb-6 flex items-center justify-center gap-3">
                     <Tags className="text-dhex-accent" size={40} />
-                    Browse Genres
+                    Jelajah Genre
                 </h1>
-                <p className="text-gray-400 text-lg">Explore anime by your favorite categories.</p>
+                <p className="text-gray-400 text-lg">Jelajahi anime berdasarkan kategori favorit Anda.</p>
             </div>
 
             <div className="flex flex-wrap justify-center gap-4">

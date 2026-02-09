@@ -80,14 +80,14 @@ const HeroSlide = ({ anime, currentSlide, totalSlides, active }) => {
                             className="px-4 py-2 sm:px-6 sm:py-3 bg-dhex-accent hover:bg-dhex-accent-hover text-white rounded-full font-semibold flex items-center gap-2 transition-transform hover:scale-105 text-xs sm:text-sm md:text-base"
                         >
                             <Play size={16} className="w-4 h-4 sm:w-5 sm:h-5" />
-                            Watch Now
+                            Mulai Menonton
                         </Link>
                         <Link
                             to={`/anime/${anime.animeId}`}
                             className="px-4 py-2 sm:px-6 sm:py-3 bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white rounded-full font-semibold flex items-center gap-2 transition-transform hover:scale-105 text-xs sm:text-sm md:text-base"
                         >
                             <Info size={16} className="w-4 h-4 sm:w-5 sm:h-5" />
-                            Details
+                            Detail
                         </Link>
                     </div>
                 </div>

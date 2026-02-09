@@ -4,14 +4,15 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/yourusername/dhexstream)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=license)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange?style=for-the-badge&logo=version)](package.json)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange?style=for-the-badge&logo=version)](CHANGELOG.md)
 [![React](https://img.shields.io/badge/react-18.2.0-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-3.4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![PHP](https://img.shields.io/badge/php-8.2+-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Localization](https://img.shields.io/badge/bahasa-100%25%20Indonesia-red?style=for-the-badge&logo=googletranslate)](src/)
 
-*A modern anime streaming platform built with React, featuring an elegant UI and seamless viewing experience.*
+*Platform streaming anime modern dengan UI elegan dan pengalaman menonton yang seamless. 100% dalam Bahasa Indonesia.*
 
-[Features](#key-features) • [Quick Start](#quick-start) • [Documentation](docs/) • [Contributing](#contributing) • [Support](#support)
+[Features](#key-features) • [Quick Start](#quick-start) • [Production Deployment](#-production-deployment) • [Changelog](CHANGELOG.md) • [Contributing](#contributing)
 
 </div>
 
@@ -22,6 +23,7 @@
 | Feature | Description |
 |---------|-------------|
 | 🎨 **Modern UI** | Beautiful, responsive interface built with TailwindCSS |
+| 🌐 **100% Indonesian** | Fully localized interface in Bahasa Indonesia |
 | 📺 **Anime Catalog** | Browse ongoing and completed anime series |
 | 🔍 **Search** | Find your favorite anime instantly |
 | 📄 **Pagination** | Navigate through large collections effortlessly |
@@ -29,6 +31,7 @@
 | 🌙 **Dark Mode** | Easy on the eyes with dark theme support |
 | 📱 **Responsive** | Works beautifully on all devices |
 | ⚡ **Smooth Animations** | Enhanced with GSAP for fluid transitions |
+| 🚀 **Vercel Ready** | Optimized for production deployment |
 
 ---
 
@@ -94,6 +97,52 @@ npm run build
 npm run preview
 ```
 
+### Code Quality
+
+```bash
+# Check for console.log statements
+npm run lint
+```
+
+---
+
+## 🌐 Production Deployment
+
+### Deploy to Vercel
+
+Project ini production-ready dan optimized untuk deployment ke Vercel:
+
+```bash
+# Verify build
+npm run build
+
+# Deploy to Vercel (requires Vercel CLI)
+vercel
+```
+
+**Deployment Resources:**
+- 📘 [Deployment Guide](DEPLOYMENT.md) - Step-by-step Vercel deployment
+- 📋 [Changelog](CHANGELOG.md) - Version history dan changes
+- 🔧 [.env.example](.env.example) - Environment variables template
+- ⚙️ [vercel.json](vercel.json) - Vercel configuration
+
+**Build Output:**
+```
+✓ 1547 modules transformed
+✓ Production bundle optimized
+✓ Code splitting configured
+✓ Source maps enabled
+✓ Zero console.log statements
+```
+
+**Production Features:**
+- ✅ 100% Indonesian localization
+- ✅ Optimized bundle sizes dengan gzip
+- ✅ Strategic code splitting (React, Animation, Utils)
+- ✅ SPA routing configured
+- ✅ Static asset caching
+- ✅ Singapore region deployment
+
 ---
 
 ## 📂 Project Structure
@@ -117,12 +166,12 @@ dhexstream/
 
 ## 📚 Documentation
 
-For detailed guides, API references, and advanced configurations, please see our [Documentation](docs/).
+Project documentation dan deployment guides:
 
-- [Getting Started Guide](docs/getting-started.md)
-- [API Documentation](docs/api.md)
-- [Component Library](docs/components.md)
-- [Deployment Guide](docs/deployment.md)
+- 📘 [Deployment Guide](DEPLOYMENT.md) - Vercel production deployment
+- 📋 [Changelog](CHANGELOG.md) - Version history
+- 🔧 [Environment Variables](.env.example) - Configuration template
+- 📂 Project structure (see below)
 
 ---
 

@@ -47,14 +47,14 @@ const Search = () => {
             {/* Status Messages */}
             {shouldFetch && error && (
                 <div className="text-center text-red-400 bg-red-500/10 p-4 rounded-lg max-w-md mx-auto border border-red-500/20 mb-8">
-                    Error parsing results. Please try again.
+                    Gagal memuat hasil. Silakan coba lagi.
                 </div>
             )}
 
             {shouldFetch && !loading && !error && results.length === 0 && (
                 <div className="text-center text-gray-400 my-20">
-                    <p className="text-xl mb-2">No results found for "{debouncedQuery}"</p>
-                    <p className="text-sm opacity-60">Try checking your spelling or use a different keyword.</p>
+                    <p className="text-xl mb-2">Tidak ada hasil untuk "{debouncedQuery}"</p>
+                    <p className="text-sm opacity-60">Periksa ejaan atau gunakan kata kunci lain.</p>
                 </div>
             )}
 
@@ -77,7 +77,7 @@ const Search = () => {
             {/* Empty State / Initial View */}
             {!shouldFetch && (
                 <div className="text-center text-gray-600 mt-20">
-                    <p>Type something to start searching...</p>
+                    <p>Ketik sesuatu untuk mulai mencari...</p>
                 </div>
             )}
         </div>

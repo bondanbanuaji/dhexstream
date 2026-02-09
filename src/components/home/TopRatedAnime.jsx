@@ -16,13 +16,14 @@ const TopRatedAnime = () => {
             <div className="flex items-center justify-between mb-8">
                 <h2 className="text-2xl md:text-3xl font-bold text-white flex items-center gap-3">
                     <Star className="text-yellow-400 fill-yellow-400" size={32} />
-                    Highest Rated Anime
+                    Anime Rating Tertinggi
                 </h2>
                 <Link
                     to="/watch/top-rated"
                     className="text-dhex-accent hover:text-dhex-accent-hover transition-colors flex items-center gap-2"
                 >
-                    View All
+                    Lihat Semua
+
                     <ChevronRight size={18} />
                 </Link>
             </div>

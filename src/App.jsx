@@ -13,7 +13,8 @@ const AnimeList = lazy(() => import('./pages/AnimeList'));
 const History = lazy(() => import('./pages/History'));
 const Genre = lazy(() => import('./pages/Genre'));
 
-const NotFound = () => <div className="min-h-screen flex items-center justify-center text-dhex-text text-xl font-bold">404 Not Found</div>;
+const NotFound = () => <div className="min-h-screen flex items-center justify-center text-dhex-text text-xl font-bold">404 Halaman Tidak Ditemukan</div>;
+
 
 function App() {
     return (

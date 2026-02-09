@@ -26,14 +26,14 @@ const RecentWatch = () => {
             <div className="flex items-center justify-between mb-6">
                 <h2 className="text-2xl md:text-3xl font-bold text-white flex items-center gap-3">
                     <History className="text-blue-400" size={32} />
-                    Continue Watching
+                    Lanjutkan Menonton
                 </h2>
                 {/* Temporary Debug Info */}
                 <Link
                     to="/history"
                     className="text-dhex-accent hover:text-dhex-accent-hover transition-colors flex items-center gap-2"
                 >
-                    View All
+                    Lihat Semua
                     <ChevronRight size={18} />
                 </Link>
             </div>
@@ -51,7 +51,7 @@ const RecentWatch = () => {
                     ))}
                 </div>
             ) : (
-                <div className="text-gray-500 text-center py-4">No watch history found.</div>
+                <div className="text-gray-500 text-center py-4">Belum ada riwayat tontonan.</div>
             )}
         </div>
     );

@@ -1,16 +1,22 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useFetch } from '../hooks/useFetch';
-import { useGsap, animatePageIn } from '../hooks/useGsap';
+import '../styles/animations.css';
+import { useGsap } from '../hooks/useGsap';
 import { useAniListImage } from '../hooks/useAniListImage';
-import { Play, Calendar, Star, Clock, Layers, CheckCircle } from 'lucide-react';
+import { Play, Calendar, Star, Clock, Layers, CheckCircle, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const AnimeDetail = () => {
     const { id } = useParams();
     const { data: animeData, loading, error } = useFetch('anime', { id });
     const containerRef = useRef();
+    const episodeListRef = useRef();
     const { gsap, ScrollTrigger } = useGsap();
     const { image: bannerImage } = useAniListImage(animeData?.data?.title || '');
+
+    // Pagination state
+    const [currentPage, setCurrentPage] = useState(1);
+    const episodesPerPage = 24; // 6 rows x 4 columns
 
     useEffect(() => {
         if (!loading && animeData && containerRef.current) {
@@ -47,32 +53,92 @@ const AnimeDetail = () => {
                 });
             };
         }
-    }, [loading, animeData, gsap, ScrollTrigger]);
+    }, [loading, animeData, gsap, ScrollTrigger, currentPage]); // Add currentPage to re-animate on page change
 
-    if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Loading...</div>;
-    if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Error loading anime details</div>;
+    // Reset to page 1 when anime changes
+    useEffect(() => {
+        setCurrentPage(1);
+    }, [id]);
+
+    // Scroll to episode list when changing page
+    const handlePageChange = (newPage) => {
+        setCurrentPage(newPage);
+        if (episodeListRef.current) {
+            episodeListRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+    };
+
+    if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Memuat...</div>;
+    if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Gagal memuat detail anime</div>;
     if (!animeData) return null;
 
     const anime = animeData.data;
     const episodes = anime.episodeList || [];
 
+    // Reverse episodes untuk urutan EP 1, 2, 3, dst
+    const reversedEpisodes = [...episodes].reverse();
+
+    // Pagination calculation
+    const totalPages = Math.ceil(reversedEpisodes.length / episodesPerPage);
+    const startIndex = (currentPage - 1) * episodesPerPage;
+    const endIndex = startIndex + episodesPerPage;
+    const currentEpisodes = reversedEpisodes.slice(startIndex, endIndex);
+
+    // Generate page numbers untuk pagination
+    const getPageNumbers = () => {
+        const pages = [];
+        const maxVisible = 5; // Max page numbers to show
+
+        if (totalPages <= maxVisible) {
+            // Show all pages if total is small
+            for (let i = 1; i <= totalPages; i++) {
+                pages.push(i);
+            }
+        } else {
+            // Show smart pagination
+            if (currentPage <= 3) {
+                // Near start
+                for (let i = 1; i <= 4; i++) pages.push(i);
+                pages.push('...');
+                pages.push(totalPages);
+            } else if (currentPage >= totalPages - 2) {
+                // Near end
+                pages.push(1);
+                pages.push('...');
+                for (let i = totalPages - 3; i <= totalPages; i++) pages.push(i);
+            } else {
+                // In middle
+                pages.push(1);
+                pages.push('...');
+                for (let i = currentPage - 1; i <= currentPage + 1; i++) pages.push(i);
+                pages.push('...');
+                pages.push(totalPages);
+            }
+        }
+
+        return pages;
+    };
+
+
     // Function to log watch history immediately when clicking episode
     const logWatchHistory = async (episodeId) => {
-        if (!anime?.animeId) return; // Prevent logging if ID is missing
+        if (!anime?.animeId) return;
+
+        // Determine base URL based on environment
+        let baseUrl = '';
+        if (window.location.hostname === 'localhost') {
+            baseUrl = '/dhexstream/api.php';
+        } else {
+            baseUrl = '/api.php';
+        }
 
         try {
-            console.log('📝 Pre-logging watch (from AnimeDetail):', {
-                animeId: anime.animeId,
-                title: anime.title,
-                episode: episodeId
-            });
-
-            await fetch('/dhexstream/api.php?endpoint=log_recent', {
+            await fetch(`${baseUrl}?endpoint=log_recent`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                credentials: 'include', // Important: Send cookies for user tracking
+                credentials: 'include',
                 body: JSON.stringify({
                     animeId: anime.animeId,
                     title: anime.title,
@@ -82,9 +148,7 @@ const AnimeDetail = () => {
                     duration: 0
                 }),
             });
-            console.log('✅ Pre-log successful');
         } catch (err) {
-            console.error('❌ Pre-log failed:', err);
             // Don't block navigation even if logging fails
         }
     };
@@ -134,17 +198,16 @@ const AnimeDetail = () => {
 
                         <div className="text-gray-300 leading-relaxed max-w-3xl mb-8">
                             {(() => {
-                                if (!anime.synopsis) return "No synopsis available.";
+                                if (!anime.synopsis) return "Sinopsis tidak tersedia.";
                                 if (typeof anime.synopsis === 'string') return anime.synopsis;
                                 if (typeof anime.synopsis === 'object' && anime.synopsis.paragraphs) {
-                                    // If paragraphs is an array of strings, join them
                                     if (Array.isArray(anime.synopsis.paragraphs)) {
                                         return anime.synopsis.paragraphs.map((p, idx) => (
                                             <p key={idx} className="mb-4">{p}</p>
                                         ));
                                     }
                                 }
-                                return "Synopsis format unknown.";
+                                return "Format sinopsis tidak dikenal.";
                             })()}
                         </div>
 
@@ -152,47 +215,117 @@ const AnimeDetail = () => {
                         <div className="flex gap-4 mb-10">
                             {episodes.length > 0 && (
                                 <Link
-                                    to={`/watch/${id}/${episodes[episodes.length - 1].episodeId}`}
-                                    onClick={() => logWatchHistory(episodes[episodes.length - 1].episodeId)}
+                                    to={`/watch/${id}/${reversedEpisodes[0].episodeId}`}
+                                    onClick={() => logWatchHistory(reversedEpisodes[0].episodeId)}
                                     className="px-8 py-3 bg-dhex-accent hover:bg-dhex-accent-hover text-white rounded-lg font-semibold flex items-center gap-2 transition-all hover:scale-105 shadow-lg shadow-dhex-accent/20"
                                 >
-                                    <Play size={20} fill="currentColor" /> Start Watching
+                                    <Play size={20} fill="currentColor" /> Mulai Menonton
                                 </Link>
                             )}
                         </div>
 
                         {/* Episodes List */}
-                        <div className="bg-dhex-bg-secondary rounded-xl p-6 border border-white/5">
-                            <h3 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
-                                <Clock size={20} className="text-dhex-accent" />
-                                Episodes
-                            </h3>
+                        <div ref={episodeListRef} className="bg-dhex-bg-secondary rounded-xl p-6 border border-white/5">
+                            <div className="flex items-center justify-between mb-6">
+                                <h3 className="text-xl font-bold text-white flex items-center gap-2">
+                                    <Clock size={20} className="text-dhex-accent" />
+                                    Episode
+                                </h3>
+                                <div className="flex items-center gap-2">
+                                    <span className="px-3 py-1 bg-dhex-accent/20 border border-dhex-accent/30 rounded-full text-dhex-accent text-xs font-bold">
+                                        {reversedEpisodes.length} Episode
+                                    </span>
+                                    {totalPages > 1 && (
+                                        <span className="px-3 py-1 bg-white/5 border border-white/10 rounded-full text-gray-400 text-xs font-bold">
+                                            Halaman {currentPage} / {totalPages}
+                                        </span>
+                                    )}
+                                </div>
+                            </div>
 
                             {episodes.length === 0 ? (
-                                <p className="text-gray-500">No episodes available yet.</p>
+                                <p className="text-gray-500">Belum ada episode tersedia.</p>
                             ) : (
-                                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                                    {[...episodes].reverse().map((ep, index) => {
-                                        // EP 1 = first episode (index 0 after reverse), EP 2 = second episode (index 1), etc.
-                                        const episodeNumber = index + 1;
-                                        return (
-                                            <Link
-                                                key={ep.episodeId}
-                                                to={`/watch/${id}/${ep.episodeId}`}
-                                                onClick={() => logWatchHistory(ep.episodeId)}
-                                                className="episode-item block bg-dhex-bg hover:bg-white/5 p-4 rounded-lg border border-white/5 hover:border-dhex-accent/50 transition-all group"
+                                <>
+                                    {/* Episodes Grid */}
+                                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-6">
+                                        {currentEpisodes.map((ep, index) => {
+                                            // Calculate actual episode number based on current page
+                                            const episodeNumber = startIndex + index + 1;
+                                            return (
+                                                <Link
+                                                    key={ep.episodeId}
+                                                    to={`/watch/${id}/${ep.episodeId}`}
+                                                    onClick={() => logWatchHistory(ep.episodeId)}
+                                                    className="episode-item block bg-dhex-bg hover:bg-white/5 p-4 rounded-lg border border-white/5 hover:border-dhex-accent/50 transition-all group"
+                                                >
+                                                    <div className="flex justify-between items-center mb-2">
+                                                        <span className="font-mono text-dhex-accent font-bold">EP {episodeNumber}</span>
+                                                        <Play size={14} className="opacity-0 group-hover:opacity-100 transition-opacity text-dhex-accent" />
+                                                    </div>
+                                                    <p className="text-sm text-gray-400 truncate group-hover:text-white transition-colors">
+                                                        {ep.title || `${anime.title} Episode ${episodeNumber} Subtitle Indonesia`}
+                                                    </p>
+                                                </Link>
+                                            );
+                                        })}
+                                    </div>
+
+                                    {/* Pagination */}
+                                    {totalPages > 1 && (
+                                        <div className="flex items-center justify-center gap-2 flex-wrap">
+                                            {/* Previous Button */}
+                                            <button
+                                                onClick={() => handlePageChange(currentPage - 1)}
+                                                disabled={currentPage === 1}
+                                                className={`px-4 py-2 rounded-lg font-semibold transition-all flex items-center gap-2 ${currentPage === 1
+                                                        ? 'bg-white/5 text-gray-600 cursor-not-allowed'
+                                                        : 'bg-white/10 hover:bg-white/20 text-white border border-white/10 hover:border-dhex-accent/50'
+                                                    }`}
                                             >
-                                                <div className="flex justify-between items-center mb-2">
-                                                    <span className="font-mono text-dhex-accent font-bold">EP {episodeNumber}</span>
-                                                    <Play size={14} className="opacity-0 group-hover:opacity-100 transition-opacity text-dhex-accent" />
-                                                </div>
-                                                <p className="text-sm text-gray-400 truncate group-hover:text-white transition-colors">
-                                                    {ep.title || `${anime.title} Episode ${episodeNumber} Subtitle Indonesia`}
-                                                </p>
-                                            </Link>
-                                        );
-                                    })}
-                                </div>
+                                                <ChevronLeft size={16} />
+                                                <span className="hidden sm:inline">Sebelumnya</span>
+                                            </button>
+
+                                            {/* Page Numbers */}
+                                            {getPageNumbers().map((page, index) => {
+                                                if (page === '...') {
+                                                    return (
+                                                        <span key={`ellipsis-${index}`} className="px-3 py-2 text-gray-500">
+                                                            ...
+                                                        </span>
+                                                    );
+                                                }
+
+                                                return (
+                                                    <button
+                                                        key={page}
+                                                        onClick={() => handlePageChange(page)}
+                                                        className={`min-w-[40px] h-[40px] rounded-lg font-bold transition-all ${currentPage === page
+                                                                ? 'bg-gradient-to-r from-dhex-accent to-dhex-accent-hover text-white shadow-lg shadow-dhex-accent/30 scale-110'
+                                                                : 'bg-white/10 hover:bg-white/20 text-gray-300 hover:text-white border border-white/10 hover:border-dhex-accent/50'
+                                                            }`}
+                                                    >
+                                                        {page}
+                                                    </button>
+                                                );
+                                            })}
+
+                                            {/* Next Button */}
+                                            <button
+                                                onClick={() => handlePageChange(currentPage + 1)}
+                                                disabled={currentPage === totalPages}
+                                                className={`px-4 py-2 rounded-lg font-semibold transition-all flex items-center gap-2 ${currentPage === totalPages
+                                                        ? 'bg-white/5 text-gray-600 cursor-not-allowed'
+                                                        : 'bg-white/10 hover:bg-white/20 text-white border border-white/10 hover:border-dhex-accent/50'
+                                                    }`}
+                                            >
+                                                <span className="hidden sm:inline">Selanjutnya</span>
+                                                <ChevronRight size={16} />
+                                            </button>
+                                        </div>
+                                    )}
+                                </>
                             )}
                         </div>
                     </div>

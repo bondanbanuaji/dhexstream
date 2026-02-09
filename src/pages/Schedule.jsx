@@ -11,17 +11,17 @@ const Schedule = () => {
 
     const days = scheduleData && scheduleData.data ? scheduleData.data : [];
 
-    if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Loading Schedule...</div>;
-    if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Error loading schedule</div>;
+    if (loading) return <div className="min-h-screen pt-20 flex justify-center text-dhex-accent">Memuat Jadwal...</div>;
+    if (error) return <div className="min-h-screen pt-20 flex justify-center text-red-500">Gagal memuat jadwal</div>;
 
     return (
         <div className="container mx-auto px-6 py-10 min-h-screen">
             <div className="text-center mb-10">
                 <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 flex items-center justify-center gap-3">
                     <Calendar className="text-dhex-accent" size={32} />
-                    Release Schedule
+                    Jadwal Rilis
                 </h1>
-                <p className="text-gray-400">Never miss an episode. Check the weekly release schedule.</p>
+                <p className="text-gray-400">Jangan lewatkan episode baru. Cek jadwal rilis mingguan.</p>
             </div>
 
             {/* Day Tabs */}
@@ -31,8 +31,8 @@ const Schedule = () => {
                         key={index}
                         onClick={() => setActiveDay(index)}
                         className={`px-6 py-3 rounded-full font-semibold transition-all duration-300 ${activeDay === index
-                                ? 'bg-dhex-accent text-white shadow-lg shadow-dhex-accent/30 scale-105'
-                                : 'bg-dhex-bg-secondary text-gray-400 hover:text-white hover:bg-white/10'
+                            ? 'bg-dhex-accent text-white shadow-lg shadow-dhex-accent/30 scale-105'
+                            : 'bg-dhex-bg-secondary text-gray-400 hover:text-white hover:bg-white/10'
                             }`}
                     >
                         {dayData.day}
@@ -50,7 +50,7 @@ const Schedule = () => {
                         </div>
 
                         {days[activeDay].anime_list.length === 0 ? (
-                            <p className="text-gray-500 italic">No anime scheduled for this day.</p>
+                            <p className="text-gray-500 italic">Tidak ada anime terjadwal untuk hari ini.</p>
                         ) : (
                             <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
                                 {days[activeDay].anime_list.map((anime, idx) => (

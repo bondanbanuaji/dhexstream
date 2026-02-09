@@ -152,7 +152,7 @@ const Navbar = () => {
                                         }
                                     }}
                                     onFocus={handleDesktopSearchClick}
-                                    placeholder="Search anime..."
+                                    placeholder="Cari anime..."
                                     className="w-full h-11 bg-black/20 hover:bg-black/30 focus:bg-black/30 border border-black/10 focus:border-dhex-accent/50 rounded-lg pl-5 pr-12 text-sm text-gray-200 transition-all outline-none"
                                 />
                                 <button type="submit" className="absolute right-3 p-1.5 text-gray-400 hover:text-white transition-colors">
@@ -197,7 +197,7 @@ const Navbar = () => {
 
                         {/* Login Button */}
                         <button className="ml-1 sm:ml-2 px-4 sm:px-6 h-10 bg-dhex-accent hover:bg-dhex-accent-hover text-white text-sm font-bold rounded-lg transition-all active:scale-95 shadow-lg shadow-dhex-accent/20">
-                            Log In
+                            Masuk
                         </button>
                     </div>
                 </div>
@@ -231,10 +231,10 @@ const Navbar = () => {
                     <div className="flex items-center justify-between mb-8">
                         <button
                             onClick={() => setIsSidebarOpen(false)}
-                            className="flex items-center gap-2 px-4 py-2 bg-white/5 backdrop-blur-md rounded-xl text-gray-400 hover:text-white font-bold transition-all shadow-xl shadow-black/20 border border-white/5 active:scale-95 group"
+                            className="flex items-center gap-2 px-4 py-2 bg-white/5 backdrop-blur-md rounded-xl text-gray-200 hover:text-white font-bold transition-all shadow-xl shadow-black/20 border border-white/5 active:scale-95 group"
                         >
                             <ChevronLeft size={20} className="group-hover:-translate-x-1 transition-transform duration-300" />
-                            Close Menu
+                        
                         </button>
 
                         {/* History Icon (Top Right of Sidebar) */}
@@ -287,7 +287,6 @@ const Navbar = () => {
                     {/* Mobile Footer Logos (Sidebar) */}
                     < div className="lg:hidden mt-10 pt-6 border-t border-white/5 space-y-6" >
                         <div className="flex flex-col items-center gap-6 pb-8">
-                            {/* BobAnimeList Link */}
                             <a
                                 href="https://bobanimelist.vercel.app/"
                                 target="_blank"
@@ -302,11 +301,10 @@ const Navbar = () => {
                                     />
                                 </div>
                                 <span className="text-[11px] font-bold text-gray-500 uppercase tracking-widest group-hover:text-dhex-accent transition-colors">
-                                    Visit BobAnimeList
+                                    Kunjungi BobAnimeList
                                 </span>
                             </a>
 
-                            {/* DHEX Stream Logo */}
                             <Link
                                 to="/"
                                 onClick={() => setIsSidebarOpen(false)}

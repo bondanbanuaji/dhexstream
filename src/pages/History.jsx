@@ -18,7 +18,7 @@ const History = () => {
                     <div className="w-16 h-16 border-4 border-dhex-accent/20 rounded-full"></div>
                     <div className="w-16 h-16 border-4 border-dhex-accent border-t-transparent rounded-full animate-spin absolute top-0"></div>
                 </div>
-                <p className="text-dhex-accent mt-4 font-semibold">Loading history...</p>
+                <p className="text-dhex-accent mt-4 font-semibold">Memuat riwayat...</p>
             </div>
         );
     }
@@ -27,8 +27,8 @@ const History = () => {
         return (
             <div className="min-h-screen pt-20 flex flex-col items-center justify-center">
                 <div className="text-center bg-red-500/10 border border-red-500/30 rounded-2xl p-8 max-w-md">
-                    <p className="text-red-500 text-xl mb-2 font-bold">⚠️ Error Loading History</p>
-                    <p className="text-gray-400 text-sm">{error.message || 'Please try again later'}</p>
+                    <p className="text-red-500 text-xl mb-2 font-bold">⚠️ Gagal Memuat Riwayat</p>
+                    <p className="text-gray-400 text-sm">{error.message || 'Silakan coba lagi nanti'}</p>
                 </div>
             </div>
         );
@@ -40,7 +40,7 @@ const History = () => {
             <div className="text-center mb-10">
                 <h1 className="text-3xl md:text-5xl font-bold text-white mb-4 flex items-center justify-center gap-3">
                     <HistoryIcon className="text-dhex-accent" size={40} />
-                    Watch History
+                    Riwayat Tontonan
                 </h1>
             </div>
 
@@ -48,7 +48,7 @@ const History = () => {
             <div className="mb-8">
                 <Link to="/" className="inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors">
                     <ArrowLeft size={18} />
-                    <span>Back to Home</span>
+                    <span>Kembali ke Beranda</span>
                 </Link>
             </div>
 
@@ -57,10 +57,10 @@ const History = () => {
                 <div className="text-center py-20">
                     <div className="bg-white/5 border border-white/10 rounded-2xl p-12 max-w-md mx-auto">
                         <HistoryIcon className="text-gray-600 mx-auto mb-4" size={48} />
-                        <p className="text-gray-400 text-xl mb-2">📭 No watch history found</p>
-                        <p className="text-gray-500 text-sm">Start watching anime to see them here!</p>
+                        <p className="text-gray-400 text-xl mb-2">📭 Belum ada riwayat tontonan</p>
+                        <p className="text-gray-500 text-sm">Mulai menonton anime untuk melihatnya di sini!</p>
                         <Link to="/" className="inline-block mt-6 px-6 py-2 bg-dhex-accent hover:bg-dhex-accent-hover text-white rounded-lg transition-colors">
-                            Browse Anime
+                            Jelajah Anime
                         </Link>
                     </div>
                 </div>
