@@ -28,10 +28,11 @@ export default defineConfig(({ command }) => ({
   },
   server: {
     port: 3000,
+    host: true, // Listen on all addresses (0.0.0.0)
     proxy: {
       // Proxy all /dhexstream/api/index.php requests to Apache
       '/dhexstream/api/index.php': {
-        target: 'http://localhost',
+        target: 'http://127.0.0.1',
         changeOrigin: true,
         secure: false
       }

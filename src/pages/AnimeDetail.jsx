@@ -126,7 +126,8 @@ const AnimeDetail = () => {
 
         // Determine base URL based on environment
         let baseUrl = '';
-        if (window.location.hostname === 'localhost') {
+        // Check if we're in dev mode (URL contains /dhexstream/) or production
+        if (window.location.pathname.includes('/dhexstream/')) {
             baseUrl = '/dhexstream/api/index.php';
         } else {
             baseUrl = '/api/index.php';

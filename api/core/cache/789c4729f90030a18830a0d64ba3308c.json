@@ -8,6 +8,66 @@
   "data": {
     "animeList": [
       {
+        "title": "Golden Kamuy Season 5",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154763.jpg",
+        "episodes": 6,
+        "releaseDay": "Selasa",
+        "latestReleaseDate": "10 Feb",
+        "animeId": "kamuy-golden-season-5-sub-indo",
+        "href": "/anime/anime/kamuy-golden-season-5-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kamuy-golden-season-5-sub-indo/"
+      },
+      {
+        "title": "Fate/strange Fake",
+        "poster": "https://otakudesu.best/wp-content/uploads/2024/12/132201-1.jpg",
+        "episodes": 7,
+        "releaseDay": "Minggu",
+        "latestReleaseDate": "10 Feb",
+        "animeId": "fate-fake-whisper-sub-indo",
+        "href": "/anime/anime/fate-fake-whisper-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/fate-fake-whisper-sub-indo/"
+      },
+      {
+        "title": "Osananajimi to wa Love Comedy ni Naranai",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Osananajimi-to-wa-Love-Comedy-ni-Naranai.jpg",
+        "episodes": 6,
+        "releaseDay": "Selasa",
+        "latestReleaseDate": "10 Feb",
+        "animeId": "osananajimi-love-comedy-sub-indo",
+        "href": "/anime/anime/osananajimi-love-comedy-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/osananajimi-love-comedy-sub-indo/"
+      },
+      {
+        "title": "Himesama “Goumon” no Jikan desu Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153326.jpg",
+        "episodes": 5,
+        "releaseDay": "Selasa",
+        "latestReleaseDate": "10 Feb",
+        "animeId": "goumon-s2-sub-indo",
+        "href": "/anime/anime/goumon-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/goumon-s2-sub-indo/"
+      },
+      {
+        "title": "Vigilante: Boku no Hero Academia Illegals Season 2",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/vigilante-boku-no-hero-academia-illegals-2nd-season-0425f475b8.jpg",
+        "episodes": 6,
+        "releaseDay": "Senin",
+        "latestReleaseDate": "09 Feb",
+        "animeId": "vigilante-bnh-academia-illegals-s2-sub-indo",
+        "href": "/anime/anime/vigilante-bnh-academia-illegals-s2-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/vigilante-bnh-academia-illegals-s2-sub-indo/"
+      },
+      {
+        "title": "Kirei ni Shitemoraemasu ka.",
+        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154234.jpg",
+        "episodes": 6,
+        "releaseDay": "Senin",
+        "latestReleaseDate": "09 Feb",
+        "animeId": "kirei-shitemoraemasu-sub-indo",
+        "href": "/anime/anime/kirei-shitemoraemasu-sub-indo",
+        "otakudesuUrl": "https://otakudesu.best/anime/kirei-shitemoraemasu-sub-indo/"
+      },
+      {
         "title": "Goumon Baito-kun no Nichijou",
         "poster": "https://otakudesu.best/wp-content/uploads/2026/01/153380.jpg",
         "episodes": 6,
@@ -178,16 +238,6 @@
         "otakudesuUrl": "https://otakudesu.best/anime/trigun-stargaze-sub-indo/"
       },
       {
-        "title": "Fate/strange Fake",
-        "poster": "https://otakudesu.best/wp-content/uploads/2024/12/132201-1.jpg",
-        "episodes": 6,
-        "releaseDay": "Minggu",
-        "latestReleaseDate": "08 Feb",
-        "animeId": "fate-fake-whisper-sub-indo",
-        "href": "/anime/anime/fate-fake-whisper-sub-indo",
-        "otakudesuUrl": "https://otakudesu.best/anime/fate-fake-whisper-sub-indo/"
-      },
-      {
         "title": "Dead Account",
         "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154192.jpg",
         "episodes": 5,
@@ -206,56 +256,6 @@
         "animeId": "jingai-kyoushitsu-ningengirai-kyoushi-sub-indo",
         "href": "/anime/anime/jingai-kyoushitsu-ningengirai-kyoushi-sub-indo",
         "otakudesuUrl": "https://otakudesu.best/anime/jingai-kyoushitsu-ningengirai-kyoushi-sub-indo/"
-      },
-      {
-        "title": "Tensei shitara Dragon no Tamago datta",
-        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/Tensei-shitara-Dragon-no-Tamago-datta.jpg",
-        "episodes": 5,
-        "releaseDay": "Sabtu",
-        "latestReleaseDate": "07 Feb",
-        "animeId": "tensei-shitara-dragon-tamago-sub-indo",
-        "href": "/anime/anime/tensei-shitara-dragon-tamago-sub-indo",
-        "otakudesuUrl": "https://otakudesu.best/anime/tensei-shitara-dragon-tamago-sub-indo/"
-      },
-      {
-        "title": "Enen no Shouboutai: San no Shou Part 2",
-        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/152472.jpg",
-        "episodes": 5,
-        "releaseDay": "Sabtu",
-        "latestReleaseDate": "07 Feb",
-        "animeId": "enen-shouboutai-season-3-p2-sub-indo",
-        "href": "/anime/anime/enen-shouboutai-season-3-p2-sub-indo",
-        "otakudesuUrl": "https://otakudesu.best/anime/enen-shouboutai-season-3-p2-sub-indo/"
-      },
-      {
-        "title": "Dark Moon: Tsuki no Saidan",
-        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154695.jpg",
-        "episodes": 5,
-        "releaseDay": "Sabtu",
-        "latestReleaseDate": "07 Feb",
-        "animeId": "dark-moon-sub-indo",
-        "href": "/anime/anime/dark-moon-sub-indo",
-        "otakudesuUrl": "https://otakudesu.best/anime/dark-moon-sub-indo/"
-      },
-      {
-        "title": "Hell Mode",
-        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/152479.jpg",
-        "episodes": 5,
-        "releaseDay": "Sabtu",
-        "latestReleaseDate": "07 Feb",
-        "animeId": "mode-hell-sub-indo",
-        "href": "/anime/anime/mode-hell-sub-indo",
-        "otakudesuUrl": "https://otakudesu.best/anime/mode-hell-sub-indo/"
-      },
-      {
-        "title": "Sousou no Frieren Season 2",
-        "poster": "https://otakudesu.best/wp-content/uploads/2026/01/154528.jpg",
-        "episodes": 4,
-        "releaseDay": "Jumat",
-        "latestReleaseDate": "06 Feb",
-        "animeId": "sousou-frieren-s2-sub-indo",
-        "href": "/anime/anime/sousou-frieren-s2-sub-indo",
-        "otakudesuUrl": "https://otakudesu.best/anime/sousou-frieren-s2-sub-indo/"
       }
     ]
   },

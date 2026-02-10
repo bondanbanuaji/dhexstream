@@ -18,8 +18,9 @@ export const useFetch = (endpoint, params = {}, shouldFetch = true) => {
 
         // Determine base URL based on environment
         let baseUrl = '';
-        if (window.location.hostname === 'localhost') {
-            // Localhost: API is at /dhexstream/api/index.php
+        // Check if we're in dev mode (URL contains /dhexstream/) or production
+        if (window.location.pathname.includes('/dhexstream/')) {
+            // Development: API is at /dhexstream/api/index.php
             baseUrl = '/dhexstream/api/index.php';
         } else {
             // Production / Vercel: API is at /api/index.php (rewritten from /api.php or direct)

@@ -125,7 +125,7 @@ const Navbar = () => {
                         <Link to="/" className="hidden lg:flex items-center gap-2 group">
                             <div className="w-9 h-9 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <img
-                                    src="/dhexstream/public/image/logo.png"
+                                    src="/image/logo.png"
                                     alt="DHEX Logo"
                                     className="w-full h-full object-contain"
                                 />
@@ -189,7 +189,7 @@ const Navbar = () => {
                             className="hidden lg:flex items-center justify-center w-12 h-12 hover:scale-110 transition-transform duration-300"
                         >
                             <img
-                                src="/dhexstream/public/image/bobanimelist.png"
+                                src="/image/bobanimelist.png"
                                 alt="BobAnimeList"
                                 className="w-full h-full object-contain drop-shadow-[0_0_8px_rgba(255,255,255,0.2)]"
                             />
@@ -234,7 +234,7 @@ const Navbar = () => {
                             className="flex items-center gap-2 px-4 py-2 bg-white/5 backdrop-blur-md rounded-xl text-gray-200 hover:text-white font-bold transition-all shadow-xl shadow-black/20 border border-white/5 active:scale-95 group"
                         >
                             <ChevronLeft size={20} className="group-hover:-translate-x-1 transition-transform duration-300" />
-                        
+
                         </button>
 
                         {/* History Icon (Top Right of Sidebar) */}
@@ -295,7 +295,7 @@ const Navbar = () => {
                             >
                                 <div className="w-20 h-20 flex items-center justify-center bg-white/5 rounded-2xl p-3 border border-white/10 group-hover:scale-105 transition-transform duration-300 shadow-xl">
                                     <img
-                                        src="/dhexstream/public/image/bobanimelist.png"
+                                        src="/image/bobanimelist.png"
                                         alt="BobAnimeList"
                                         className="w-full h-full object-contain"
                                     />
@@ -312,7 +312,7 @@ const Navbar = () => {
                             >
                                 <div className="w-12 h-12 flex items-center justify-center transition-transform group-hover:scale-110">
                                     <img
-                                        src="/dhexstream/public/image/logo.png"
+                                        src="/image/logo.png"
                                         alt="DHEX Logo"
                                         className="w-full h-full object-contain opacity-80 group-hover:opacity-100"
                                     />

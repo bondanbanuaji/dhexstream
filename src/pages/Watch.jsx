@@ -36,7 +36,8 @@ const Watch = () => {
 
                 // Determine base URL based on environment
                 let baseUrl = '';
-                if (window.location.hostname === 'localhost') {
+                // Check if we're in dev mode (URL contains /dhexstream/) or production
+                if (window.location.pathname.includes('/dhexstream/')) {
                     baseUrl = '/dhexstream/api/index.php';
                 } else {
                     baseUrl = '/api/index.php';
@@ -71,7 +72,7 @@ const Watch = () => {
         setIsChangingServer(true);
         setCurrentServer(serverId);
         try {
-            const baseUrl = window.location.hostname === 'localhost' ? '/dhexstream/api/index.php' : '/api/index.php';
+            const baseUrl = window.location.pathname.includes('/dhexstream/') ? '/dhexstream/api/index.php' : '/api/index.php';
             const response = await fetch(`${baseUrl}?endpoint=server&server_id=${serverId}`);
             const json = await response.json();
             if (json && json.data && json.data.url) {
